@@ -12,16 +12,18 @@ and reformat it to allow automatic import to MT routers. This is automated proce
 ## How to run this on MT
 Run following to your MT device with not less that 7d schedule (sources are not updated more frequently anyway):  
 
-Download script:  
-`/tool fetch url="https://raw.githubusercontent.com/pwlgrzs/Mikrotik-Blacklist/master/blacklist.rsc" mode=https`  
-Install script:  
-`/ip firewall address-list remove [find where list="pwlgrzs-blacklist"]; /import file-name=blacklist.rsc`
+Download script:
+`/system script add name="pwlgrzs-blacklist-dl" source={/tool fetch url="https://raw.githubusercontent.com/pwlgrzs/Mikrotik-Blacklist/master/blacklist.rsc" mode=https}`
+Update script:
+`/system script add name="pwlgrzs-blacklist-replace" source {/ip firewall address-list remove [find where list="pwlgrzs-blacklist"]; /import file-name=blacklist.rsc}`
+Download schedule:
+`/system scheduler add interval=7d name="dl-mt-blacklist" start-date=Jan/01/2000 start-time=00:05:00 on-event=pwlgrzs-blacklist-dl`
+Update schedule:
+`/system scheduler add interval=7d name="ins-mt-blacklist" start-date=Jan/01/2000 start-time=00:10:00 on-event=pwlgrzs-blacklist-replace`
 
 You'll also need firewall rule:  
-`/ip firewall filter add chain=input action=drop connection-state=new src-address-list=pwlgrzs-blacklist in-interface=IFNAME`  
+`/ip firewall raw add chain=prerouting action=drop src-address-list=pwlgrzs-blacklist in-interface=IFNAME`  
 *Note: Replace IFNAME in-interface name with one you have configured*
-
-Check out more detailed instructions [here](https://pawelgrzes.pl/security/mikrotik-blocking-unwanted-connections-with-external-ip-list/).
 
 You can also import install.rsc file, it will do all of above for you.  
 Upload to MT and run `/import file-name=install.rsc` in terminal. You still need to manually add firewall rule.
