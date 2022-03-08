@@ -13,7 +13,7 @@ and reformat it to allow automatic import to MT routers. This is automated proce
 Run following to your MT device with not less that 7d schedule (sources are not updated more frequently anyway):  
 
 Download script:
-`/system script add name="pwlgrzs-blacklist-dl" source={/tool fetch url="https://raw.githubusercontent.com/pwlgrzs/Mikrotik-Blacklist/master/blacklist.rsc" mode=https}`
+`/system script add name="pwlgrzs-blacklist-dl" source={/tool fetch url="https://raw.githubusercontent.com/jstrahle/Mikrotik-Blacklist/master/blacklist.rsc" mode=https}`
 
 Update script:
 `/system script add name="pwlgrzs-blacklist-replace" source {/ip firewall address-list remove [find where list="pwlgrzs-blacklist"]; /import file-name=blacklist.rsc}`
