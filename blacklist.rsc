@@ -1,4 +1,4 @@
-# Generated at Sat 28 May 2022 06:57:48 PM UTC
+# Generated at Sat 28 May 2022 09:58:53 PM UTC
 /ip firewall address-list
 add list=pwlgrzs-blacklist address=100.1.108.246
 add list=pwlgrzs-blacklist address=100.15.28.133
@@ -20,7 +20,6 @@ add list=pwlgrzs-blacklist address=101.227.82.60
 add list=pwlgrzs-blacklist address=101.231.146.34
 add list=pwlgrzs-blacklist address=101.231.146.36
 add list=pwlgrzs-blacklist address=101.236.60.31
-add list=pwlgrzs-blacklist address=101.24.145.201
 add list=pwlgrzs-blacklist address=101.248.0.0/15
 add list=pwlgrzs-blacklist address=101.251.197.238
 add list=pwlgrzs-blacklist address=101.251.207.228
@@ -53,7 +52,6 @@ add list=pwlgrzs-blacklist address=101.34.206.40
 add list=pwlgrzs-blacklist address=101.34.22.39
 add list=pwlgrzs-blacklist address=101.34.74.188
 add list=pwlgrzs-blacklist address=101.35.126.190
-add list=pwlgrzs-blacklist address=101.35.139.20
 add list=pwlgrzs-blacklist address=101.35.202.204
 add list=pwlgrzs-blacklist address=101.35.55.139
 add list=pwlgrzs-blacklist address=101.36.114.98
@@ -66,11 +64,12 @@ add list=pwlgrzs-blacklist address=101.36.151.139
 add list=pwlgrzs-blacklist address=101.36.151.78
 add list=pwlgrzs-blacklist address=101.36.178.48
 add list=pwlgrzs-blacklist address=101.36.179.63
-add list=pwlgrzs-blacklist address=101.36.181.142
 add list=pwlgrzs-blacklist address=101.43.159.25
 add list=pwlgrzs-blacklist address=101.43.35.74
 add list=pwlgrzs-blacklist address=101.43.49.111
 add list=pwlgrzs-blacklist address=101.51.231.200
+add list=pwlgrzs-blacklist address=101.51.33.90
+add list=pwlgrzs-blacklist address=101.51.36.25
 add list=pwlgrzs-blacklist address=101.51.44.2
 add list=pwlgrzs-blacklist address=101.51.76.46
 add list=pwlgrzs-blacklist address=101.58.107.178
@@ -80,12 +79,13 @@ add list=pwlgrzs-blacklist address=101.68.211.2
 add list=pwlgrzs-blacklist address=101.68.211.3
 add list=pwlgrzs-blacklist address=101.74.83.191
 add list=pwlgrzs-blacklist address=101.78.129.11
+add list=pwlgrzs-blacklist address=101.87.111.89
 add list=pwlgrzs-blacklist address=101.88.62.51
 add list=pwlgrzs-blacklist address=101.89.89.69
 add list=pwlgrzs-blacklist address=101.91.127.189
 add list=pwlgrzs-blacklist address=101.93.168.101
 add list=pwlgrzs-blacklist address=101.99.20.59
-add list=pwlgrzs-blacklist address=102.118.26.29
+add list=pwlgrzs-blacklist address=102.118.126.134
 add list=pwlgrzs-blacklist address=102.118.77.15
 add list=pwlgrzs-blacklist address=102.130.113.9
 add list=pwlgrzs-blacklist address=102.165.48.50
@@ -127,6 +127,7 @@ add list=pwlgrzs-blacklist address=103.109.193.210
 add list=pwlgrzs-blacklist address=103.109.247.10
 add list=pwlgrzs-blacklist address=103.109.247.13
 add list=pwlgrzs-blacklist address=103.109.247.8
+add list=pwlgrzs-blacklist address=103.109.30.30
 add list=pwlgrzs-blacklist address=103.110.177.27
 add list=pwlgrzs-blacklist address=103.110.192.34
 add list=pwlgrzs-blacklist address=103.110.236.4
@@ -138,11 +139,9 @@ add list=pwlgrzs-blacklist address=103.112.54.22
 add list=pwlgrzs-blacklist address=103.113.0.2
 add list=pwlgrzs-blacklist address=103.114.106.131
 add list=pwlgrzs-blacklist address=103.114.107.149
-add list=pwlgrzs-blacklist address=103.114.107.209
 add list=pwlgrzs-blacklist address=103.114.163.120
 add list=pwlgrzs-blacklist address=103.114.163.233
 add list=pwlgrzs-blacklist address=103.114.52.42
-add list=pwlgrzs-blacklist address=103.115.66.36
 add list=pwlgrzs-blacklist address=103.116.104.30
 add list=pwlgrzs-blacklist address=103.116.119.138
 add list=pwlgrzs-blacklist address=103.116.16.173
@@ -195,7 +194,6 @@ add list=pwlgrzs-blacklist address=103.138.54.91
 add list=pwlgrzs-blacklist address=103.138.54.92
 add list=pwlgrzs-blacklist address=103.138.57.116
 add list=pwlgrzs-blacklist address=103.138.57.139
-add list=pwlgrzs-blacklist address=103.138.57.188
 add list=pwlgrzs-blacklist address=103.138.71.242
 add list=pwlgrzs-blacklist address=103.138.75.72
 add list=pwlgrzs-blacklist address=103.139.243.207
@@ -251,6 +249,7 @@ add list=pwlgrzs-blacklist address=103.156.242.163
 add list=pwlgrzs-blacklist address=103.157.81.203
 add list=pwlgrzs-blacklist address=103.158.212.114
 add list=pwlgrzs-blacklist address=103.159.175.130
+add list=pwlgrzs-blacklist address=103.162.178.42
 add list=pwlgrzs-blacklist address=103.162.216.38
 add list=pwlgrzs-blacklist address=103.162.98.59
 add list=pwlgrzs-blacklist address=103.164.160.66
@@ -360,7 +359,6 @@ add list=pwlgrzs-blacklist address=103.236.201.88
 add list=pwlgrzs-blacklist address=103.236.253.29
 add list=pwlgrzs-blacklist address=103.236.253.86
 add list=pwlgrzs-blacklist address=103.236.32.0/22
-add list=pwlgrzs-blacklist address=103.237.58.53
 add list=pwlgrzs-blacklist address=103.23.8.0/22
 add list=pwlgrzs-blacklist address=103.239.56.0/22
 add list=pwlgrzs-blacklist address=103.240.100.22
@@ -377,7 +375,6 @@ add list=pwlgrzs-blacklist address=103.246.240.28
 add list=pwlgrzs-blacklist address=103.246.240.30
 add list=pwlgrzs-blacklist address=103.246.242.202
 add list=pwlgrzs-blacklist address=103.248.25.99
-add list=pwlgrzs-blacklist address=103.249.239.238
 add list=pwlgrzs-blacklist address=103.249.77.2
 add list=pwlgrzs-blacklist address=103.251.167.10
 add list=pwlgrzs-blacklist address=103.251.168.71
@@ -409,6 +406,7 @@ add list=pwlgrzs-blacklist address=103.34.0.0/16
 add list=pwlgrzs-blacklist address=103.36.100.81
 add list=pwlgrzs-blacklist address=103.36.122.131
 add list=pwlgrzs-blacklist address=103.36.64.0/22
+add list=pwlgrzs-blacklist address=103.37.17.31
 add list=pwlgrzs-blacklist address=103.37.83.26
 add list=pwlgrzs-blacklist address=103.38.4.238
 add list=pwlgrzs-blacklist address=103.39.29.138
@@ -485,6 +483,7 @@ add list=pwlgrzs-blacklist address=103.89.91.179
 add list=pwlgrzs-blacklist address=103.90.177.102
 add list=pwlgrzs-blacklist address=103.90.226.179
 add list=pwlgrzs-blacklist address=103.90.227.126
+add list=pwlgrzs-blacklist address=103.90.232.106
 add list=pwlgrzs-blacklist address=103.90.64.253
 add list=pwlgrzs-blacklist address=103.90.68.3
 add list=pwlgrzs-blacklist address=103.9.159.153
@@ -496,6 +495,7 @@ add list=pwlgrzs-blacklist address=103.92.101.115
 add list=pwlgrzs-blacklist address=103.92.24.242
 add list=pwlgrzs-blacklist address=103.92.24.245
 add list=pwlgrzs-blacklist address=103.92.26.252
+add list=pwlgrzs-blacklist address=103.92.37.107
 add list=pwlgrzs-blacklist address=103.93.201.48
 add list=pwlgrzs-blacklist address=103.93.201.58
 add list=pwlgrzs-blacklist address=103.9.36.172
@@ -565,11 +565,12 @@ add list=pwlgrzs-blacklist address=104.194.75.112
 add list=pwlgrzs-blacklist address=104.199.35.3
 add list=pwlgrzs-blacklist address=104.20.22.42
 add list=pwlgrzs-blacklist address=104.206.128.26
+add list=pwlgrzs-blacklist address=104.206.128.34
 add list=pwlgrzs-blacklist address=104.206.128.42
+add list=pwlgrzs-blacklist address=104.206.128.50
 add list=pwlgrzs-blacklist address=104.206.128.74
 add list=pwlgrzs-blacklist address=104.208.107.231
 add list=pwlgrzs-blacklist address=104.208.108.164
-add list=pwlgrzs-blacklist address=104.208.114.29
 add list=pwlgrzs-blacklist address=104.208.77.218
 add list=pwlgrzs-blacklist address=104.209.150.176
 add list=pwlgrzs-blacklist address=104.211.211.183
@@ -597,7 +598,6 @@ add list=pwlgrzs-blacklist address=104.236.43.5
 add list=pwlgrzs-blacklist address=104.236.49.215
 add list=pwlgrzs-blacklist address=104.236.52.94
 add list=pwlgrzs-blacklist address=104.243.192.0/20
-add list=pwlgrzs-blacklist address=104.244.108.67
 add list=pwlgrzs-blacklist address=104.244.72.115
 add list=pwlgrzs-blacklist address=104.244.72.120
 add list=pwlgrzs-blacklist address=104.244.72.123
@@ -661,6 +661,7 @@ add list=pwlgrzs-blacklist address=104.248.141.166
 add list=pwlgrzs-blacklist address=104.248.143.92
 add list=pwlgrzs-blacklist address=104.248.146.6
 add list=pwlgrzs-blacklist address=104.248.147.69
+add list=pwlgrzs-blacklist address=104.248.15.201
 add list=pwlgrzs-blacklist address=104.248.155.133
 add list=pwlgrzs-blacklist address=104.248.155.136
 add list=pwlgrzs-blacklist address=104.248.159.207
@@ -858,6 +859,7 @@ add list=pwlgrzs-blacklist address=106.75.247.151
 add list=pwlgrzs-blacklist address=106.75.249.97
 add list=pwlgrzs-blacklist address=106.75.251.164
 add list=pwlgrzs-blacklist address=106.75.25.168
+add list=pwlgrzs-blacklist address=106.75.27.195
 add list=pwlgrzs-blacklist address=106.75.59.100
 add list=pwlgrzs-blacklist address=106.75.60.111
 add list=pwlgrzs-blacklist address=106.75.70.97
@@ -882,6 +884,7 @@ add list=pwlgrzs-blacklist address=107.170.64.97
 add list=pwlgrzs-blacklist address=107.170.76.103
 add list=pwlgrzs-blacklist address=107.170.76.170
 add list=pwlgrzs-blacklist address=107.172.77.253
+add list=pwlgrzs-blacklist address=107.172.79.73
 add list=pwlgrzs-blacklist address=107.172.8.36
 add list=pwlgrzs-blacklist address=107.172.90.152
 add list=pwlgrzs-blacklist address=107.173.111.206
@@ -889,7 +892,6 @@ add list=pwlgrzs-blacklist address=107.173.146.242
 add list=pwlgrzs-blacklist address=107.173.156.9
 add list=pwlgrzs-blacklist address=107.173.165.214
 add list=pwlgrzs-blacklist address=107.173.209.238
-add list=pwlgrzs-blacklist address=107.174.138.172
 add list=pwlgrzs-blacklist address=107.174.142.112
 add list=pwlgrzs-blacklist address=107.174.204.72
 add list=pwlgrzs-blacklist address=107.174.218.141
@@ -929,6 +931,7 @@ add list=pwlgrzs-blacklist address=107.189.13.172
 add list=pwlgrzs-blacklist address=107.189.13.251
 add list=pwlgrzs-blacklist address=107.189.13.254
 add list=pwlgrzs-blacklist address=107.189.13.77
+add list=pwlgrzs-blacklist address=107.189.13.79
 add list=pwlgrzs-blacklist address=107.189.13.91
 add list=pwlgrzs-blacklist address=107.189.14.106
 add list=pwlgrzs-blacklist address=107.189.14.123
@@ -966,7 +969,6 @@ add list=pwlgrzs-blacklist address=107.189.4.253
 add list=pwlgrzs-blacklist address=107.189.5.184
 add list=pwlgrzs-blacklist address=107.189.5.206
 add list=pwlgrzs-blacklist address=107.189.5.248
-add list=pwlgrzs-blacklist address=107.189.5.249
 add list=pwlgrzs-blacklist address=107.189.5.5
 add list=pwlgrzs-blacklist address=107.189.5.68
 add list=pwlgrzs-blacklist address=107.189.6.61
@@ -979,6 +981,7 @@ add list=pwlgrzs-blacklist address=107.189.8.201
 add list=pwlgrzs-blacklist address=107.189.8.33
 add list=pwlgrzs-blacklist address=107.194.218.178
 add list=pwlgrzs-blacklist address=107.2.239.240
+add list=pwlgrzs-blacklist address=107.7.103.194
 add list=pwlgrzs-blacklist address=107.7.103.195
 add list=pwlgrzs-blacklist address=108.162.28.6
 add list=pwlgrzs-blacklist address=108.1.64.208
@@ -3080,7 +3083,6 @@ add list=pwlgrzs-blacklist address=109.255.96.44
 add list=pwlgrzs-blacklist address=109.25.75.6
 add list=pwlgrzs-blacklist address=109.42.176.125
 add list=pwlgrzs-blacklist address=109.42.177.49
-add list=pwlgrzs-blacklist address=109.42.179.115
 add list=pwlgrzs-blacklist address=109.42.179.21
 add list=pwlgrzs-blacklist address=109.42.179.69
 add list=pwlgrzs-blacklist address=109.43.242.123
@@ -3131,19 +3133,18 @@ add list=pwlgrzs-blacklist address=1.10.16.0/20
 add list=pwlgrzs-blacklist address=110.164.89.39
 add list=pwlgrzs-blacklist address=110.166.75.105
 add list=pwlgrzs-blacklist address=110.167.168.154
+add list=pwlgrzs-blacklist address=110.170.117.113
 add list=pwlgrzs-blacklist address=110.170.190.147
 add list=pwlgrzs-blacklist address=110.172.137.20
 add list=pwlgrzs-blacklist address=110.185.125.121
 add list=pwlgrzs-blacklist address=110.185.125.86
 add list=pwlgrzs-blacklist address=110.185.174.154
 add list=pwlgrzs-blacklist address=110.227.253.126
-add list=pwlgrzs-blacklist address=110.227.254.52
 add list=pwlgrzs-blacklist address=110.242.49.235
 add list=pwlgrzs-blacklist address=110.255.140.134
 add list=pwlgrzs-blacklist address=110.25.99.32
 add list=pwlgrzs-blacklist address=110.25.99.91
 add list=pwlgrzs-blacklist address=110.35.173.103
-add list=pwlgrzs-blacklist address=110.38.131.246
 add list=pwlgrzs-blacklist address=110.39.55.194
 add list=pwlgrzs-blacklist address=110.40.210.122
 add list=pwlgrzs-blacklist address=110.41.0.0/16
@@ -3165,6 +3166,7 @@ add list=pwlgrzs-blacklist address=111.13.102.171
 add list=pwlgrzs-blacklist address=111.13.102.195
 add list=pwlgrzs-blacklist address=111.132.7.174
 add list=pwlgrzs-blacklist address=111.161.41.156
+add list=pwlgrzs-blacklist address=111.161.65.110
 add list=pwlgrzs-blacklist address=111.161.65.76
 add list=pwlgrzs-blacklist address=111.170.12.225
 add list=pwlgrzs-blacklist address=111.172.7.124
@@ -3215,10 +3217,12 @@ add list=pwlgrzs-blacklist address=111.67.201.66
 add list=pwlgrzs-blacklist address=111.67.207.224
 add list=pwlgrzs-blacklist address=111.67.50.227
 add list=pwlgrzs-blacklist address=111.67.53.7
+add list=pwlgrzs-blacklist address=1.116.8.40
 add list=pwlgrzs-blacklist address=111.70.12.111
 add list=pwlgrzs-blacklist address=111.70.13.54
-add list=pwlgrzs-blacklist address=111.70.15.212
 add list=pwlgrzs-blacklist address=111.70.15.77
+add list=pwlgrzs-blacklist address=111.70.15.79
+add list=pwlgrzs-blacklist address=111.70.16.231
 add list=pwlgrzs-blacklist address=111.70.16.62
 add list=pwlgrzs-blacklist address=111.70.17.111
 add list=pwlgrzs-blacklist address=111.70.17.165
@@ -3253,17 +3257,14 @@ add list=pwlgrzs-blacklist address=112.11.241.139
 add list=pwlgrzs-blacklist address=112.116.155.205
 add list=pwlgrzs-blacklist address=112.120.82.77
 add list=pwlgrzs-blacklist address=112.124.35.13
-add list=pwlgrzs-blacklist address=112.1.25.118
 add list=pwlgrzs-blacklist address=112.132.249.164
 add list=pwlgrzs-blacklist address=112.133.220.50
 add list=pwlgrzs-blacklist address=112.133.244.185
-add list=pwlgrzs-blacklist address=112.137.132.89
 add list=pwlgrzs-blacklist address=112.137.140.40
 add list=pwlgrzs-blacklist address=112.149.96.2
 add list=pwlgrzs-blacklist address=112.159.82.110
 add list=pwlgrzs-blacklist address=112.160.22.201
 add list=pwlgrzs-blacklist address=112.166.144.105
-add list=pwlgrzs-blacklist address=112.166.160.230
 add list=pwlgrzs-blacklist address=112.167.233.14
 add list=pwlgrzs-blacklist address=112.170.122.189
 add list=pwlgrzs-blacklist address=112.186.152.148
@@ -3310,10 +3311,17 @@ add list=pwlgrzs-blacklist address=112.91.138.13
 add list=pwlgrzs-blacklist address=112.91.138.25
 add list=pwlgrzs-blacklist address=112.94.14.53
 add list=pwlgrzs-blacklist address=113.101.253.194
+add list=pwlgrzs-blacklist address=113.102.204.12
 add list=pwlgrzs-blacklist address=113.102.204.220
+add list=pwlgrzs-blacklist address=113.102.204.40
 add list=pwlgrzs-blacklist address=113.102.205.10
+add list=pwlgrzs-blacklist address=113.102.205.116
+add list=pwlgrzs-blacklist address=113.102.205.120
+add list=pwlgrzs-blacklist address=113.102.205.244
 add list=pwlgrzs-blacklist address=113.102.205.45
 add list=pwlgrzs-blacklist address=113.102.206.24
+add list=pwlgrzs-blacklist address=113.102.206.36
+add list=pwlgrzs-blacklist address=113.102.206.5
 add list=pwlgrzs-blacklist address=113.102.207.185
 add list=pwlgrzs-blacklist address=113.105.112.206
 add list=pwlgrzs-blacklist address=113.108.144.34
@@ -3335,6 +3343,7 @@ add list=pwlgrzs-blacklist address=113.161.37.216
 add list=pwlgrzs-blacklist address=113.161.48.199
 add list=pwlgrzs-blacklist address=113.164.176.132
 add list=pwlgrzs-blacklist address=113.164.243.90
+add list=pwlgrzs-blacklist address=113.17.185.242
 add list=pwlgrzs-blacklist address=113.172.15.47
 add list=pwlgrzs-blacklist address=113.173.130.153
 add list=pwlgrzs-blacklist address=113.173.247.63
@@ -4013,12 +4022,12 @@ add list=pwlgrzs-blacklist address=114.80.55.163
 add list=pwlgrzs-blacklist address=114.80.85.75
 add list=pwlgrzs-blacklist address=114.84.209.48
 add list=pwlgrzs-blacklist address=114.84.75.45
+add list=pwlgrzs-blacklist address=114.86.133.165
 add list=pwlgrzs-blacklist address=114.86.207.9
 add list=pwlgrzs-blacklist address=114.86.220.153
 add list=pwlgrzs-blacklist address=114.86.224.134
 add list=pwlgrzs-blacklist address=114.88.41.167
 add list=pwlgrzs-blacklist address=114.88.94.65
-add list=pwlgrzs-blacklist address=114.92.207.29
 add list=pwlgrzs-blacklist address=114.92.241.179
 add list=pwlgrzs-blacklist address=114.98.235.230
 add list=pwlgrzs-blacklist address=114.99.0.172
@@ -4028,6 +4037,7 @@ add list=pwlgrzs-blacklist address=114.99.10.54
 add list=pwlgrzs-blacklist address=114.99.14.184
 add list=pwlgrzs-blacklist address=114.99.15.218
 add list=pwlgrzs-blacklist address=114.99.18.225
+add list=pwlgrzs-blacklist address=114.99.2.165
 add list=pwlgrzs-blacklist address=114.99.2.175
 add list=pwlgrzs-blacklist address=114.99.233.143
 add list=pwlgrzs-blacklist address=114.99.7.79
@@ -4061,12 +4071,13 @@ add list=pwlgrzs-blacklist address=115.238.88.130
 add list=pwlgrzs-blacklist address=115.238.94.18
 add list=pwlgrzs-blacklist address=115.239.173.170
 add list=pwlgrzs-blacklist address=115.240.15.226
+add list=pwlgrzs-blacklist address=115.240.206.194
 add list=pwlgrzs-blacklist address=115.240.206.206
 add list=pwlgrzs-blacklist address=115.248.153.89
 add list=pwlgrzs-blacklist address=115.248.4.85
 add list=pwlgrzs-blacklist address=1.15.251.60
 add list=pwlgrzs-blacklist address=115.45.64.175
-add list=pwlgrzs-blacklist address=115.56.236.90
+add list=pwlgrzs-blacklist address=115.55.114.233
 add list=pwlgrzs-blacklist address=115.68.220.77
 add list=pwlgrzs-blacklist address=115.71.239.145
 add list=pwlgrzs-blacklist address=115.73.209.70
@@ -4080,6 +4091,7 @@ add list=pwlgrzs-blacklist address=115.78.73.226
 add list=pwlgrzs-blacklist address=115.78.96.99
 add list=pwlgrzs-blacklist address=115.84.112.138
 add list=pwlgrzs-blacklist address=115.84.91.192
+add list=pwlgrzs-blacklist address=115.84.92.198
 add list=pwlgrzs-blacklist address=115.85.53.91
 add list=pwlgrzs-blacklist address=115.88.38.58
 add list=pwlgrzs-blacklist address=115.90.237.51
@@ -4097,7 +4109,6 @@ add list=pwlgrzs-blacklist address=116.105.23.33
 add list=pwlgrzs-blacklist address=116.105.73.118
 add list=pwlgrzs-blacklist address=116.105.76.162
 add list=pwlgrzs-blacklist address=116.105.76.225
-add list=pwlgrzs-blacklist address=116.105.77.232
 add list=pwlgrzs-blacklist address=116.106.183.172
 add list=pwlgrzs-blacklist address=1.161.100.47
 add list=pwlgrzs-blacklist address=116.110.11.41
@@ -4106,7 +4117,6 @@ add list=pwlgrzs-blacklist address=116.110.218.178
 add list=pwlgrzs-blacklist address=116.110.28.27
 add list=pwlgrzs-blacklist address=1.161.104.149
 add list=pwlgrzs-blacklist address=1.161.104.31
-add list=pwlgrzs-blacklist address=116.110.78.223
 add list=pwlgrzs-blacklist address=116.110.88.188
 add list=pwlgrzs-blacklist address=116.110.92.78
 add list=pwlgrzs-blacklist address=116.112.212.107
@@ -4166,7 +4176,6 @@ add list=pwlgrzs-blacklist address=116.202.138.44
 add list=pwlgrzs-blacklist address=116.202.8.92
 add list=pwlgrzs-blacklist address=116.203.176.43
 add list=pwlgrzs-blacklist address=116.203.227.196
-add list=pwlgrzs-blacklist address=116.21.153.99
 add list=pwlgrzs-blacklist address=116.212.107.18
 add list=pwlgrzs-blacklist address=116.227.20.169
 add list=pwlgrzs-blacklist address=116.227.20.184
@@ -4179,7 +4188,6 @@ add list=pwlgrzs-blacklist address=116.232.180.30
 add list=pwlgrzs-blacklist address=116.233.200.104
 add list=pwlgrzs-blacklist address=116.233.95.182
 add list=pwlgrzs-blacklist address=116.235.34.123
-add list=pwlgrzs-blacklist address=116.236.115.171
 add list=pwlgrzs-blacklist address=116.236.243.130
 add list=pwlgrzs-blacklist address=116.237.254.204
 add list=pwlgrzs-blacklist address=116.238.216.169
@@ -4189,6 +4197,7 @@ add list=pwlgrzs-blacklist address=116.48.145.186
 add list=pwlgrzs-blacklist address=116.49.56.129
 add list=pwlgrzs-blacklist address=116.50.221.83
 add list=pwlgrzs-blacklist address=116.50.42.21
+add list=pwlgrzs-blacklist address=116.52.108.172
 add list=pwlgrzs-blacklist address=116.52.129.102
 add list=pwlgrzs-blacklist address=116.52.144.172
 add list=pwlgrzs-blacklist address=116.55.241.80
@@ -4197,12 +4206,14 @@ add list=pwlgrzs-blacklist address=116.59.25.201
 add list=pwlgrzs-blacklist address=116.59.25.246
 add list=pwlgrzs-blacklist address=116.6.137.23
 add list=pwlgrzs-blacklist address=116.62.108.127
+add list=pwlgrzs-blacklist address=116.62.155.4
 add list=pwlgrzs-blacklist address=116.62.244.48
 add list=pwlgrzs-blacklist address=116.63.147.5
 add list=pwlgrzs-blacklist address=116.72.9.72
 add list=pwlgrzs-blacklist address=116.76.20.158
 add list=pwlgrzs-blacklist address=116.79.0.0/16
 add list=pwlgrzs-blacklist address=116.86.105.45
+add list=pwlgrzs-blacklist address=116.88.227.217
 add list=pwlgrzs-blacklist address=116.90.238.17
 add list=pwlgrzs-blacklist address=116.92.213.114
 add list=pwlgrzs-blacklist address=116.95.32.99
@@ -4213,6 +4224,7 @@ add list=pwlgrzs-blacklist address=117.103.158.245
 add list=pwlgrzs-blacklist address=117.103.2.146
 add list=pwlgrzs-blacklist address=117.111.1.1
 add list=pwlgrzs-blacklist address=117.111.1.103
+add list=pwlgrzs-blacklist address=117.111.1.106
 add list=pwlgrzs-blacklist address=117.111.1.110
 add list=pwlgrzs-blacklist address=117.111.1.115
 add list=pwlgrzs-blacklist address=117.111.1.116
@@ -4221,7 +4233,6 @@ add list=pwlgrzs-blacklist address=117.111.1.13
 add list=pwlgrzs-blacklist address=117.111.1.135
 add list=pwlgrzs-blacklist address=117.111.1.136
 add list=pwlgrzs-blacklist address=117.111.1.138
-add list=pwlgrzs-blacklist address=117.111.1.139
 add list=pwlgrzs-blacklist address=117.111.1.140
 add list=pwlgrzs-blacklist address=117.111.1.141
 add list=pwlgrzs-blacklist address=117.111.1.142
@@ -4233,7 +4244,6 @@ add list=pwlgrzs-blacklist address=117.111.1.153
 add list=pwlgrzs-blacklist address=117.111.1.156
 add list=pwlgrzs-blacklist address=117.111.1.157
 add list=pwlgrzs-blacklist address=117.111.1.158
-add list=pwlgrzs-blacklist address=117.111.1.16
 add list=pwlgrzs-blacklist address=117.111.1.161
 add list=pwlgrzs-blacklist address=117.111.1.164
 add list=pwlgrzs-blacklist address=117.111.1.166
@@ -4274,7 +4284,6 @@ add list=pwlgrzs-blacklist address=117.111.1.39
 add list=pwlgrzs-blacklist address=117.111.1.4
 add list=pwlgrzs-blacklist address=117.111.1.41
 add list=pwlgrzs-blacklist address=117.111.14.164
-add list=pwlgrzs-blacklist address=117.111.1.43
 add list=pwlgrzs-blacklist address=117.111.1.44
 add list=pwlgrzs-blacklist address=117.111.1.45
 add list=pwlgrzs-blacklist address=117.111.1.49
@@ -4294,7 +4303,6 @@ add list=pwlgrzs-blacklist address=117.111.1.79
 add list=pwlgrzs-blacklist address=117.111.1.85
 add list=pwlgrzs-blacklist address=117.111.1.86
 add list=pwlgrzs-blacklist address=117.111.1.87
-add list=pwlgrzs-blacklist address=117.111.1.96
 add list=pwlgrzs-blacklist address=117.111.1.97
 add list=pwlgrzs-blacklist address=117.111.1.99
 add list=pwlgrzs-blacklist address=117.111.2.113
@@ -4313,7 +4321,6 @@ add list=pwlgrzs-blacklist address=117.158.179.29
 add list=pwlgrzs-blacklist address=117.161.75.116
 add list=pwlgrzs-blacklist address=117.161.75.117
 add list=pwlgrzs-blacklist address=117.174.121.39
-add list=pwlgrzs-blacklist address=117.174.25.86
 add list=pwlgrzs-blacklist address=117.184.107.110
 add list=pwlgrzs-blacklist address=117.184.199.39
 add list=pwlgrzs-blacklist address=117.184.59.38
@@ -4324,10 +4331,8 @@ add list=pwlgrzs-blacklist address=117.197.12.61
 add list=pwlgrzs-blacklist address=117.199.160.167
 add list=pwlgrzs-blacklist address=117.199.201.239
 add list=pwlgrzs-blacklist address=117.199.201.7
-add list=pwlgrzs-blacklist address=117.202.18.5
 add list=pwlgrzs-blacklist address=117.203.18.45
 add list=pwlgrzs-blacklist address=117.209.114.169
-add list=pwlgrzs-blacklist address=117.2.105.172
 add list=pwlgrzs-blacklist address=117.211.126.230
 add list=pwlgrzs-blacklist address=117.211.74.161
 add list=pwlgrzs-blacklist address=117.215.242.255
@@ -4456,6 +4461,7 @@ add list=pwlgrzs-blacklist address=118.212.146.42
 add list=pwlgrzs-blacklist address=118.212.146.43
 add list=pwlgrzs-blacklist address=118.212.146.44
 add list=pwlgrzs-blacklist address=118.216.171.224
+add list=pwlgrzs-blacklist address=118.218.123.234
 add list=pwlgrzs-blacklist address=118.223.214.135
 add list=pwlgrzs-blacklist address=118.232.120.173
 add list=pwlgrzs-blacklist address=118.26.64.246
@@ -4481,7 +4487,7 @@ add list=pwlgrzs-blacklist address=118.40.248.20
 add list=pwlgrzs-blacklist address=118.41.204.18
 add list=pwlgrzs-blacklist address=118.41.204.67
 add list=pwlgrzs-blacklist address=118.41.204.68
-add list=pwlgrzs-blacklist address=118.41.204.72
+add list=pwlgrzs-blacklist address=118.41.204.80
 add list=pwlgrzs-blacklist address=118.41.204.91
 add list=pwlgrzs-blacklist address=118.43.187.23
 add list=pwlgrzs-blacklist address=118.45.205.44
@@ -4504,6 +4510,7 @@ add list=pwlgrzs-blacklist address=118.70.222.89
 add list=pwlgrzs-blacklist address=118.70.233.163
 add list=pwlgrzs-blacklist address=118.70.72.103
 add list=pwlgrzs-blacklist address=118.70.74.172
+add list=pwlgrzs-blacklist address=118.70.81.241
 add list=pwlgrzs-blacklist address=118.89.164.55
 add list=pwlgrzs-blacklist address=118.89.230.188
 add list=pwlgrzs-blacklist address=118.89.66.102
@@ -4564,11 +4571,13 @@ add list=pwlgrzs-blacklist address=119.6.89.224
 add list=pwlgrzs-blacklist address=119.71.124.58
 add list=pwlgrzs-blacklist address=119.82.135.226
 add list=pwlgrzs-blacklist address=119.82.135.65
+add list=pwlgrzs-blacklist address=119.82.226.235
 add list=pwlgrzs-blacklist address=119.82.239.178
 add list=pwlgrzs-blacklist address=119.91.203.107
 add list=pwlgrzs-blacklist address=119.92.70.82
 add list=pwlgrzs-blacklist address=119.95.226.116
 add list=pwlgrzs-blacklist address=119.96.175.9
+add list=pwlgrzs-blacklist address=119.96.231.6
 add list=pwlgrzs-blacklist address=119.97.252.154
 add list=pwlgrzs-blacklist address=120.128.128.0/17
 add list=pwlgrzs-blacklist address=120.128.192.0/18
@@ -4585,9 +4594,12 @@ add list=pwlgrzs-blacklist address=120.195.13.66
 add list=pwlgrzs-blacklist address=120.197.62.18
 add list=pwlgrzs-blacklist address=120.202.27.64
 add list=pwlgrzs-blacklist address=120.206.230.202
+add list=pwlgrzs-blacklist address=120.207.1.42
 add list=pwlgrzs-blacklist address=120.210.132.250
 add list=pwlgrzs-blacklist address=120.224.163.253
 add list=pwlgrzs-blacklist address=120.235.191.135
+add list=pwlgrzs-blacklist address=120.236.132.186
+add list=pwlgrzs-blacklist address=120.245.140.31
 add list=pwlgrzs-blacklist address=120.253.33.92
 add list=pwlgrzs-blacklist address=1.202.77.126
 add list=pwlgrzs-blacklist address=120.33.137.113
@@ -4664,7 +4676,6 @@ add list=pwlgrzs-blacklist address=121.134.250.35
 add list=pwlgrzs-blacklist address=121.135.77.30
 add list=pwlgrzs-blacklist address=121.135.77.68
 add list=pwlgrzs-blacklist address=121.136.2.87
-add list=pwlgrzs-blacklist address=121.139.40.130
 add list=pwlgrzs-blacklist address=121.140.180.158
 add list=pwlgrzs-blacklist address=121.141.215.35
 add list=pwlgrzs-blacklist address=121.141.215.37
@@ -4694,6 +4705,7 @@ add list=pwlgrzs-blacklist address=121.157.26.226
 add list=pwlgrzs-blacklist address=121.158.79.18
 add list=pwlgrzs-blacklist address=121.159.229.65
 add list=pwlgrzs-blacklist address=121.160.18.239
+add list=pwlgrzs-blacklist address=121.161.166.68
 add list=pwlgrzs-blacklist address=121.161.23.177
 add list=pwlgrzs-blacklist address=121.162.131.223
 add list=pwlgrzs-blacklist address=121.165.140.242
@@ -4702,7 +4714,7 @@ add list=pwlgrzs-blacklist address=121.168.84.188
 add list=pwlgrzs-blacklist address=121.169.150.161
 add list=pwlgrzs-blacklist address=121.169.34.216
 add list=pwlgrzs-blacklist address=121.169.34.24
-add list=pwlgrzs-blacklist address=121.175.175.95
+add list=pwlgrzs-blacklist address=121.170.96.146
 add list=pwlgrzs-blacklist address=121.176.114.226
 add list=pwlgrzs-blacklist address=121.178.241.243
 add list=pwlgrzs-blacklist address=121.180.177.49
@@ -4722,6 +4734,7 @@ add list=pwlgrzs-blacklist address=121.204.183.121
 add list=pwlgrzs-blacklist address=121.204.191.70
 add list=pwlgrzs-blacklist address=121.204.211.81
 add list=pwlgrzs-blacklist address=121.205.58.197
+add list=pwlgrzs-blacklist address=121.206.38.179
 add list=pwlgrzs-blacklist address=121.224.75.157
 add list=pwlgrzs-blacklist address=121.229.45.222
 add list=pwlgrzs-blacklist address=121.22.95.58
@@ -4823,10 +4836,12 @@ add list=pwlgrzs-blacklist address=121.230.63.171
 add list=pwlgrzs-blacklist address=121.230.63.206
 add list=pwlgrzs-blacklist address=121.230.63.225
 add list=pwlgrzs-blacklist address=121.230.63.235
+add list=pwlgrzs-blacklist address=121.230.63.248
 add list=pwlgrzs-blacklist address=121.230.63.25
 add list=pwlgrzs-blacklist address=121.230.63.254
 add list=pwlgrzs-blacklist address=121.230.63.72
 add list=pwlgrzs-blacklist address=121.230.63.96
+add list=pwlgrzs-blacklist address=121.233.13.191
 add list=pwlgrzs-blacklist address=121.234.202.15
 add list=pwlgrzs-blacklist address=121.234.202.151
 add list=pwlgrzs-blacklist address=121.234.202.159
@@ -4834,9 +4849,9 @@ add list=pwlgrzs-blacklist address=121.234.202.229
 add list=pwlgrzs-blacklist address=121.234.202.75
 add list=pwlgrzs-blacklist address=121.235.46.212
 add list=pwlgrzs-blacklist address=121.244.95.61
+add list=pwlgrzs-blacklist address=121.40.238.50
 add list=pwlgrzs-blacklist address=121.4.118.208
 add list=pwlgrzs-blacklist address=121.4.121.147
-add list=pwlgrzs-blacklist address=121.4.122.73
 add list=pwlgrzs-blacklist address=121.4.15.16
 add list=pwlgrzs-blacklist address=121.4.231.178
 add list=pwlgrzs-blacklist address=1.214.245.27
@@ -4874,11 +4889,10 @@ add list=pwlgrzs-blacklist address=1.220.185.149
 add list=pwlgrzs-blacklist address=1.220.59.220
 add list=pwlgrzs-blacklist address=122.10.112.64
 add list=pwlgrzs-blacklist address=122.11.148.34
+add list=pwlgrzs-blacklist address=122.114.18.72
 add list=pwlgrzs-blacklist address=122.117.113.59
-add list=pwlgrzs-blacklist address=122.117.22.122
 add list=pwlgrzs-blacklist address=122.117.32.78
 add list=pwlgrzs-blacklist address=122.117.44.168
-add list=pwlgrzs-blacklist address=122.117.53.1
 add list=pwlgrzs-blacklist address=1.221.23.26
 add list=pwlgrzs-blacklist address=122.129.0.0/18
 add list=pwlgrzs-blacklist address=122.139.116.35
@@ -4910,6 +4924,7 @@ add list=pwlgrzs-blacklist address=122.160.13.231
 add list=pwlgrzs-blacklist address=122.160.135.135
 add list=pwlgrzs-blacklist address=122.160.136.148
 add list=pwlgrzs-blacklist address=122.160.136.150
+add list=pwlgrzs-blacklist address=122.160.137.173
 add list=pwlgrzs-blacklist address=122.160.138.179
 add list=pwlgrzs-blacklist address=122.160.143.223
 add list=pwlgrzs-blacklist address=122.160.144.100
@@ -4919,6 +4934,7 @@ add list=pwlgrzs-blacklist address=122.160.152.172
 add list=pwlgrzs-blacklist address=122.160.154.217
 add list=pwlgrzs-blacklist address=122.160.156.226
 add list=pwlgrzs-blacklist address=122.160.165.188
+add list=pwlgrzs-blacklist address=122.160.166.218
 add list=pwlgrzs-blacklist address=122.160.173.60
 add list=pwlgrzs-blacklist address=122.160.186.162
 add list=pwlgrzs-blacklist address=122.160.197.235
@@ -4941,6 +4957,7 @@ add list=pwlgrzs-blacklist address=122.160.64.214
 add list=pwlgrzs-blacklist address=122.160.66.84
 add list=pwlgrzs-blacklist address=122.160.68.117
 add list=pwlgrzs-blacklist address=122.160.69.176
+add list=pwlgrzs-blacklist address=122.160.69.235
 add list=pwlgrzs-blacklist address=122.160.70.54
 add list=pwlgrzs-blacklist address=122.160.74.251
 add list=pwlgrzs-blacklist address=122.160.77.169
@@ -4995,11 +5012,12 @@ add list=pwlgrzs-blacklist address=122.168.123.101
 add list=pwlgrzs-blacklist address=122.168.123.136
 add list=pwlgrzs-blacklist address=122.168.123.29
 add list=pwlgrzs-blacklist address=122.168.125.16
+add list=pwlgrzs-blacklist address=122.168.125.191
 add list=pwlgrzs-blacklist address=122.168.125.237
 add list=pwlgrzs-blacklist address=122.168.126.113
-add list=pwlgrzs-blacklist address=122.168.126.44
 add list=pwlgrzs-blacklist address=122.168.194.41
 add list=pwlgrzs-blacklist address=122.168.197.126
+add list=pwlgrzs-blacklist address=122.169.101.38
 add list=pwlgrzs-blacklist address=122.169.105.168
 add list=pwlgrzs-blacklist address=122.169.105.195
 add list=pwlgrzs-blacklist address=122.169.108.114
@@ -5017,11 +5035,11 @@ add list=pwlgrzs-blacklist address=122.169.115.192
 add list=pwlgrzs-blacklist address=122.169.117.126
 add list=pwlgrzs-blacklist address=122.169.117.70
 add list=pwlgrzs-blacklist address=122.169.118.120
+add list=pwlgrzs-blacklist address=122.169.118.138
 add list=pwlgrzs-blacklist address=122.169.119.111
 add list=pwlgrzs-blacklist address=122.169.119.130
 add list=pwlgrzs-blacklist address=122.169.119.32
 add list=pwlgrzs-blacklist address=122.169.32.132
-add list=pwlgrzs-blacklist address=122.169.96.100
 add list=pwlgrzs-blacklist address=122.170.0.153
 add list=pwlgrzs-blacklist address=122.170.0.46
 add list=pwlgrzs-blacklist address=122.170.0.70
@@ -5033,9 +5051,9 @@ add list=pwlgrzs-blacklist address=122.170.118.194
 add list=pwlgrzs-blacklist address=122.170.119.242
 add list=pwlgrzs-blacklist address=122.170.12.21
 add list=pwlgrzs-blacklist address=122.170.3.222
-add list=pwlgrzs-blacklist address=122.170.3.241
 add list=pwlgrzs-blacklist address=122.170.4.75
 add list=pwlgrzs-blacklist address=122.170.5.197
+add list=pwlgrzs-blacklist address=122.170.6.116
 add list=pwlgrzs-blacklist address=122.170.6.150
 add list=pwlgrzs-blacklist address=122.170.9.211
 add list=pwlgrzs-blacklist address=122.170.98.13
@@ -5043,12 +5061,15 @@ add list=pwlgrzs-blacklist address=122.170.9.84
 add list=pwlgrzs-blacklist address=122.170.99.177
 add list=pwlgrzs-blacklist address=122.170.99.60
 add list=pwlgrzs-blacklist address=122.17.148.164
+add list=pwlgrzs-blacklist address=122.175.12.238
 add list=pwlgrzs-blacklist address=122.175.14.198
 add list=pwlgrzs-blacklist address=122.175.197.65
 add list=pwlgrzs-blacklist address=122.175.3.200
 add list=pwlgrzs-blacklist address=122.175.3.81
 add list=pwlgrzs-blacklist address=122.175.4.186
 add list=pwlgrzs-blacklist address=122.175.4.222
+add list=pwlgrzs-blacklist address=122.175.4.96
+add list=pwlgrzs-blacklist address=122.175.6.151
 add list=pwlgrzs-blacklist address=122.175.7.22
 add list=pwlgrzs-blacklist address=122.175.7.235
 add list=pwlgrzs-blacklist address=122.175.9.185
@@ -5056,6 +5077,7 @@ add list=pwlgrzs-blacklist address=122.176.102.238
 add list=pwlgrzs-blacklist address=122.176.115.248
 add list=pwlgrzs-blacklist address=122.176.204.85
 add list=pwlgrzs-blacklist address=122.176.30.182
+add list=pwlgrzs-blacklist address=122.176.45.238
 add list=pwlgrzs-blacklist address=122.178.13.53
 add list=pwlgrzs-blacklist address=122.179.128.16
 add list=pwlgrzs-blacklist address=122.179.159.82
@@ -5068,11 +5090,9 @@ add list=pwlgrzs-blacklist address=122.180.86.192
 add list=pwlgrzs-blacklist address=122.183.137.189
 add list=pwlgrzs-blacklist address=122.186.244.206
 add list=pwlgrzs-blacklist address=122.187.114.134
-add list=pwlgrzs-blacklist address=122.187.147.13
 add list=pwlgrzs-blacklist address=122.187.161.66
 add list=pwlgrzs-blacklist address=122.187.224.244
 add list=pwlgrzs-blacklist address=122.187.225.217
-add list=pwlgrzs-blacklist address=122.187.225.41
 add list=pwlgrzs-blacklist address=122.187.226.118
 add list=pwlgrzs-blacklist address=122.187.226.14
 add list=pwlgrzs-blacklist address=122.187.226.21
@@ -5095,7 +5115,6 @@ add list=pwlgrzs-blacklist address=122.239.151.147
 add list=pwlgrzs-blacklist address=122.241.117.28
 add list=pwlgrzs-blacklist address=12.228.20.163
 add list=pwlgrzs-blacklist address=12.235.2.185
-add list=pwlgrzs-blacklist address=122.35.41.28
 add list=pwlgrzs-blacklist address=12.236.65.90
 add list=pwlgrzs-blacklist address=1.224.37.98
 add list=pwlgrzs-blacklist address=12.251.130.22
@@ -5111,7 +5130,6 @@ add list=pwlgrzs-blacklist address=1.226.228.82
 add list=pwlgrzs-blacklist address=1.227.228.136
 add list=pwlgrzs-blacklist address=122.8.0.0/16
 add list=pwlgrzs-blacklist address=122.9.147.197
-add list=pwlgrzs-blacklist address=1.229.4.114
 add list=pwlgrzs-blacklist address=122.97.206.20
 add list=pwlgrzs-blacklist address=123.108.59.148
 add list=pwlgrzs-blacklist address=123.114.33.187
@@ -5146,7 +5164,6 @@ add list=pwlgrzs-blacklist address=123.160.221.19
 add list=pwlgrzs-blacklist address=123.164.144.60
 add list=pwlgrzs-blacklist address=123.178.140.234
 add list=pwlgrzs-blacklist address=123.183.163.66
-add list=pwlgrzs-blacklist address=123.185.203.231
 add list=pwlgrzs-blacklist address=123.187.204.8
 add list=pwlgrzs-blacklist address=123.189.23.220
 add list=pwlgrzs-blacklist address=123.193.152.64
@@ -5167,7 +5184,6 @@ add list=pwlgrzs-blacklist address=123.31.12.76
 add list=pwlgrzs-blacklist address=1.233.125.21
 add list=pwlgrzs-blacklist address=123.31.29.192
 add list=pwlgrzs-blacklist address=123.31.41.38
-add list=pwlgrzs-blacklist address=1.233.166.41
 add list=pwlgrzs-blacklist address=123.41.128.6
 add list=pwlgrzs-blacklist address=123.41.131.158
 add list=pwlgrzs-blacklist address=123.41.131.160
@@ -5230,13 +5246,11 @@ add list=pwlgrzs-blacklist address=124.220.39.141
 add list=pwlgrzs-blacklist address=124.221.106.163
 add list=pwlgrzs-blacklist address=124.221.106.90
 add list=pwlgrzs-blacklist address=124.221.165.133
-add list=pwlgrzs-blacklist address=124.221.246.103
 add list=pwlgrzs-blacklist address=124.222.138.152
 add list=pwlgrzs-blacklist address=124.222.157.60
 add list=pwlgrzs-blacklist address=124.222.194.36
 add list=pwlgrzs-blacklist address=124.222.249.107
 add list=pwlgrzs-blacklist address=124.222.4.232
-add list=pwlgrzs-blacklist address=124.222.90.189
 add list=pwlgrzs-blacklist address=124.223.193.118
 add list=pwlgrzs-blacklist address=124.223.32.171
 add list=pwlgrzs-blacklist address=124.223.38.75
@@ -5326,6 +5340,7 @@ add list=pwlgrzs-blacklist address=125.31.192.0/18
 add list=pwlgrzs-blacklist address=125.34.240.29
 add list=pwlgrzs-blacklist address=125.34.240.33
 add list=pwlgrzs-blacklist address=125.58.0.0/18
+add list=pwlgrzs-blacklist address=125.64.209.11
 add list=pwlgrzs-blacklist address=125.65.126.19
 add list=pwlgrzs-blacklist address=125.66.243.1
 add list=pwlgrzs-blacklist address=125.69.161.113
@@ -5346,6 +5361,7 @@ add list=pwlgrzs-blacklist address=125.99.24.12
 add list=pwlgrzs-blacklist address=126.0.63.53
 add list=pwlgrzs-blacklist address=126.109.240.234
 add list=pwlgrzs-blacklist address=126.219.183.54
+add list=pwlgrzs-blacklist address=126.59.199.91
 add list=pwlgrzs-blacklist address=126.77.170.137
 add list=pwlgrzs-blacklist address=128.106.213.237
 add list=pwlgrzs-blacklist address=128.116.190.233
@@ -5353,8 +5369,6 @@ add list=pwlgrzs-blacklist address=128.116.192.89
 add list=pwlgrzs-blacklist address=128.127.106.229
 add list=pwlgrzs-blacklist address=128.134.30.40
 add list=pwlgrzs-blacklist address=128.14.136.78
-add list=pwlgrzs-blacklist address=128.14.141.42
-add list=pwlgrzs-blacklist address=128.14.209.146
 add list=pwlgrzs-blacklist address=128.14.224.141
 add list=pwlgrzs-blacklist address=128.14.225.218
 add list=pwlgrzs-blacklist address=128.199.10.215
@@ -5409,10 +5423,12 @@ add list=pwlgrzs-blacklist address=128.199.225.7
 add list=pwlgrzs-blacklist address=128.199.227.198
 add list=pwlgrzs-blacklist address=128.199.232.159
 add list=pwlgrzs-blacklist address=128.199.234.147
+add list=pwlgrzs-blacklist address=128.199.237.105
 add list=pwlgrzs-blacklist address=128.199.242.104
 add list=pwlgrzs-blacklist address=128.199.244.155
 add list=pwlgrzs-blacklist address=128.199.244.30
 add list=pwlgrzs-blacklist address=128.199.247.226
+add list=pwlgrzs-blacklist address=128.199.248.246
 add list=pwlgrzs-blacklist address=128.199.249.246
 add list=pwlgrzs-blacklist address=128.199.251.65
 add list=pwlgrzs-blacklist address=128.199.25.247
@@ -5487,6 +5503,7 @@ add list=pwlgrzs-blacklist address=129.226.189.152
 add list=pwlgrzs-blacklist address=129.226.191.162
 add list=pwlgrzs-blacklist address=129.226.191.171
 add list=pwlgrzs-blacklist address=129.226.20.120
+add list=pwlgrzs-blacklist address=129.226.207.132
 add list=pwlgrzs-blacklist address=129.226.216.65
 add list=pwlgrzs-blacklist address=129.226.224.113
 add list=pwlgrzs-blacklist address=129.226.225.131
@@ -5506,6 +5523,7 @@ add list=pwlgrzs-blacklist address=130.149.80.199
 add list=pwlgrzs-blacklist address=130.162.135.31
 add list=pwlgrzs-blacklist address=130.180.77.106
 add list=pwlgrzs-blacklist address=130.185.74.195
+add list=pwlgrzs-blacklist address=130.185.76.24
 add list=pwlgrzs-blacklist address=130.193.15.186
 add list=pwlgrzs-blacklist address=130.193.50.167
 add list=pwlgrzs-blacklist address=130.196.0.0/16
@@ -5597,6 +5615,7 @@ add list=pwlgrzs-blacklist address=134.209.124.105
 add list=pwlgrzs-blacklist address=134.209.127.189
 add list=pwlgrzs-blacklist address=134.209.127.238
 add list=pwlgrzs-blacklist address=134.209.147.174
+add list=pwlgrzs-blacklist address=134.209.151.241
 add list=pwlgrzs-blacklist address=134.209.160.228
 add list=pwlgrzs-blacklist address=134.209.168.212
 add list=pwlgrzs-blacklist address=134.209.178.50
@@ -5634,6 +5653,7 @@ add list=pwlgrzs-blacklist address=13.53.67.15
 add list=pwlgrzs-blacklist address=13.58.175.172
 add list=pwlgrzs-blacklist address=136.143.204.175
 add list=pwlgrzs-blacklist address=136.143.205.198
+add list=pwlgrzs-blacklist address=136.143.207.108
 add list=pwlgrzs-blacklist address=136.144.41.181
 add list=pwlgrzs-blacklist address=136.144.41.196
 add list=pwlgrzs-blacklist address=136.158.41.200
@@ -5642,6 +5662,7 @@ add list=pwlgrzs-blacklist address=136.169.210.242
 add list=pwlgrzs-blacklist address=136.169.210.72
 add list=pwlgrzs-blacklist address=136.185.10.182
 add list=pwlgrzs-blacklist address=136.185.11.243
+add list=pwlgrzs-blacklist address=136.185.1.43
 add list=pwlgrzs-blacklist address=136.185.15.123
 add list=pwlgrzs-blacklist address=136.185.16.246
 add list=pwlgrzs-blacklist address=136.185.2.181
@@ -5660,7 +5681,6 @@ add list=pwlgrzs-blacklist address=136.243.32.168
 add list=pwlgrzs-blacklist address=136.243.35.244
 add list=pwlgrzs-blacklist address=136.24.54.218
 add list=pwlgrzs-blacklist address=136.35.36.253
-add list=pwlgrzs-blacklist address=136.37.167.138
 add list=pwlgrzs-blacklist address=136.49.7.70
 add list=pwlgrzs-blacklist address=13.65.16.18
 add list=pwlgrzs-blacklist address=136.52.13.251
@@ -5711,6 +5731,7 @@ add list=pwlgrzs-blacklist address=137.184.123.147
 add list=pwlgrzs-blacklist address=137.184.124.124
 add list=pwlgrzs-blacklist address=137.184.126.78
 add list=pwlgrzs-blacklist address=137.184.130.78
+add list=pwlgrzs-blacklist address=137.184.138.182
 add list=pwlgrzs-blacklist address=137.184.145.233
 add list=pwlgrzs-blacklist address=137.184.157.48
 add list=pwlgrzs-blacklist address=137.184.178.176
@@ -5734,7 +5755,6 @@ add list=pwlgrzs-blacklist address=137.184.220.189
 add list=pwlgrzs-blacklist address=137.184.225.34
 add list=pwlgrzs-blacklist address=137.184.228.225
 add list=pwlgrzs-blacklist address=137.184.27.144
-add list=pwlgrzs-blacklist address=137.184.34.104
 add list=pwlgrzs-blacklist address=137.184.35.136
 add list=pwlgrzs-blacklist address=137.184.35.169
 add list=pwlgrzs-blacklist address=137.184.35.63
@@ -5815,6 +5835,7 @@ add list=pwlgrzs-blacklist address=138.199.60.166
 add list=pwlgrzs-blacklist address=138.199.60.167
 add list=pwlgrzs-blacklist address=138.201.11.237
 add list=pwlgrzs-blacklist address=138.201.142.73
+add list=pwlgrzs-blacklist address=138.201.210.14
 add list=pwlgrzs-blacklist address=138.201.59.23
 add list=pwlgrzs-blacklist address=138.201.7.167
 add list=pwlgrzs-blacklist address=138.207.144.85
@@ -5860,7 +5881,6 @@ add list=pwlgrzs-blacklist address=138.68.50.30
 add list=pwlgrzs-blacklist address=138.68.58.138
 add list=pwlgrzs-blacklist address=138.68.58.35
 add list=pwlgrzs-blacklist address=138.68.63.30
-add list=pwlgrzs-blacklist address=138.68.69.37
 add list=pwlgrzs-blacklist address=138.68.71.92
 add list=pwlgrzs-blacklist address=138.68.72.245
 add list=pwlgrzs-blacklist address=138.68.79.195
@@ -5968,7 +5988,6 @@ add list=pwlgrzs-blacklist address=139.59.233.116
 add list=pwlgrzs-blacklist address=139.59.247.236
 add list=pwlgrzs-blacklist address=139.59.248.243
 add list=pwlgrzs-blacklist address=139.59.248.5
-add list=pwlgrzs-blacklist address=139.59.250.206
 add list=pwlgrzs-blacklist address=139.59.251.146
 add list=pwlgrzs-blacklist address=139.59.25.164
 add list=pwlgrzs-blacklist address=139.59.255.59
@@ -6002,6 +6021,7 @@ add list=pwlgrzs-blacklist address=139.59.7.177
 add list=pwlgrzs-blacklist address=139.59.76.127
 add list=pwlgrzs-blacklist address=139.59.78.156
 add list=pwlgrzs-blacklist address=139.59.78.212
+add list=pwlgrzs-blacklist address=139.59.79.183
 add list=pwlgrzs-blacklist address=139.59.81.166
 add list=pwlgrzs-blacklist address=139.59.8.119
 add list=pwlgrzs-blacklist address=139.59.83.27
@@ -6080,7 +6100,6 @@ add list=pwlgrzs-blacklist address=14.152.78.73
 add list=pwlgrzs-blacklist address=14.161.24.141
 add list=pwlgrzs-blacklist address=14.161.36.230
 add list=pwlgrzs-blacklist address=14.161.36.234
-add list=pwlgrzs-blacklist address=14.161.48.144
 add list=pwlgrzs-blacklist address=14.161.50.104
 add list=pwlgrzs-blacklist address=14.173.255.177
 add list=pwlgrzs-blacklist address=14.176.213.244
@@ -6090,7 +6109,6 @@ add list=pwlgrzs-blacklist address=141.94.19.203
 add list=pwlgrzs-blacklist address=141.94.241.64
 add list=pwlgrzs-blacklist address=141.95.18.207
 add list=pwlgrzs-blacklist address=141.95.18.225
-add list=pwlgrzs-blacklist address=141.95.45.138
 add list=pwlgrzs-blacklist address=141.98.10.0/24
 add list=pwlgrzs-blacklist address=14.199.107.35
 add list=pwlgrzs-blacklist address=14.200.141.244
@@ -6109,7 +6127,9 @@ add list=pwlgrzs-blacklist address=142.176.12.104
 add list=pwlgrzs-blacklist address=142.177.222.205
 add list=pwlgrzs-blacklist address=142.184.161.168
 add list=pwlgrzs-blacklist address=14.221.4.204
+add list=pwlgrzs-blacklist address=14.221.4.82
 add list=pwlgrzs-blacklist address=14.221.5.204
+add list=pwlgrzs-blacklist address=14.222.193.13
 add list=pwlgrzs-blacklist address=142.234.157.93
 add list=pwlgrzs-blacklist address=14.224.169.32
 add list=pwlgrzs-blacklist address=14.225.17.9
@@ -6121,6 +6141,7 @@ add list=pwlgrzs-blacklist address=14.232.243.150
 add list=pwlgrzs-blacklist address=14.232.243.151
 add list=pwlgrzs-blacklist address=14.234.119.8
 add list=pwlgrzs-blacklist address=14.23.94.106
+add list=pwlgrzs-blacklist address=14.241.242.24
 add list=pwlgrzs-blacklist address=14.241.244.104
 add list=pwlgrzs-blacklist address=14.241.244.126
 add list=pwlgrzs-blacklist address=14.241.249.117
@@ -6131,7 +6152,7 @@ add list=pwlgrzs-blacklist address=142.4.205.238
 add list=pwlgrzs-blacklist address=142.4.223.93
 add list=pwlgrzs-blacklist address=142.44.247.57
 add list=pwlgrzs-blacklist address=142.4.5.35
-add list=pwlgrzs-blacklist address=14.29.217.108
+add list=pwlgrzs-blacklist address=14.252.169.129
 add list=pwlgrzs-blacklist address=14.29.241.146
 add list=pwlgrzs-blacklist address=142.93.100.171
 add list=pwlgrzs-blacklist address=142.93.101.157
@@ -6212,7 +6233,6 @@ add list=pwlgrzs-blacklist address=143.198.11.30
 add list=pwlgrzs-blacklist address=143.198.11.34
 add list=pwlgrzs-blacklist address=143.198.119.229
 add list=pwlgrzs-blacklist address=143.198.123.124
-add list=pwlgrzs-blacklist address=143.198.129.216
 add list=pwlgrzs-blacklist address=143.198.133.234
 add list=pwlgrzs-blacklist address=143.198.136.87
 add list=pwlgrzs-blacklist address=143.198.136.88
@@ -6292,14 +6312,12 @@ add list=pwlgrzs-blacklist address=144.126.214.222
 add list=pwlgrzs-blacklist address=144.126.216.249
 add list=pwlgrzs-blacklist address=144.126.217.16
 add list=pwlgrzs-blacklist address=144.139.47.206
-add list=pwlgrzs-blacklist address=144.172.118.134
 add list=pwlgrzs-blacklist address=144.172.118.139
 add list=pwlgrzs-blacklist address=144.172.118.37
 add list=pwlgrzs-blacklist address=144.172.118.4
 add list=pwlgrzs-blacklist address=144.172.118.76
 add list=pwlgrzs-blacklist address=144.172.71.106
 add list=pwlgrzs-blacklist address=144.172.73.66
-add list=pwlgrzs-blacklist address=144.172.83.119
 add list=pwlgrzs-blacklist address=144.202.2.175
 add list=pwlgrzs-blacklist address=144.202.3.39
 add list=pwlgrzs-blacklist address=144.217.13.18
@@ -6309,6 +6327,7 @@ add list=pwlgrzs-blacklist address=144.22.135.112
 add list=pwlgrzs-blacklist address=144.22.150.106
 add list=pwlgrzs-blacklist address=144.22.158.52
 add list=pwlgrzs-blacklist address=144.22.160.20
+add list=pwlgrzs-blacklist address=144.22.173.143
 add list=pwlgrzs-blacklist address=144.22.182.62
 add list=pwlgrzs-blacklist address=144.22.193.125
 add list=pwlgrzs-blacklist address=144.22.196.237
@@ -6322,7 +6341,6 @@ add list=pwlgrzs-blacklist address=144.24.129.100
 add list=pwlgrzs-blacklist address=144.24.135.172
 add list=pwlgrzs-blacklist address=144.24.161.230
 add list=pwlgrzs-blacklist address=144.24.162.178
-add list=pwlgrzs-blacklist address=144.24.162.97
 add list=pwlgrzs-blacklist address=144.24.178.128
 add list=pwlgrzs-blacklist address=144.24.74.89
 add list=pwlgrzs-blacklist address=144.24.93.45
@@ -6360,7 +6378,6 @@ add list=pwlgrzs-blacklist address=146.185.159.124
 add list=pwlgrzs-blacklist address=146.190.17.180
 add list=pwlgrzs-blacklist address=146.190.17.85
 add list=pwlgrzs-blacklist address=146.190.238.105
-add list=pwlgrzs-blacklist address=146.19.133.230
 add list=pwlgrzs-blacklist address=146.19.173.152
 add list=pwlgrzs-blacklist address=146.19.173.195
 add list=pwlgrzs-blacklist address=146.19.173.202
@@ -6374,7 +6391,6 @@ add list=pwlgrzs-blacklist address=146.241.204.206
 add list=pwlgrzs-blacklist address=146.241.88.227
 add list=pwlgrzs-blacklist address=146.252.0.0/16
 add list=pwlgrzs-blacklist address=146.3.0.0/16
-add list=pwlgrzs-blacklist address=14.63.162.167
 add list=pwlgrzs-blacklist address=14.63.162.98
 add list=pwlgrzs-blacklist address=14.63.213.72
 add list=pwlgrzs-blacklist address=14.63.214.173
@@ -6452,11 +6468,11 @@ add list=pwlgrzs-blacklist address=147.7.0.0/16
 add list=pwlgrzs-blacklist address=147.75.118.226
 add list=pwlgrzs-blacklist address=147.75.118.234
 add list=pwlgrzs-blacklist address=147.75.118.239
-add list=pwlgrzs-blacklist address=147.75.118.250
 add list=pwlgrzs-blacklist address=147.78.224.0/22
 add list=pwlgrzs-blacklist address=148.0.15.41
 add list=pwlgrzs-blacklist address=148.0.57.85
 add list=pwlgrzs-blacklist address=148.102.25.170
+add list=pwlgrzs-blacklist address=148.102.50.194
 add list=pwlgrzs-blacklist address=148.148.0.0/16
 add list=pwlgrzs-blacklist address=148.154.0.0/16
 add list=pwlgrzs-blacklist address=148.178.0.0/16
@@ -6500,12 +6516,13 @@ add list=pwlgrzs-blacklist address=149.255.58.15
 add list=pwlgrzs-blacklist address=149.28.131.136
 add list=pwlgrzs-blacklist address=149.28.131.214
 add list=pwlgrzs-blacklist address=149.28.143.196
+add list=pwlgrzs-blacklist address=149.28.146.108
 add list=pwlgrzs-blacklist address=149.28.147.123
+add list=pwlgrzs-blacklist address=149.28.150.227
 add list=pwlgrzs-blacklist address=149.28.153.163
 add list=pwlgrzs-blacklist address=149.28.156.183
 add list=pwlgrzs-blacklist address=149.28.212.238
 add list=pwlgrzs-blacklist address=149.28.238.199
-add list=pwlgrzs-blacklist address=149.56.109.194
 add list=pwlgrzs-blacklist address=149.56.128.192
 add list=pwlgrzs-blacklist address=149.56.131.28
 add list=pwlgrzs-blacklist address=149.56.151.201
@@ -6515,6 +6532,7 @@ add list=pwlgrzs-blacklist address=14.97.235.91
 add list=pwlgrzs-blacklist address=14.97.44.78
 add list=pwlgrzs-blacklist address=14.97.91.190
 add list=pwlgrzs-blacklist address=14.97.93.66
+add list=pwlgrzs-blacklist address=14.98.73.70
 add list=pwlgrzs-blacklist address=149.90.136.24
 add list=pwlgrzs-blacklist address=14.99.199.106
 add list=pwlgrzs-blacklist address=14.99.68.91
@@ -6532,6 +6550,7 @@ add list=pwlgrzs-blacklist address=150.136.238.128
 add list=pwlgrzs-blacklist address=150.136.65.184
 add list=pwlgrzs-blacklist address=150.141.0.0/16
 add list=pwlgrzs-blacklist address=150.158.103.159
+add list=pwlgrzs-blacklist address=150.158.130.136
 add list=pwlgrzs-blacklist address=150.158.146.240
 add list=pwlgrzs-blacklist address=150.158.149.228
 add list=pwlgrzs-blacklist address=150.158.153.128
@@ -6567,11 +6586,11 @@ add list=pwlgrzs-blacklist address=151.18.162.122
 add list=pwlgrzs-blacklist address=151.18.181.210
 add list=pwlgrzs-blacklist address=151.18.190.201
 add list=pwlgrzs-blacklist address=151.18.216.158
-add list=pwlgrzs-blacklist address=151.18.218.108
 add list=pwlgrzs-blacklist address=151.18.226.184
 add list=pwlgrzs-blacklist address=151.212.0.0/16
 add list=pwlgrzs-blacklist address=151.236.62.123
 add list=pwlgrzs-blacklist address=151.237.120.118
+add list=pwlgrzs-blacklist address=151.237.75.114
 add list=pwlgrzs-blacklist address=151.252.109.164
 add list=pwlgrzs-blacklist address=151.34.134.41
 add list=pwlgrzs-blacklist address=151.34.142.176
@@ -6621,8 +6640,8 @@ add list=pwlgrzs-blacklist address=152.32.193.84
 add list=pwlgrzs-blacklist address=152.32.211.127
 add list=pwlgrzs-blacklist address=152.32.211.74
 add list=pwlgrzs-blacklist address=152.32.218.106
-add list=pwlgrzs-blacklist address=152.32.247.219
 add list=pwlgrzs-blacklist address=152.32.76.186
+add list=pwlgrzs-blacklist address=152.32.92.86
 add list=pwlgrzs-blacklist address=152.67.252.222
 add list=pwlgrzs-blacklist address=152.67.33.21
 add list=pwlgrzs-blacklist address=152.67.33.95
@@ -6672,6 +6691,7 @@ add list=pwlgrzs-blacklist address=154.56.0.223
 add list=pwlgrzs-blacklist address=154.56.0.228
 add list=pwlgrzs-blacklist address=154.6.17.235
 add list=pwlgrzs-blacklist address=154.70.208.66
+add list=pwlgrzs-blacklist address=154.72.161.208
 add list=pwlgrzs-blacklist address=154.72.194.207
 add list=pwlgrzs-blacklist address=154.73.36.9
 add list=pwlgrzs-blacklist address=154.79.251.172
@@ -6718,8 +6738,6 @@ add list=pwlgrzs-blacklist address=156.0.230.8
 add list=pwlgrzs-blacklist address=156.146.34.53
 add list=pwlgrzs-blacklist address=156.146.50.114
 add list=pwlgrzs-blacklist address=156.146.50.121
-add list=pwlgrzs-blacklist address=156.146.62.50
-add list=pwlgrzs-blacklist address=156.194.127.83
 add list=pwlgrzs-blacklist address=156.229.132.0/22
 add list=pwlgrzs-blacklist address=156.229.136.0/21
 add list=pwlgrzs-blacklist address=156.229.144.0/20
@@ -6755,7 +6773,6 @@ add list=pwlgrzs-blacklist address=157.162.0.0/16
 add list=pwlgrzs-blacklist address=157.186.0.0/16
 add list=pwlgrzs-blacklist address=157.195.0.0/16
 add list=pwlgrzs-blacklist address=157.230.100.192
-add list=pwlgrzs-blacklist address=157.230.109.166
 add list=pwlgrzs-blacklist address=157.230.114.212
 add list=pwlgrzs-blacklist address=157.230.1.224
 add list=pwlgrzs-blacklist address=157.230.122.80
@@ -6777,7 +6794,6 @@ add list=pwlgrzs-blacklist address=157.230.234.93
 add list=pwlgrzs-blacklist address=157.230.236.83
 add list=pwlgrzs-blacklist address=157.230.249.70
 add list=pwlgrzs-blacklist address=157.230.252.235
-add list=pwlgrzs-blacklist address=157.230.32.190
 add list=pwlgrzs-blacklist address=157.230.42.191
 add list=pwlgrzs-blacklist address=157.230.47.123
 add list=pwlgrzs-blacklist address=157.230.6.213
@@ -6832,7 +6848,6 @@ add list=pwlgrzs-blacklist address=157.7.128.60
 add list=pwlgrzs-blacklist address=157.90.250.140
 add list=pwlgrzs-blacklist address=157.90.38.9
 add list=pwlgrzs-blacklist address=158.101.0.138
-add list=pwlgrzs-blacklist address=158.101.111.95
 add list=pwlgrzs-blacklist address=158.101.151.18
 add list=pwlgrzs-blacklist address=158.106.77.36
 add list=pwlgrzs-blacklist address=158.140.235.83
@@ -6859,7 +6874,6 @@ add list=pwlgrzs-blacklist address=159.147.26.116
 add list=pwlgrzs-blacklist address=159.148.4.217
 add list=pwlgrzs-blacklist address=159.174.0.0/16
 add list=pwlgrzs-blacklist address=159.192.114.232
-add list=pwlgrzs-blacklist address=159.192.137.24
 add list=pwlgrzs-blacklist address=159.192.98.61
 add list=pwlgrzs-blacklist address=159.192.99.12
 add list=pwlgrzs-blacklist address=159.196.109.227
@@ -6868,7 +6882,6 @@ add list=pwlgrzs-blacklist address=159.203.108.158
 add list=pwlgrzs-blacklist address=159.203.108.168
 add list=pwlgrzs-blacklist address=159.203.111.100
 add list=pwlgrzs-blacklist address=159.203.11.165
-add list=pwlgrzs-blacklist address=159.203.121.12
 add list=pwlgrzs-blacklist address=159.203.170.123
 add list=pwlgrzs-blacklist address=159.203.170.193
 add list=pwlgrzs-blacklist address=159.203.177.45
@@ -6895,6 +6908,7 @@ add list=pwlgrzs-blacklist address=159.223.171.137
 add list=pwlgrzs-blacklist address=159.223.184.180
 add list=pwlgrzs-blacklist address=159.223.187.100
 add list=pwlgrzs-blacklist address=159.223.192.247
+add list=pwlgrzs-blacklist address=159.223.195.40
 add list=pwlgrzs-blacklist address=159.223.209.146
 add list=pwlgrzs-blacklist address=159.223.209.20
 add list=pwlgrzs-blacklist address=159.223.210.97
@@ -6922,6 +6936,7 @@ add list=pwlgrzs-blacklist address=159.223.68.238
 add list=pwlgrzs-blacklist address=159.223.71.236
 add list=pwlgrzs-blacklist address=159.223.73.50
 add list=pwlgrzs-blacklist address=159.223.79.49
+add list=pwlgrzs-blacklist address=159.223.96.25
 add list=pwlgrzs-blacklist address=159.223.97.177
 add list=pwlgrzs-blacklist address=159.229.0.0/16
 add list=pwlgrzs-blacklist address=159.250.154.125
@@ -6969,6 +6984,7 @@ add list=pwlgrzs-blacklist address=159.65.232.191
 add list=pwlgrzs-blacklist address=159.65.235.114
 add list=pwlgrzs-blacklist address=159.65.240.232
 add list=pwlgrzs-blacklist address=159.65.249.79
+add list=pwlgrzs-blacklist address=159.65.251.251
 add list=pwlgrzs-blacklist address=159.65.253.201
 add list=pwlgrzs-blacklist address=159.65.27.32
 add list=pwlgrzs-blacklist address=159.65.3.147
@@ -7019,7 +7035,6 @@ add list=pwlgrzs-blacklist address=160.115.0.0/16
 add list=pwlgrzs-blacklist address=160.116.0.0/16
 add list=pwlgrzs-blacklist address=160.117.0.0/16
 add list=pwlgrzs-blacklist address=160.119.249.240
-add list=pwlgrzs-blacklist address=160.120.129.184
 add list=pwlgrzs-blacklist address=160.120.130.101
 add list=pwlgrzs-blacklist address=160.121.0.0/16
 add list=pwlgrzs-blacklist address=160.122.0.0/16
@@ -7027,7 +7042,6 @@ add list=pwlgrzs-blacklist address=160.124.49.152
 add list=pwlgrzs-blacklist address=160.124.49.162
 add list=pwlgrzs-blacklist address=160.124.49.227
 add list=pwlgrzs-blacklist address=160.14.0.0/16
-add list=pwlgrzs-blacklist address=160.16.113.137
 add list=pwlgrzs-blacklist address=160.16.143.191
 add list=pwlgrzs-blacklist address=160.180.0.0/16
 add list=pwlgrzs-blacklist address=160.188.0.0/16
@@ -7054,6 +7068,7 @@ add list=pwlgrzs-blacklist address=160.251.73.32
 add list=pwlgrzs-blacklist address=160.251.83.115
 add list=pwlgrzs-blacklist address=160.251.96.212
 add list=pwlgrzs-blacklist address=160.2.54.62
+add list=pwlgrzs-blacklist address=160.32.226.152
 add list=pwlgrzs-blacklist address=161.0.0.0/19
 add list=pwlgrzs-blacklist address=161.0.153.76
 add list=pwlgrzs-blacklist address=161.0.153.88
@@ -7115,7 +7130,6 @@ add list=pwlgrzs-blacklist address=162.142.125.222
 add list=pwlgrzs-blacklist address=162.142.125.8
 add list=pwlgrzs-blacklist address=162.142.125.9
 add list=pwlgrzs-blacklist address=162.142.98.34
-add list=pwlgrzs-blacklist address=162.142.99.108
 add list=pwlgrzs-blacklist address=162.144.158.56
 add list=pwlgrzs-blacklist address=162.144.221.204
 add list=pwlgrzs-blacklist address=162.144.244.6
@@ -7171,6 +7185,7 @@ add list=pwlgrzs-blacklist address=162.247.74.27
 add list=pwlgrzs-blacklist address=162.247.74.7
 add list=pwlgrzs-blacklist address=162.247.74.74
 add list=pwlgrzs-blacklist address=162.249.20.0/22
+add list=pwlgrzs-blacklist address=162.251.125.40
 add list=pwlgrzs-blacklist address=162.251.92.0/22
 add list=pwlgrzs-blacklist address=162.253.129.73
 add list=pwlgrzs-blacklist address=162.55.58.252
@@ -7235,8 +7250,6 @@ add list=pwlgrzs-blacklist address=164.90.153.148
 add list=pwlgrzs-blacklist address=164.90.159.39
 add list=pwlgrzs-blacklist address=164.90.191.216
 add list=pwlgrzs-blacklist address=164.90.195.77
-add list=pwlgrzs-blacklist address=164.90.198.71
-add list=pwlgrzs-blacklist address=164.90.200.181
 add list=pwlgrzs-blacklist address=164.90.202.22
 add list=pwlgrzs-blacklist address=164.90.202.3
 add list=pwlgrzs-blacklist address=164.90.202.43
@@ -7269,7 +7282,6 @@ add list=pwlgrzs-blacklist address=164.92.205.82
 add list=pwlgrzs-blacklist address=164.92.209.152
 add list=pwlgrzs-blacklist address=164.92.209.162
 add list=pwlgrzs-blacklist address=164.92.210.170
-add list=pwlgrzs-blacklist address=164.92.218.139
 add list=pwlgrzs-blacklist address=164.92.223.192
 add list=pwlgrzs-blacklist address=164.92.226.99
 add list=pwlgrzs-blacklist address=164.92.229.24
@@ -7291,6 +7303,7 @@ add list=pwlgrzs-blacklist address=164.92.96.135
 add list=pwlgrzs-blacklist address=164.92.98.91
 add list=pwlgrzs-blacklist address=165.102.0.0/16
 add list=pwlgrzs-blacklist address=1.65.142.49
+add list=pwlgrzs-blacklist address=165.154.21.120
 add list=pwlgrzs-blacklist address=165.154.233.87
 add list=pwlgrzs-blacklist address=165.154.44.158
 add list=pwlgrzs-blacklist address=165.154.64.217
@@ -7400,7 +7413,6 @@ add list=pwlgrzs-blacklist address=166.70.207.2
 add list=pwlgrzs-blacklist address=167.100.18.84
 add list=pwlgrzs-blacklist address=167.103.0.0/16
 add list=pwlgrzs-blacklist address=167.114.15.200
-add list=pwlgrzs-blacklist address=167.114.204.131
 add list=pwlgrzs-blacklist address=167.158.0.0/16
 add list=pwlgrzs-blacklist address=167.160.188.218
 add list=pwlgrzs-blacklist address=167.172.110.236
@@ -7493,7 +7505,6 @@ add list=pwlgrzs-blacklist address=167.94.138.47
 add list=pwlgrzs-blacklist address=167.94.138.60
 add list=pwlgrzs-blacklist address=167.94.138.62
 add list=pwlgrzs-blacklist address=167.94.138.63
-add list=pwlgrzs-blacklist address=167.94.145.57
 add list=pwlgrzs-blacklist address=167.94.145.58
 add list=pwlgrzs-blacklist address=167.94.145.59
 add list=pwlgrzs-blacklist address=167.94.145.60
@@ -7540,6 +7551,7 @@ add list=pwlgrzs-blacklist address=168.121.105.243
 add list=pwlgrzs-blacklist address=168.126.28.18
 add list=pwlgrzs-blacklist address=168.129.0.0/16
 add list=pwlgrzs-blacklist address=168.138.126.184
+add list=pwlgrzs-blacklist address=168.138.132.147
 add list=pwlgrzs-blacklist address=168.138.133.156
 add list=pwlgrzs-blacklist address=168.138.133.18
 add list=pwlgrzs-blacklist address=168.138.13.95
@@ -7669,7 +7681,6 @@ add list=pwlgrzs-blacklist address=171.212.102.36
 add list=pwlgrzs-blacklist address=171.212.103.245
 add list=pwlgrzs-blacklist address=171.227.39.135
 add list=pwlgrzs-blacklist address=171.22.8.68
-add list=pwlgrzs-blacklist address=171.229.238.44
 add list=pwlgrzs-blacklist address=171.231.205.62
 add list=pwlgrzs-blacklist address=171.231.23.168
 add list=pwlgrzs-blacklist address=171.244.133.230
@@ -7712,7 +7723,6 @@ add list=pwlgrzs-blacklist address=172.114.160.81
 add list=pwlgrzs-blacklist address=172.115.177.204
 add list=pwlgrzs-blacklist address=172.118.216.27
 add list=pwlgrzs-blacklist address=172.220.17.101
-add list=pwlgrzs-blacklist address=172.221.108.7
 add list=pwlgrzs-blacklist address=172.245.10.253
 add list=pwlgrzs-blacklist address=172.245.162.110
 add list=pwlgrzs-blacklist address=172.245.210.116
@@ -7732,10 +7742,9 @@ add list=pwlgrzs-blacklist address=172.91.16.82
 add list=pwlgrzs-blacklist address=172.96.170.178
 add list=pwlgrzs-blacklist address=172.96.214.25
 add list=pwlgrzs-blacklist address=172.99.148.200
+add list=pwlgrzs-blacklist address=173.0.24.207
 add list=pwlgrzs-blacklist address=173.12.176.81
 add list=pwlgrzs-blacklist address=173.15.106.189
-add list=pwlgrzs-blacklist address=173.16.223.155
-add list=pwlgrzs-blacklist address=173.167.46.61
 add list=pwlgrzs-blacklist address=173.172.183.206
 add list=pwlgrzs-blacklist address=173.174.216.62
 add list=pwlgrzs-blacklist address=173.190.63.33
@@ -8542,12 +8551,10 @@ add list=pwlgrzs-blacklist address=174.44.164.223
 add list=pwlgrzs-blacklist address=174.68.193.119
 add list=pwlgrzs-blacklist address=174.69.215.101
 add list=pwlgrzs-blacklist address=174.86.10.201
-add list=pwlgrzs-blacklist address=174.86.177.76
 add list=pwlgrzs-blacklist address=174.86.185.221
 add list=pwlgrzs-blacklist address=175.100.107.238
 add list=pwlgrzs-blacklist address=175.100.120.111
 add list=pwlgrzs-blacklist address=175.101.117.8
-add list=pwlgrzs-blacklist address=175.10.153.169
 add list=pwlgrzs-blacklist address=175.103.64.0/18
 add list=pwlgrzs-blacklist address=175.106.108.234
 add list=pwlgrzs-blacklist address=175.107.206.203
@@ -8571,11 +8578,10 @@ add list=pwlgrzs-blacklist address=175.147.68.137
 add list=pwlgrzs-blacklist address=175.167.20.17
 add list=pwlgrzs-blacklist address=175.174.62.7
 add list=pwlgrzs-blacklist address=175.178.109.235
-add list=pwlgrzs-blacklist address=175.178.8.127
+add list=pwlgrzs-blacklist address=175.178.160.212
 add list=pwlgrzs-blacklist address=175.181.249.73
 add list=pwlgrzs-blacklist address=175.193.13.3
 add list=pwlgrzs-blacklist address=175.195.33.185
-add list=pwlgrzs-blacklist address=175.196.248.113
 add list=pwlgrzs-blacklist address=175.197.122.64
 add list=pwlgrzs-blacklist address=175.197.125.154
 add list=pwlgrzs-blacklist address=175.197.233.197
@@ -8593,7 +8599,6 @@ add list=pwlgrzs-blacklist address=175.30.204.144
 add list=pwlgrzs-blacklist address=175.30.204.61
 add list=pwlgrzs-blacklist address=175.30.204.75
 add list=pwlgrzs-blacklist address=175.30.205.157
-add list=pwlgrzs-blacklist address=175.30.205.180
 add list=pwlgrzs-blacklist address=175.30.205.221
 add list=pwlgrzs-blacklist address=175.30.205.253
 add list=pwlgrzs-blacklist address=175.42.30.149
@@ -8624,12 +8629,10 @@ add list=pwlgrzs-blacklist address=176.126.194.0/24
 add list=pwlgrzs-blacklist address=176.126.253.190
 add list=pwlgrzs-blacklist address=176.140.131.46
 add list=pwlgrzs-blacklist address=176.145.163.207
-add list=pwlgrzs-blacklist address=176.152.45.213
 add list=pwlgrzs-blacklist address=176.166.205.176
 add list=pwlgrzs-blacklist address=176.183.60.72
 add list=pwlgrzs-blacklist address=176.185.228.48
 add list=pwlgrzs-blacklist address=176.189.196.115
-add list=pwlgrzs-blacklist address=176.194.42.38
 add list=pwlgrzs-blacklist address=176.194.44.144
 add list=pwlgrzs-blacklist address=176.194.48.192
 add list=pwlgrzs-blacklist address=176.195.55.155
@@ -8664,6 +8667,7 @@ add list=pwlgrzs-blacklist address=176.67.56.94
 add list=pwlgrzs-blacklist address=176.79.134.16
 add list=pwlgrzs-blacklist address=176.79.211.68
 add list=pwlgrzs-blacklist address=176.79.92.47
+add list=pwlgrzs-blacklist address=176.88.103.3
 add list=pwlgrzs-blacklist address=176.9.219.38
 add list=pwlgrzs-blacklist address=177.10.201.57
 add list=pwlgrzs-blacklist address=177.102.140.51
@@ -8683,7 +8687,6 @@ add list=pwlgrzs-blacklist address=177.133.210.218
 add list=pwlgrzs-blacklist address=177.134.164.6
 add list=pwlgrzs-blacklist address=177.135.103.54
 add list=pwlgrzs-blacklist address=177.135.134.43
-add list=pwlgrzs-blacklist address=177.135.79.243
 add list=pwlgrzs-blacklist address=177.139.163.80
 add list=pwlgrzs-blacklist address=177.139.44.173
 add list=pwlgrzs-blacklist address=177.142.218.86
@@ -8691,7 +8694,8 @@ add list=pwlgrzs-blacklist address=177.152.68.58
 add list=pwlgrzs-blacklist address=177.154.32.14
 add list=pwlgrzs-blacklist address=177.157.156.136
 add list=pwlgrzs-blacklist address=177.158.121.229
-add list=pwlgrzs-blacklist address=177.162.73.221
+add list=pwlgrzs-blacklist address=177.161.64.14
+add list=pwlgrzs-blacklist address=177.161.65.121
 add list=pwlgrzs-blacklist address=177.170.20.12
 add list=pwlgrzs-blacklist address=177.184.125.93
 add list=pwlgrzs-blacklist address=177.185.157.31
@@ -8703,7 +8707,6 @@ add list=pwlgrzs-blacklist address=177.191.20.42
 add list=pwlgrzs-blacklist address=177.203.153.25
 add list=pwlgrzs-blacklist address=177.206.86.197
 add list=pwlgrzs-blacklist address=177.207.207.172
-add list=pwlgrzs-blacklist address=177.212.39.18
 add list=pwlgrzs-blacklist address=177.220.161.250
 add list=pwlgrzs-blacklist address=177.220.164.124
 add list=pwlgrzs-blacklist address=177.220.174.7
@@ -8714,6 +8717,7 @@ add list=pwlgrzs-blacklist address=177.229.215.234
 add list=pwlgrzs-blacklist address=177.229.221.253
 add list=pwlgrzs-blacklist address=177.234.136.0/21
 add list=pwlgrzs-blacklist address=177.239.61.55
+add list=pwlgrzs-blacklist address=177.24.114.231
 add list=pwlgrzs-blacklist address=177.248.201.122
 add list=pwlgrzs-blacklist address=177.248.214.242
 add list=pwlgrzs-blacklist address=177.248.218.98
@@ -8725,13 +8729,13 @@ add list=pwlgrzs-blacklist address=177.249.47.5
 add list=pwlgrzs-blacklist address=177.25.232.30
 add list=pwlgrzs-blacklist address=177.27.204.18
 add list=pwlgrzs-blacklist address=177.33.39.31
+add list=pwlgrzs-blacklist address=177.36.70.200
 add list=pwlgrzs-blacklist address=177.39.156.177
 add list=pwlgrzs-blacklist address=177.43.179.143
 add list=pwlgrzs-blacklist address=177.43.247.17
 add list=pwlgrzs-blacklist address=177.43.251.153
 add list=pwlgrzs-blacklist address=177.43.90.107
 add list=pwlgrzs-blacklist address=177.52.27.44
-add list=pwlgrzs-blacklist address=177.58.88.40
 add list=pwlgrzs-blacklist address=177.69.237.59
 add list=pwlgrzs-blacklist address=177.69.238.9
 add list=pwlgrzs-blacklist address=177.69.246.133
@@ -8750,13 +8754,12 @@ add list=pwlgrzs-blacklist address=177.91.79.21
 add list=pwlgrzs-blacklist address=177.91.80.52
 add list=pwlgrzs-blacklist address=177.99.235.115
 add list=pwlgrzs-blacklist address=177.99.235.85
-add list=pwlgrzs-blacklist address=178.116.142.226
+add list=pwlgrzs-blacklist address=177.99.235.9
 add list=pwlgrzs-blacklist address=178.128.109.164
 add list=pwlgrzs-blacklist address=178.128.110.222
 add list=pwlgrzs-blacklist address=178.128.122.2
 add list=pwlgrzs-blacklist address=178.128.123.18
 add list=pwlgrzs-blacklist address=178.128.197.110
-add list=pwlgrzs-blacklist address=178.128.208.94
 add list=pwlgrzs-blacklist address=178.128.217.58
 add list=pwlgrzs-blacklist address=178.128.221.237
 add list=pwlgrzs-blacklist address=178.128.23.9
@@ -8766,7 +8769,6 @@ add list=pwlgrzs-blacklist address=178.128.61.241
 add list=pwlgrzs-blacklist address=178.128.73.254
 add list=pwlgrzs-blacklist address=178.128.82.218
 add list=pwlgrzs-blacklist address=178.128.83.165
-add list=pwlgrzs-blacklist address=178.128.95.64
 add list=pwlgrzs-blacklist address=178.137.16.0
 add list=pwlgrzs-blacklist address=178.137.16.1
 add list=pwlgrzs-blacklist address=178.137.16.10
@@ -9053,6 +9055,7 @@ add list=pwlgrzs-blacklist address=178.17.174.68
 add list=pwlgrzs-blacklist address=178.175.136.12
 add list=pwlgrzs-blacklist address=178.176.225.151
 add list=pwlgrzs-blacklist address=178.176.228.28
+add list=pwlgrzs-blacklist address=178.183.178.89
 add list=pwlgrzs-blacklist address=178.195.62.33
 add list=pwlgrzs-blacklist address=178.197.209.174
 add list=pwlgrzs-blacklist address=178.197.213.131
@@ -9074,6 +9077,7 @@ add list=pwlgrzs-blacklist address=178.20.55.18
 add list=pwlgrzs-blacklist address=178.208.81.171
 add list=pwlgrzs-blacklist address=178.22.168.219
 add list=pwlgrzs-blacklist address=178.22.168.220
+add list=pwlgrzs-blacklist address=178.233.227.249
 add list=pwlgrzs-blacklist address=178.238.236.59
 add list=pwlgrzs-blacklist address=178.242.81.4
 add list=pwlgrzs-blacklist address=178.248.86.139
@@ -9099,7 +9103,6 @@ add list=pwlgrzs-blacklist address=178.62.63.165
 add list=pwlgrzs-blacklist address=178.62.81.147
 add list=pwlgrzs-blacklist address=178.63.72.110
 add list=pwlgrzs-blacklist address=178.67.122.135
-add list=pwlgrzs-blacklist address=178.68.131.46
 add list=pwlgrzs-blacklist address=178.6.89.166
 add list=pwlgrzs-blacklist address=178.72.71.219
 add list=pwlgrzs-blacklist address=178.79.169.64
@@ -9121,7 +9124,6 @@ add list=pwlgrzs-blacklist address=179.107.34.178
 add list=pwlgrzs-blacklist address=179.108.181.161
 add list=pwlgrzs-blacklist address=179.111.233.126
 add list=pwlgrzs-blacklist address=179.112.179.168
-add list=pwlgrzs-blacklist address=179.112.196.120
 add list=pwlgrzs-blacklist address=179.114.204.35
 add list=pwlgrzs-blacklist address=179.114.223.69
 add list=pwlgrzs-blacklist address=179.114.55.71
@@ -9134,7 +9136,6 @@ add list=pwlgrzs-blacklist address=179.131.11.68
 add list=pwlgrzs-blacklist address=179.133.27.140
 add list=pwlgrzs-blacklist address=179.135.244.109
 add list=pwlgrzs-blacklist address=179.145.13.69
-add list=pwlgrzs-blacklist address=179.150.178.7
 add list=pwlgrzs-blacklist address=179.150.78.66
 add list=pwlgrzs-blacklist address=179.152.4.34
 add list=pwlgrzs-blacklist address=179.157.18.97
@@ -9147,8 +9148,10 @@ add list=pwlgrzs-blacklist address=179.171.193.122
 add list=pwlgrzs-blacklist address=179.171.204.199
 add list=pwlgrzs-blacklist address=179.171.29.150
 add list=pwlgrzs-blacklist address=179.171.79.52
+add list=pwlgrzs-blacklist address=179.172.191.249
 add list=pwlgrzs-blacklist address=179.175.176.26
 add list=pwlgrzs-blacklist address=179.175.186.75
+add list=pwlgrzs-blacklist address=179.175.191.244
 add list=pwlgrzs-blacklist address=179.175.3.206
 add list=pwlgrzs-blacklist address=179.175.3.246
 add list=pwlgrzs-blacklist address=179.179.162.9
@@ -9174,6 +9177,7 @@ add list=pwlgrzs-blacklist address=179.43.154.138
 add list=pwlgrzs-blacklist address=179.43.154.185
 add list=pwlgrzs-blacklist address=179.43.156.214
 add list=pwlgrzs-blacklist address=179.43.156.231
+add list=pwlgrzs-blacklist address=179.43.166.42
 add list=pwlgrzs-blacklist address=179.43.166.51
 add list=pwlgrzs-blacklist address=179.43.167.74
 add list=pwlgrzs-blacklist address=179.43.167.75
@@ -9184,7 +9188,6 @@ add list=pwlgrzs-blacklist address=179.48.251.188
 add list=pwlgrzs-blacklist address=179.50.90.210
 add list=pwlgrzs-blacklist address=179.51.253.124
 add list=pwlgrzs-blacklist address=179.51.253.196
-add list=pwlgrzs-blacklist address=179.60.149.12
 add list=pwlgrzs-blacklist address=179.60.149.123
 add list=pwlgrzs-blacklist address=179.6.28.201
 add list=pwlgrzs-blacklist address=179.73.143.3
@@ -9276,7 +9279,6 @@ add list=pwlgrzs-blacklist address=180.153.91.15
 add list=pwlgrzs-blacklist address=180.153.91.17
 add list=pwlgrzs-blacklist address=180.160.38.68
 add list=pwlgrzs-blacklist address=180.164.39.124
-add list=pwlgrzs-blacklist address=180.164.52.25
 add list=pwlgrzs-blacklist address=180.166.117.254
 add list=pwlgrzs-blacklist address=180.166.166.54
 add list=pwlgrzs-blacklist address=180.167.207.234
@@ -9291,6 +9293,7 @@ add list=pwlgrzs-blacklist address=180.175.243.223
 add list=pwlgrzs-blacklist address=180.175.244.138
 add list=pwlgrzs-blacklist address=180.175.244.19
 add list=pwlgrzs-blacklist address=180.175.244.31
+add list=pwlgrzs-blacklist address=180.175.247.140
 add list=pwlgrzs-blacklist address=180.178.192.0/18
 add list=pwlgrzs-blacklist address=180.179.20.12
 add list=pwlgrzs-blacklist address=180.180.123.207
@@ -9314,7 +9317,6 @@ add list=pwlgrzs-blacklist address=180.250.248.169
 add list=pwlgrzs-blacklist address=180.250.248.170
 add list=pwlgrzs-blacklist address=180.250.82.3
 add list=pwlgrzs-blacklist address=180.251.151.93
-add list=pwlgrzs-blacklist address=180.254.203.42
 add list=pwlgrzs-blacklist address=180.64.115.229
 add list=pwlgrzs-blacklist address=180.69.254.177
 add list=pwlgrzs-blacklist address=180.69.96.56
@@ -9360,11 +9362,11 @@ add list=pwlgrzs-blacklist address=180.76.154.107
 add list=pwlgrzs-blacklist address=180.76.154.28
 add list=pwlgrzs-blacklist address=180.76.155.29
 add list=pwlgrzs-blacklist address=180.76.155.61
-add list=pwlgrzs-blacklist address=180.76.156.128
 add list=pwlgrzs-blacklist address=180.76.156.234
 add list=pwlgrzs-blacklist address=180.76.156.55
 add list=pwlgrzs-blacklist address=180.76.159.234
 add list=pwlgrzs-blacklist address=180.76.160.64
+add list=pwlgrzs-blacklist address=180.76.160.74
 add list=pwlgrzs-blacklist address=180.76.161.192
 add list=pwlgrzs-blacklist address=180.76.161.40
 add list=pwlgrzs-blacklist address=180.76.162.22
@@ -9376,7 +9378,6 @@ add list=pwlgrzs-blacklist address=180.76.166.55
 add list=pwlgrzs-blacklist address=180.76.166.96
 add list=pwlgrzs-blacklist address=180.76.167.61
 add list=pwlgrzs-blacklist address=180.76.167.71
-add list=pwlgrzs-blacklist address=180.76.170.157
 add list=pwlgrzs-blacklist address=180.76.171.158
 add list=pwlgrzs-blacklist address=180.76.172.101
 add list=pwlgrzs-blacklist address=180.76.172.104
@@ -9453,6 +9454,7 @@ add list=pwlgrzs-blacklist address=181.143.10.148
 add list=pwlgrzs-blacklist address=181.15.102.19
 add list=pwlgrzs-blacklist address=181.15.102.29
 add list=pwlgrzs-blacklist address=181.15.102.60
+add list=pwlgrzs-blacklist address=181.15.102.85
 add list=pwlgrzs-blacklist address=18.116.15.156
 add list=pwlgrzs-blacklist address=18.116.38.126
 add list=pwlgrzs-blacklist address=181.171.38.85
@@ -9467,7 +9469,6 @@ add list=pwlgrzs-blacklist address=181.210.134.234
 add list=pwlgrzs-blacklist address=181.210.22.182
 add list=pwlgrzs-blacklist address=181.214.107.208
 add list=pwlgrzs-blacklist address=181.216.58.195
-add list=pwlgrzs-blacklist address=181.218.165.64
 add list=pwlgrzs-blacklist address=181.234.20.176
 add list=pwlgrzs-blacklist address=181.28.152.134
 add list=pwlgrzs-blacklist address=181.30.129.31
@@ -9496,6 +9497,7 @@ add list=pwlgrzs-blacklist address=181.63.248.149
 add list=pwlgrzs-blacklist address=181.65.35.26
 add list=pwlgrzs-blacklist address=181.65.45.167
 add list=pwlgrzs-blacklist address=18.168.218.47
+add list=pwlgrzs-blacklist address=181.81.110.139
 add list=pwlgrzs-blacklist address=181.88.198.63
 add list=pwlgrzs-blacklist address=181.89.48.60
 add list=pwlgrzs-blacklist address=18.191.208.32
@@ -9504,7 +9506,6 @@ add list=pwlgrzs-blacklist address=18.204.207.39
 add list=pwlgrzs-blacklist address=18.205.161.195
 add list=pwlgrzs-blacklist address=18.205.20.43
 add list=pwlgrzs-blacklist address=182.101.76.39
-add list=pwlgrzs-blacklist address=182.113.108.125
 add list=pwlgrzs-blacklist address=182.114.215.90
 add list=pwlgrzs-blacklist address=182.135.64.12
 add list=pwlgrzs-blacklist address=182.140.133.153
@@ -9518,7 +9519,6 @@ add list=pwlgrzs-blacklist address=182.160.96.46
 add list=pwlgrzs-blacklist address=182.16.245.79
 add list=pwlgrzs-blacklist address=182.16.245.85
 add list=pwlgrzs-blacklist address=182.163.90.49
-add list=pwlgrzs-blacklist address=182.191.114.43
 add list=pwlgrzs-blacklist address=182.19.172.166
 add list=pwlgrzs-blacklist address=182.191.92.203
 add list=pwlgrzs-blacklist address=18.219.35.74
@@ -9549,9 +9549,9 @@ add list=pwlgrzs-blacklist address=182.42.112.214
 add list=pwlgrzs-blacklist address=182.42.114.177
 add list=pwlgrzs-blacklist address=182.42.147.33
 add list=pwlgrzs-blacklist address=182.42.16.138
+add list=pwlgrzs-blacklist address=182.42.20.203
 add list=pwlgrzs-blacklist address=182.42.20.90
 add list=pwlgrzs-blacklist address=182.42.48.254
-add list=pwlgrzs-blacklist address=182.42.53.246
 add list=pwlgrzs-blacklist address=182.42.53.41
 add list=pwlgrzs-blacklist address=182.42.54.78
 add list=pwlgrzs-blacklist address=182.43.20.69
@@ -9569,6 +9569,7 @@ add list=pwlgrzs-blacklist address=182.70.121.135
 add list=pwlgrzs-blacklist address=182.70.122.213
 add list=pwlgrzs-blacklist address=182.70.124.50
 add list=pwlgrzs-blacklist address=182.70.125.62
+add list=pwlgrzs-blacklist address=182.70.126.208
 add list=pwlgrzs-blacklist address=182.70.240.130
 add list=pwlgrzs-blacklist address=182.70.252.174
 add list=pwlgrzs-blacklist address=182.70.252.182
@@ -9586,6 +9587,7 @@ add list=pwlgrzs-blacklist address=182.72.66.38
 add list=pwlgrzs-blacklist address=182.73.107.50
 add list=pwlgrzs-blacklist address=182.73.123.118
 add list=pwlgrzs-blacklist address=182.73.147.154
+add list=pwlgrzs-blacklist address=182.73.77.18
 add list=pwlgrzs-blacklist address=182.74.114.198
 add list=pwlgrzs-blacklist address=182.74.224.90
 add list=pwlgrzs-blacklist address=182.74.25.246
@@ -9593,11 +9595,12 @@ add list=pwlgrzs-blacklist address=182.75.197.174
 add list=pwlgrzs-blacklist address=182.75.216.74
 add list=pwlgrzs-blacklist address=182.75.227.178
 add list=pwlgrzs-blacklist address=182.75.243.62
-add list=pwlgrzs-blacklist address=182.75.75.94
 add list=pwlgrzs-blacklist address=182.76.47.236
 add list=pwlgrzs-blacklist address=182.76.63.150
 add list=pwlgrzs-blacklist address=182.77.50.82
 add list=pwlgrzs-blacklist address=182.77.56.193
+add list=pwlgrzs-blacklist address=182.77.62.25
+add list=pwlgrzs-blacklist address=182.77.62.48
 add list=pwlgrzs-blacklist address=182.79.33.174
 add list=pwlgrzs-blacklist address=182.91.203.95
 add list=pwlgrzs-blacklist address=182.91.39.128
@@ -9608,19 +9611,18 @@ add list=pwlgrzs-blacklist address=182.96.199.51
 add list=pwlgrzs-blacklist address=183.100.153.244
 add list=pwlgrzs-blacklist address=183.104.192.157
 add list=pwlgrzs-blacklist address=183.109.125.54
-add list=pwlgrzs-blacklist address=183.109.148.44
-add list=pwlgrzs-blacklist address=183.112.132.12
 add list=pwlgrzs-blacklist address=183.131.65.25
 add list=pwlgrzs-blacklist address=183.133.37.49
 add list=pwlgrzs-blacklist address=183.136.225.9
 add list=pwlgrzs-blacklist address=183.162.79.39
 add list=pwlgrzs-blacklist address=183.165.244.8
+add list=pwlgrzs-blacklist address=183.166.66.168
 add list=pwlgrzs-blacklist address=183.166.67.5
-add list=pwlgrzs-blacklist address=183.179.34.31
 add list=pwlgrzs-blacklist address=183.180.128.204
 add list=pwlgrzs-blacklist address=183.182.99.92
 add list=pwlgrzs-blacklist address=183.192.0.18
 add list=pwlgrzs-blacklist address=183.192.33.140
+add list=pwlgrzs-blacklist address=183.192.34.155
 add list=pwlgrzs-blacklist address=183.194.1.194
 add list=pwlgrzs-blacklist address=183.194.212.16
 add list=pwlgrzs-blacklist address=183.195.241.226
@@ -9634,19 +9636,17 @@ add list=pwlgrzs-blacklist address=183.223.37.167
 add list=pwlgrzs-blacklist address=183.230.197.49
 add list=pwlgrzs-blacklist address=183.245.16.45
 add list=pwlgrzs-blacklist address=183.247.165.222
-add list=pwlgrzs-blacklist address=183.250.223.10
 add list=pwlgrzs-blacklist address=183.250.223.18
-add list=pwlgrzs-blacklist address=183.250.223.27
-add list=pwlgrzs-blacklist address=183.250.223.49
 add list=pwlgrzs-blacklist address=183.250.40.13
 add list=pwlgrzs-blacklist address=183.252.15.157
+add list=pwlgrzs-blacklist address=183.26.240.110
 add list=pwlgrzs-blacklist address=183.56.194.81
 add list=pwlgrzs-blacklist address=183.56.202.127
 add list=pwlgrzs-blacklist address=183.6.121.120
 add list=pwlgrzs-blacklist address=183.62.20.2
 add list=pwlgrzs-blacklist address=183.62.203.226
 add list=pwlgrzs-blacklist address=183.62.55.194
-add list=pwlgrzs-blacklist address=183.77.156.89
+add list=pwlgrzs-blacklist address=183.6.99.197
 add list=pwlgrzs-blacklist address=183.81.34.203
 add list=pwlgrzs-blacklist address=183.82.0.21
 add list=pwlgrzs-blacklist address=183.82.103.213
@@ -9664,14 +9664,12 @@ add list=pwlgrzs-blacklist address=184.105.220.24
 add list=pwlgrzs-blacklist address=184.148.151.150
 add list=pwlgrzs-blacklist address=184.149.1.175
 add list=pwlgrzs-blacklist address=184.15.18.143
-add list=pwlgrzs-blacklist address=184.153.54.212
 add list=pwlgrzs-blacklist address=184.168.120.45
 add list=pwlgrzs-blacklist address=184.168.123.65
 add list=pwlgrzs-blacklist address=184.168.126.75
 add list=pwlgrzs-blacklist address=184.170.240.246
 add list=pwlgrzs-blacklist address=184.186.144.167
 add list=pwlgrzs-blacklist address=184.191.183.134
-add list=pwlgrzs-blacklist address=184.22.137.233
 add list=pwlgrzs-blacklist address=184.75.221.171
 add list=pwlgrzs-blacklist address=184.82.26.169
 add list=pwlgrzs-blacklist address=184.83.113.172
@@ -9706,7 +9704,6 @@ add list=pwlgrzs-blacklist address=185.10.68.65
 add list=pwlgrzs-blacklist address=185.107.47.171
 add list=pwlgrzs-blacklist address=185.107.47.215
 add list=pwlgrzs-blacklist address=185.107.70.56
-add list=pwlgrzs-blacklist address=185.108.105.82
 add list=pwlgrzs-blacklist address=185.110.0.0/22
 add list=pwlgrzs-blacklist address=185.112.144.119
 add list=pwlgrzs-blacklist address=185.112.144.158
@@ -9783,6 +9780,7 @@ add list=pwlgrzs-blacklist address=185.165.171.46
 add list=pwlgrzs-blacklist address=185.165.171.84
 add list=pwlgrzs-blacklist address=185.165.190.34
 add list=pwlgrzs-blacklist address=185.165.24.0/22
+add list=pwlgrzs-blacklist address=185.165.31.148
 add list=pwlgrzs-blacklist address=185.165.42.75
 add list=pwlgrzs-blacklist address=185.170.114.125
 add list=pwlgrzs-blacklist address=185.170.114.243
@@ -9801,6 +9799,7 @@ add list=pwlgrzs-blacklist address=185.184.25.78
 add list=pwlgrzs-blacklist address=185.185.170.27
 add list=pwlgrzs-blacklist address=185.185.48.0/22
 add list=pwlgrzs-blacklist address=185.189.129.74
+add list=pwlgrzs-blacklist address=185.190.117.89
 add list=pwlgrzs-blacklist address=185.190.140.44
 add list=pwlgrzs-blacklist address=185.191.204.254
 add list=pwlgrzs-blacklist address=185.191.205.90
@@ -9936,6 +9935,7 @@ add list=pwlgrzs-blacklist address=185.220.101.22
 add list=pwlgrzs-blacklist address=185.220.101.23
 add list=pwlgrzs-blacklist address=185.220.101.24
 add list=pwlgrzs-blacklist address=185.220.101.3
+add list=pwlgrzs-blacklist address=185.220.101.32
 add list=pwlgrzs-blacklist address=185.220.101.33
 add list=pwlgrzs-blacklist address=185.220.101.34
 add list=pwlgrzs-blacklist address=185.220.101.35
@@ -10000,6 +10000,7 @@ add list=pwlgrzs-blacklist address=185.220.102.241
 add list=pwlgrzs-blacklist address=185.220.102.242
 add list=pwlgrzs-blacklist address=185.220.102.243
 add list=pwlgrzs-blacklist address=185.220.102.244
+add list=pwlgrzs-blacklist address=185.220.102.245
 add list=pwlgrzs-blacklist address=185.220.102.246
 add list=pwlgrzs-blacklist address=185.220.102.247
 add list=pwlgrzs-blacklist address=185.220.102.248
@@ -10008,7 +10009,6 @@ add list=pwlgrzs-blacklist address=185.220.102.250
 add list=pwlgrzs-blacklist address=185.220.102.251
 add list=pwlgrzs-blacklist address=185.220.102.252
 add list=pwlgrzs-blacklist address=185.220.102.253
-add list=pwlgrzs-blacklist address=185.220.102.254
 add list=pwlgrzs-blacklist address=185.220.102.4
 add list=pwlgrzs-blacklist address=185.220.102.6
 add list=pwlgrzs-blacklist address=185.220.102.7
@@ -10078,7 +10078,6 @@ add list=pwlgrzs-blacklist address=185.249.85.200
 add list=pwlgrzs-blacklist address=185.252.84.0/22
 add list=pwlgrzs-blacklist address=185.254.198.32
 add list=pwlgrzs-blacklist address=185.254.75.32
-add list=pwlgrzs-blacklist address=185.28.39.65
 add list=pwlgrzs-blacklist address=185.30.168.0/22
 add list=pwlgrzs-blacklist address=185.30.177.250
 add list=pwlgrzs-blacklist address=185.31.136.244
@@ -10141,10 +10140,11 @@ add list=pwlgrzs-blacklist address=186.122.149.6
 add list=pwlgrzs-blacklist address=186.137.233.51
 add list=pwlgrzs-blacklist address=186.147.160.189
 add list=pwlgrzs-blacklist address=186.148.208.103
-add list=pwlgrzs-blacklist address=186.148.211.118
+add list=pwlgrzs-blacklist address=186.148.211.121
 add list=pwlgrzs-blacklist address=186.148.211.241
 add list=pwlgrzs-blacklist address=186.153.210.47
 add list=pwlgrzs-blacklist address=186.159.114.2
+add list=pwlgrzs-blacklist address=186.159.159.110
 add list=pwlgrzs-blacklist address=186.179.0.0/18
 add list=pwlgrzs-blacklist address=186.179.100.1
 add list=pwlgrzs-blacklist address=186.179.100.100
@@ -10171,7 +10171,6 @@ add list=pwlgrzs-blacklist address=186.179.100.229
 add list=pwlgrzs-blacklist address=186.179.100.232
 add list=pwlgrzs-blacklist address=186.179.100.249
 add list=pwlgrzs-blacklist address=186.179.100.250
-add list=pwlgrzs-blacklist address=186.179.100.251
 add list=pwlgrzs-blacklist address=186.179.100.254
 add list=pwlgrzs-blacklist address=186.179.100.29
 add list=pwlgrzs-blacklist address=186.179.100.35
@@ -10185,20 +10184,16 @@ add list=pwlgrzs-blacklist address=186.179.108.166
 add list=pwlgrzs-blacklist address=186.190.225.28
 add list=pwlgrzs-blacklist address=186.193.230.60
 add list=pwlgrzs-blacklist address=186.195.33.221
-add list=pwlgrzs-blacklist address=186.19.69.133
 add list=pwlgrzs-blacklist address=186.200.128.78
 add list=pwlgrzs-blacklist address=186.200.22.146
 add list=pwlgrzs-blacklist address=186.200.239.82
 add list=pwlgrzs-blacklist address=186.201.207.50
-add list=pwlgrzs-blacklist address=186.201.5.78
-add list=pwlgrzs-blacklist address=186.209.132.245
 add list=pwlgrzs-blacklist address=186.215.100.34
 add list=pwlgrzs-blacklist address=186.215.195.249
 add list=pwlgrzs-blacklist address=186.215.197.15
 add list=pwlgrzs-blacklist address=186.215.198.137
 add list=pwlgrzs-blacklist address=186.215.234.129
 add list=pwlgrzs-blacklist address=186.215.70.14
-add list=pwlgrzs-blacklist address=186.222.242.191
 add list=pwlgrzs-blacklist address=186.225.119.170
 add list=pwlgrzs-blacklist address=186.225.121.110
 add list=pwlgrzs-blacklist address=186.225.125.138
@@ -10217,15 +10212,14 @@ add list=pwlgrzs-blacklist address=186.238.31.10
 add list=pwlgrzs-blacklist address=186.239.134.158
 add list=pwlgrzs-blacklist address=186.239.155.106
 add list=pwlgrzs-blacklist address=186.239.167.154
-add list=pwlgrzs-blacklist address=186.239.201.126
 add list=pwlgrzs-blacklist address=186.239.85.186
 add list=pwlgrzs-blacklist address=186.239.98.190
 add list=pwlgrzs-blacklist address=186.250.48.117
-add list=pwlgrzs-blacklist address=186.37.146.223
 add list=pwlgrzs-blacklist address=186.4.222.45
 add list=pwlgrzs-blacklist address=186.45.128.124
 add list=pwlgrzs-blacklist address=186.45.128.125
 add list=pwlgrzs-blacklist address=186.45.130.161
+add list=pwlgrzs-blacklist address=186.45.130.251
 add list=pwlgrzs-blacklist address=186.45.131.232
 add list=pwlgrzs-blacklist address=186.45.134.148
 add list=pwlgrzs-blacklist address=186.45.136.86
@@ -10241,6 +10235,7 @@ add list=pwlgrzs-blacklist address=186.45.3.84
 add list=pwlgrzs-blacklist address=186.46.86.218
 add list=pwlgrzs-blacklist address=186.54.77.77
 add list=pwlgrzs-blacklist address=186.60.38.23
+add list=pwlgrzs-blacklist address=186.64.120.106
 add list=pwlgrzs-blacklist address=186.64.67.8
 add list=pwlgrzs-blacklist address=186.65.112.0/20
 add list=pwlgrzs-blacklist address=186.67.248.5
@@ -10273,7 +10268,6 @@ add list=pwlgrzs-blacklist address=187.16.64.193
 add list=pwlgrzs-blacklist address=187.16.64.194
 add list=pwlgrzs-blacklist address=187.168.190.129
 add list=pwlgrzs-blacklist address=187.170.239.238
-add list=pwlgrzs-blacklist address=187.170.64.66
 add list=pwlgrzs-blacklist address=187.172.170.129
 add list=pwlgrzs-blacklist address=187.172.191.97
 add list=pwlgrzs-blacklist address=187.172.219.103
@@ -10947,7 +10941,6 @@ add list=pwlgrzs-blacklist address=189.100.73.39
 add list=pwlgrzs-blacklist address=189.108.147.210
 add list=pwlgrzs-blacklist address=189.108.178.6
 add list=pwlgrzs-blacklist address=189.108.179.134
-add list=pwlgrzs-blacklist address=189.108.229.138
 add list=pwlgrzs-blacklist address=189.108.3.42
 add list=pwlgrzs-blacklist address=189.108.72.227
 add list=pwlgrzs-blacklist address=189.109.153.254
@@ -10955,22 +10948,26 @@ add list=pwlgrzs-blacklist address=189.109.239.46
 add list=pwlgrzs-blacklist address=189.109.53.198
 add list=pwlgrzs-blacklist address=189.109.72.202
 add list=pwlgrzs-blacklist address=189.112.238.5
+add list=pwlgrzs-blacklist address=189.113.185.228
 add list=pwlgrzs-blacklist address=189.113.185.236
 add list=pwlgrzs-blacklist address=189.113.185.44
 add list=pwlgrzs-blacklist address=189.113.186.131
 add list=pwlgrzs-blacklist address=189.113.186.22
 add list=pwlgrzs-blacklist address=189.113.186.42
 add list=pwlgrzs-blacklist address=189.113.187.22
+add list=pwlgrzs-blacklist address=189.113.187.46
 add list=pwlgrzs-blacklist address=189.113.187.56
 add list=pwlgrzs-blacklist address=189.114.136.231
 add list=pwlgrzs-blacklist address=189.114.140.70
 add list=pwlgrzs-blacklist address=189.114.67.195
 add list=pwlgrzs-blacklist address=189.114.93.191
+add list=pwlgrzs-blacklist address=189.125.37.42
 add list=pwlgrzs-blacklist address=189.146.122.127
 add list=pwlgrzs-blacklist address=189.146.78.175
 add list=pwlgrzs-blacklist address=189.146.87.77
 add list=pwlgrzs-blacklist address=189.15.10.152
 add list=pwlgrzs-blacklist address=189.162.25.18
+add list=pwlgrzs-blacklist address=189.175.157.63
 add list=pwlgrzs-blacklist address=189.178.49.191
 add list=pwlgrzs-blacklist address=189.180.25.182
 add list=pwlgrzs-blacklist address=189.180.59.250
@@ -11010,6 +11007,7 @@ add list=pwlgrzs-blacklist address=189.44.8.241
 add list=pwlgrzs-blacklist address=189.45.78.175
 add list=pwlgrzs-blacklist address=189.51.103.16
 add list=pwlgrzs-blacklist address=189.56.100.42
+add list=pwlgrzs-blacklist address=189.56.151.150
 add list=pwlgrzs-blacklist address=189.56.160.127
 add list=pwlgrzs-blacklist address=189.56.162.70
 add list=pwlgrzs-blacklist address=189.56.166.5
@@ -11028,8 +11026,8 @@ add list=pwlgrzs-blacklist address=189.70.65.89
 add list=pwlgrzs-blacklist address=189.7.129.60
 add list=pwlgrzs-blacklist address=189.82.180.238
 add list=pwlgrzs-blacklist address=189.8.68.56
+add list=pwlgrzs-blacklist address=189.93.20.170
 add list=pwlgrzs-blacklist address=189.97.146.148
-add list=pwlgrzs-blacklist address=189.97.166.67
 add list=pwlgrzs-blacklist address=189.97.175.194
 add list=pwlgrzs-blacklist address=189.97.30.21
 add list=pwlgrzs-blacklist address=189.98.178.145
@@ -11044,7 +11042,6 @@ add list=pwlgrzs-blacklist address=190.104.254.198
 add list=pwlgrzs-blacklist address=190.10.8.166
 add list=pwlgrzs-blacklist address=190.111.23.10
 add list=pwlgrzs-blacklist address=190.113.247.243
-add list=pwlgrzs-blacklist address=190.115.143.178
 add list=pwlgrzs-blacklist address=190.115.208.250
 add list=pwlgrzs-blacklist address=190.117.113.32
 add list=pwlgrzs-blacklist address=190.117.147.185
@@ -11058,6 +11055,7 @@ add list=pwlgrzs-blacklist address=190.12.120.29
 add list=pwlgrzs-blacklist address=190.121.9.124
 add list=pwlgrzs-blacklist address=190.122.167.78
 add list=pwlgrzs-blacklist address=190.123.208.0/20
+add list=pwlgrzs-blacklist address=190.123.237.28
 add list=pwlgrzs-blacklist address=190.128.118.185
 add list=pwlgrzs-blacklist address=190.128.169.130
 add list=pwlgrzs-blacklist address=190.128.171.250
@@ -11079,7 +11077,6 @@ add list=pwlgrzs-blacklist address=190.144.79.157
 add list=pwlgrzs-blacklist address=190.145.12.233
 add list=pwlgrzs-blacklist address=190.145.123.26
 add list=pwlgrzs-blacklist address=190.147.69.210
-add list=pwlgrzs-blacklist address=190.153.222.250
 add list=pwlgrzs-blacklist address=190.153.249.99
 add list=pwlgrzs-blacklist address=190.153.27.98
 add list=pwlgrzs-blacklist address=190.156.231.245
@@ -11105,7 +11102,6 @@ add list=pwlgrzs-blacklist address=190.208.38.123
 add list=pwlgrzs-blacklist address=190.210.182.179
 add list=pwlgrzs-blacklist address=190.216.232.245
 add list=pwlgrzs-blacklist address=190.216.236.62
-add list=pwlgrzs-blacklist address=190.217.83.158
 add list=pwlgrzs-blacklist address=190.218.41.46
 add list=pwlgrzs-blacklist address=190.223.26.38
 add list=pwlgrzs-blacklist address=190.224.32.30
@@ -11123,7 +11119,6 @@ add list=pwlgrzs-blacklist address=190.46.62.226
 add list=pwlgrzs-blacklist address=190.50.29.143
 add list=pwlgrzs-blacklist address=190.5.143.147
 add list=pwlgrzs-blacklist address=190.52.175.55
-add list=pwlgrzs-blacklist address=190.53.7.8
 add list=pwlgrzs-blacklist address=190.55.230.241
 add list=pwlgrzs-blacklist address=190.56.224.166
 add list=pwlgrzs-blacklist address=190.58.48.141
@@ -11138,8 +11133,10 @@ add list=pwlgrzs-blacklist address=190.85.142.162
 add list=pwlgrzs-blacklist address=190.85.185.194
 add list=pwlgrzs-blacklist address=190.86.212.217
 add list=pwlgrzs-blacklist address=190.89.146.58
+add list=pwlgrzs-blacklist address=190.92.137.177
 add list=pwlgrzs-blacklist address=190.94.215.61
 add list=pwlgrzs-blacklist address=190.97.204.164
+add list=pwlgrzs-blacklist address=191.101.31.44
 add list=pwlgrzs-blacklist address=191.102.120.117
 add list=pwlgrzs-blacklist address=191.102.120.13
 add list=pwlgrzs-blacklist address=191.102.120.160
@@ -11154,10 +11151,10 @@ add list=pwlgrzs-blacklist address=191.191.12.169
 add list=pwlgrzs-blacklist address=191.194.11.162
 add list=pwlgrzs-blacklist address=191.194.65.115
 add list=pwlgrzs-blacklist address=191.195.19.211
-add list=pwlgrzs-blacklist address=191.196.50.241
 add list=pwlgrzs-blacklist address=191.201.193.165
 add list=pwlgrzs-blacklist address=191.202.161.98
 add list=pwlgrzs-blacklist address=191.20.243.185
+add list=pwlgrzs-blacklist address=191.202.80.152
 add list=pwlgrzs-blacklist address=191.223.254.82
 add list=pwlgrzs-blacklist address=191.232.193.91
 add list=pwlgrzs-blacklist address=191.239.116.211
@@ -11196,8 +11193,6 @@ add list=pwlgrzs-blacklist address=192.145.124.28
 add list=pwlgrzs-blacklist address=192.152.194.0/24
 add list=pwlgrzs-blacklist address=192.154.11.0/24
 add list=pwlgrzs-blacklist address=192.160.44.0/24
-add list=pwlgrzs-blacklist address=192.164.247.194
-add list=pwlgrzs-blacklist address=192.169.137.88
 add list=pwlgrzs-blacklist address=192.175.111.229
 add list=pwlgrzs-blacklist address=192.175.111.241
 add list=pwlgrzs-blacklist address=192.175.111.242
@@ -11246,7 +11241,6 @@ add list=pwlgrzs-blacklist address=192.241.157.126
 add list=pwlgrzs-blacklist address=192.241.159.144
 add list=pwlgrzs-blacklist address=192.241.174.44
 add list=pwlgrzs-blacklist address=192.241.182.13
-add list=pwlgrzs-blacklist address=192.241.193.87
 add list=pwlgrzs-blacklist address=192.241.196.136
 add list=pwlgrzs-blacklist address=192.241.202.215
 add list=pwlgrzs-blacklist address=192.241.205.231
@@ -11301,6 +11295,7 @@ add list=pwlgrzs-blacklist address=192.241.220.250
 add list=pwlgrzs-blacklist address=192.241.220.48
 add list=pwlgrzs-blacklist address=192.241.220.81
 add list=pwlgrzs-blacklist address=192.241.220.92
+add list=pwlgrzs-blacklist address=192.241.220.96
 add list=pwlgrzs-blacklist address=192.241.221.104
 add list=pwlgrzs-blacklist address=192.241.221.106
 add list=pwlgrzs-blacklist address=192.241.221.122
@@ -11626,6 +11621,7 @@ add list=pwlgrzs-blacklist address=192.99.150.39
 add list=pwlgrzs-blacklist address=192.99.169.28
 add list=pwlgrzs-blacklist address=192.99.232.191
 add list=pwlgrzs-blacklist address=192.99.251.50
+add list=pwlgrzs-blacklist address=192.99.62.238
 add list=pwlgrzs-blacklist address=193.0.178.108
 add list=pwlgrzs-blacklist address=193.105.134.150
 add list=pwlgrzs-blacklist address=193.106.31.2
@@ -11709,7 +11705,6 @@ add list=pwlgrzs-blacklist address=194.147.140.0/24
 add list=pwlgrzs-blacklist address=194.152.206.17
 add list=pwlgrzs-blacklist address=194.152.206.93
 add list=pwlgrzs-blacklist address=194.152.220.157
-add list=pwlgrzs-blacklist address=194.169.171.11
 add list=pwlgrzs-blacklist address=194.182.73.224
 add list=pwlgrzs-blacklist address=194.190.106.89
 add list=pwlgrzs-blacklist address=194.204.194.11
@@ -11722,6 +11717,7 @@ add list=pwlgrzs-blacklist address=194.26.192.186
 add list=pwlgrzs-blacklist address=194.26.192.187
 add list=pwlgrzs-blacklist address=194.28.50.179
 add list=pwlgrzs-blacklist address=194.29.55.177
+add list=pwlgrzs-blacklist address=194.31.98.124
 add list=pwlgrzs-blacklist address=194.31.98.143
 add list=pwlgrzs-blacklist address=194.31.98.196
 add list=pwlgrzs-blacklist address=194.31.98.201
@@ -11763,6 +11759,7 @@ add list=pwlgrzs-blacklist address=195.181.171.229
 add list=pwlgrzs-blacklist address=195.182.57.0/24
 add list=pwlgrzs-blacklist address=195.19.105.13
 add list=pwlgrzs-blacklist address=195.192.232.13
+add list=pwlgrzs-blacklist address=195.19.24.253
 add list=pwlgrzs-blacklist address=195.19.4.87
 add list=pwlgrzs-blacklist address=195.205.96.22
 add list=pwlgrzs-blacklist address=195.206.105.217
@@ -11782,6 +11779,7 @@ add list=pwlgrzs-blacklist address=195.29.51.133
 add list=pwlgrzs-blacklist address=195.29.51.135
 add list=pwlgrzs-blacklist address=195.29.51.136
 add list=pwlgrzs-blacklist address=195.37.209.9
+add list=pwlgrzs-blacklist address=195.46.110.191
 add list=pwlgrzs-blacklist address=195.56.165.19
 add list=pwlgrzs-blacklist address=195.76.51.99
 add list=pwlgrzs-blacklist address=195.80.151.30
@@ -11831,6 +11829,7 @@ add list=pwlgrzs-blacklist address=197.255.134.231
 add list=pwlgrzs-blacklist address=197.255.137.140
 add list=pwlgrzs-blacklist address=197.255.138.164
 add list=pwlgrzs-blacklist address=197.255.138.249
+add list=pwlgrzs-blacklist address=197.255.139.52
 add list=pwlgrzs-blacklist address=197.255.139.75
 add list=pwlgrzs-blacklist address=197.255.141.117
 add list=pwlgrzs-blacklist address=197.5.145.243
@@ -11881,6 +11880,7 @@ add list=pwlgrzs-blacklist address=198.199.115.93
 add list=pwlgrzs-blacklist address=198.199.212.0/24
 add list=pwlgrzs-blacklist address=198.199.68.225
 add list=pwlgrzs-blacklist address=198.199.70.22
+add list=pwlgrzs-blacklist address=198.199.75.237
 add list=pwlgrzs-blacklist address=198.199.79.136
 add list=pwlgrzs-blacklist address=198.199.81.5
 add list=pwlgrzs-blacklist address=198.199.85.43
@@ -11894,6 +11894,7 @@ add list=pwlgrzs-blacklist address=198.202.237.0/24
 add list=pwlgrzs-blacklist address=198.204.0.0/21
 add list=pwlgrzs-blacklist address=198.206.140.0/24
 add list=pwlgrzs-blacklist address=198.211.109.66
+add list=pwlgrzs-blacklist address=198.211.110.178
 add list=pwlgrzs-blacklist address=198.211.113.126
 add list=pwlgrzs-blacklist address=198.211.121.90
 add list=pwlgrzs-blacklist address=198.211.26.230
@@ -11971,6 +11972,7 @@ add list=pwlgrzs-blacklist address=199.192.24.50
 add list=pwlgrzs-blacklist address=199.193.96.141
 add list=pwlgrzs-blacklist address=199.195.248.29
 add list=pwlgrzs-blacklist address=199.195.248.80
+add list=pwlgrzs-blacklist address=199.195.249.203
 add list=pwlgrzs-blacklist address=199.195.249.214
 add list=pwlgrzs-blacklist address=199.195.250.13
 add list=pwlgrzs-blacklist address=199.195.252.18
@@ -12171,7 +12173,6 @@ add list=pwlgrzs-blacklist address=200.150.69.11
 add list=pwlgrzs-blacklist address=200.152.109.181
 add list=pwlgrzs-blacklist address=200.153.22.134
 add list=pwlgrzs-blacklist address=200.153.93.90
-add list=pwlgrzs-blacklist address=200.159.13.186
 add list=pwlgrzs-blacklist address=200.159.48.45
 add list=pwlgrzs-blacklist address=200.159.51.243
 add list=pwlgrzs-blacklist address=200.159.66.225
@@ -12202,7 +12203,6 @@ add list=pwlgrzs-blacklist address=200.232.36.222
 add list=pwlgrzs-blacklist address=200.236.218.62
 add list=pwlgrzs-blacklist address=200.239.4.188
 add list=pwlgrzs-blacklist address=200.241.189.34
-add list=pwlgrzs-blacklist address=200.241.39.37
 add list=pwlgrzs-blacklist address=200.25.29.50
 add list=pwlgrzs-blacklist address=200.29.109.224
 add list=pwlgrzs-blacklist address=200.29.111.71
@@ -12231,7 +12231,6 @@ add list=pwlgrzs-blacklist address=200.71.124.0/22
 add list=pwlgrzs-blacklist address=200.7.198.66
 add list=pwlgrzs-blacklist address=200.73.128.181
 add list=pwlgrzs-blacklist address=200.73.128.183
-add list=pwlgrzs-blacklist address=200.73.128.192
 add list=pwlgrzs-blacklist address=200.73.130.237
 add list=pwlgrzs-blacklist address=200.73.131.217
 add list=pwlgrzs-blacklist address=200.73.131.62
@@ -12248,7 +12247,6 @@ add list=pwlgrzs-blacklist address=200.89.159.190
 add list=pwlgrzs-blacklist address=200.89.174.178
 add list=pwlgrzs-blacklist address=200.91.219.250
 add list=pwlgrzs-blacklist address=20.101.101.40
-add list=pwlgrzs-blacklist address=20.101.102.253
 add list=pwlgrzs-blacklist address=201.0.25.172
 add list=pwlgrzs-blacklist address=20.103.107.29
 add list=pwlgrzs-blacklist address=20.104.91.36
@@ -12302,7 +12300,6 @@ add list=pwlgrzs-blacklist address=201.173.171.58
 add list=pwlgrzs-blacklist address=201.173.205.148
 add list=pwlgrzs-blacklist address=201.173.217.252
 add list=pwlgrzs-blacklist address=201.173.250.121
-add list=pwlgrzs-blacklist address=201.173.56.229
 add list=pwlgrzs-blacklist address=201.173.97.118
 add list=pwlgrzs-blacklist address=201.173.97.143
 add list=pwlgrzs-blacklist address=201.173.97.8
@@ -12344,6 +12341,8 @@ add list=pwlgrzs-blacklist address=201.234.115.98
 add list=pwlgrzs-blacklist address=201.234.115.99
 add list=pwlgrzs-blacklist address=20.123.5.89
 add list=pwlgrzs-blacklist address=201.238.215.131
+add list=pwlgrzs-blacklist address=20.124.222.241
+add list=pwlgrzs-blacklist address=20.124.33.2
 add list=pwlgrzs-blacklist address=201.251.125.43
 add list=pwlgrzs-blacklist address=201.251.127.123
 add list=pwlgrzs-blacklist address=20.126.8.45
@@ -12370,12 +12369,10 @@ add list=pwlgrzs-blacklist address=201.63.207.218
 add list=pwlgrzs-blacklist address=201.63.55.162
 add list=pwlgrzs-blacklist address=201.63.74.58
 add list=pwlgrzs-blacklist address=201.63.83.37
-add list=pwlgrzs-blacklist address=201.64.138.10
 add list=pwlgrzs-blacklist address=201.66.142.235
 add list=pwlgrzs-blacklist address=201.76.115.102
 add list=pwlgrzs-blacklist address=201.80.78.133
 add list=pwlgrzs-blacklist address=20.187.105.165
-add list=pwlgrzs-blacklist address=20.187.108.216
 add list=pwlgrzs-blacklist address=20.187.121.187
 add list=pwlgrzs-blacklist address=20.187.126.109
 add list=pwlgrzs-blacklist address=20.187.126.222
@@ -12383,6 +12380,7 @@ add list=pwlgrzs-blacklist address=20.187.126.243
 add list=pwlgrzs-blacklist address=20.187.126.53
 add list=pwlgrzs-blacklist address=201.87.151.166
 add list=pwlgrzs-blacklist address=20.187.75.16
+add list=pwlgrzs-blacklist address=20.187.83.42
 add list=pwlgrzs-blacklist address=20.187.85.139
 add list=pwlgrzs-blacklist address=201.88.166.236
 add list=pwlgrzs-blacklist address=201.91.101.26
@@ -12438,6 +12436,7 @@ add list=pwlgrzs-blacklist address=202.133.60.157
 add list=pwlgrzs-blacklist address=202.133.60.245
 add list=pwlgrzs-blacklist address=202.134.152.2
 add list=pwlgrzs-blacklist address=202.134.18.102
+add list=pwlgrzs-blacklist address=20.213.56.166
 add list=pwlgrzs-blacklist address=202.137.134.174
 add list=pwlgrzs-blacklist address=202.137.154.91
 add list=pwlgrzs-blacklist address=202.137.155.22
@@ -12484,10 +12483,8 @@ add list=pwlgrzs-blacklist address=20.218.98.16
 add list=pwlgrzs-blacklist address=20.219.104.127
 add list=pwlgrzs-blacklist address=20.219.106.241
 add list=pwlgrzs-blacklist address=20.219.110.136
-add list=pwlgrzs-blacklist address=20.219.110.224
 add list=pwlgrzs-blacklist address=20.219.111.186
 add list=pwlgrzs-blacklist address=20.219.111.219
-add list=pwlgrzs-blacklist address=20.219.111.221
 add list=pwlgrzs-blacklist address=20.219.111.222
 add list=pwlgrzs-blacklist address=20.219.121.94
 add list=pwlgrzs-blacklist address=20.219.125.151
@@ -12554,11 +12551,9 @@ add list=pwlgrzs-blacklist address=20.239.92.212
 add list=pwlgrzs-blacklist address=202.40.188.154
 add list=pwlgrzs-blacklist address=202.40.32.0/19
 add list=pwlgrzs-blacklist address=202.40.64.0/18
-add list=pwlgrzs-blacklist address=20.24.100.197
 add list=pwlgrzs-blacklist address=20.24.145.249
 add list=pwlgrzs-blacklist address=20.24.148.27
 add list=pwlgrzs-blacklist address=202.43.248.162
-add list=pwlgrzs-blacklist address=20.243.80.80
 add list=pwlgrzs-blacklist address=20.24.67.67
 add list=pwlgrzs-blacklist address=20.24.69.202
 add list=pwlgrzs-blacklist address=202.47.117.222
@@ -12569,6 +12564,7 @@ add list=pwlgrzs-blacklist address=202.51.122.163
 add list=pwlgrzs-blacklist address=202.51.74.123
 add list=pwlgrzs-blacklist address=202.53.68.55
 add list=pwlgrzs-blacklist address=202.53.71.24
+add list=pwlgrzs-blacklist address=202.53.80.157
 add list=pwlgrzs-blacklist address=202.53.88.98
 add list=pwlgrzs-blacklist address=202.53.90.185
 add list=pwlgrzs-blacklist address=202.55.135.28
@@ -12596,6 +12592,7 @@ add list=pwlgrzs-blacklist address=202.86.138.50
 add list=pwlgrzs-blacklist address=202.87.175.129
 add list=pwlgrzs-blacklist address=202.88.209.35
 add list=pwlgrzs-blacklist address=202.88.241.158
+add list=pwlgrzs-blacklist address=202.90.198.159
 add list=pwlgrzs-blacklist address=20.29.48.70
 add list=pwlgrzs-blacklist address=202.97.158.115
 add list=pwlgrzs-blacklist address=203.101.126.153
@@ -12693,6 +12690,7 @@ add list=pwlgrzs-blacklist address=204.147.240.0/20
 add list=pwlgrzs-blacklist address=204.147.64.0/21
 add list=pwlgrzs-blacklist address=204.147.96.0/20
 add list=pwlgrzs-blacklist address=204.14.80.0/22
+add list=pwlgrzs-blacklist address=204.16.100.159
 add list=pwlgrzs-blacklist address=204.174.223.210
 add list=pwlgrzs-blacklist address=204.17.56.42
 add list=pwlgrzs-blacklist address=204.19.38.0/23
@@ -12779,7 +12777,6 @@ add list=pwlgrzs-blacklist address=205.185.113.121
 add list=pwlgrzs-blacklist address=205.185.113.140
 add list=pwlgrzs-blacklist address=205.185.113.16
 add list=pwlgrzs-blacklist address=205.185.115.87
-add list=pwlgrzs-blacklist address=205.185.116.143
 add list=pwlgrzs-blacklist address=205.185.117.149
 add list=pwlgrzs-blacklist address=205.185.117.89
 add list=pwlgrzs-blacklist address=205.185.119.35
@@ -12854,14 +12851,12 @@ add list=pwlgrzs-blacklist address=206.189.192.55
 add list=pwlgrzs-blacklist address=206.189.198.237
 add list=pwlgrzs-blacklist address=206.189.198.55
 add list=pwlgrzs-blacklist address=206.189.205.93
-add list=pwlgrzs-blacklist address=206.189.206.35
 add list=pwlgrzs-blacklist address=206.189.213.126
 add list=pwlgrzs-blacklist address=206.189.219.241
 add list=pwlgrzs-blacklist address=206.189.226.38
 add list=pwlgrzs-blacklist address=206.189.229.70
 add list=pwlgrzs-blacklist address=206.189.233.23
 add list=pwlgrzs-blacklist address=206.189.233.82
-add list=pwlgrzs-blacklist address=206.189.25.102
 add list=pwlgrzs-blacklist address=206.189.31.90
 add list=pwlgrzs-blacklist address=206.189.35.215
 add list=pwlgrzs-blacklist address=206.189.46.147
@@ -12959,9 +12954,11 @@ add list=pwlgrzs-blacklist address=207.70.224.0/20
 add list=pwlgrzs-blacklist address=20.78.0.40
 add list=pwlgrzs-blacklist address=20.78.34.74
 add list=pwlgrzs-blacklist address=207.90.0.0/18
+add list=pwlgrzs-blacklist address=207.98.143.171
 add list=pwlgrzs-blacklist address=208.105.193.45
 add list=pwlgrzs-blacklist address=208.105.196.214
 add list=pwlgrzs-blacklist address=208.107.221.224
+add list=pwlgrzs-blacklist address=208.109.15.144
 add list=pwlgrzs-blacklist address=208.109.33.133
 add list=pwlgrzs-blacklist address=208.115.240.102
 add list=pwlgrzs-blacklist address=208.12.64.0/19
@@ -12970,7 +12967,6 @@ add list=pwlgrzs-blacklist address=20.86.48.28
 add list=pwlgrzs-blacklist address=208.73.206.156
 add list=pwlgrzs-blacklist address=208.73.208.0/22
 add list=pwlgrzs-blacklist address=20.87.73.140
-add list=pwlgrzs-blacklist address=208.83.185.187
 add list=pwlgrzs-blacklist address=208.90.10.76
 add list=pwlgrzs-blacklist address=208.90.32.0/21
 add list=pwlgrzs-blacklist address=20.89.105.181
@@ -12979,15 +12975,16 @@ add list=pwlgrzs-blacklist address=20.91.213.148
 add list=pwlgrzs-blacklist address=20.91.214.19
 add list=pwlgrzs-blacklist address=20.91.219.70
 add list=pwlgrzs-blacklist address=20.91.220.240
+add list=pwlgrzs-blacklist address=209.126.80.250
 add list=pwlgrzs-blacklist address=209.126.8.92
 add list=pwlgrzs-blacklist address=209.126.98.206
+add list=pwlgrzs-blacklist address=209.14.131.254
 add list=pwlgrzs-blacklist address=209.141.34.134
 add list=pwlgrzs-blacklist address=209.141.34.81
 add list=pwlgrzs-blacklist address=209.141.36.254
 add list=pwlgrzs-blacklist address=209.141.37.189
 add list=pwlgrzs-blacklist address=209.141.37.94
 add list=pwlgrzs-blacklist address=209.141.40.19
-add list=pwlgrzs-blacklist address=209.141.40.253
 add list=pwlgrzs-blacklist address=209.141.41.103
 add list=pwlgrzs-blacklist address=209.141.41.225
 add list=pwlgrzs-blacklist address=209.141.42.230
@@ -13000,7 +12997,6 @@ add list=pwlgrzs-blacklist address=209.141.52.25
 add list=pwlgrzs-blacklist address=209.141.53.20
 add list=pwlgrzs-blacklist address=209.141.54.203
 add list=pwlgrzs-blacklist address=209.141.55.128
-add list=pwlgrzs-blacklist address=209.141.55.52
 add list=pwlgrzs-blacklist address=209.141.56.96
 add list=pwlgrzs-blacklist address=209.141.58.146
 add list=pwlgrzs-blacklist address=209.141.59.69
@@ -13013,14 +13009,12 @@ add list=pwlgrzs-blacklist address=209.14.68.155
 add list=pwlgrzs-blacklist address=209.14.68.19
 add list=pwlgrzs-blacklist address=209.14.68.47
 add list=pwlgrzs-blacklist address=209.14.69.113
-add list=pwlgrzs-blacklist address=209.14.69.184
 add list=pwlgrzs-blacklist address=209.14.69.243
 add list=pwlgrzs-blacklist address=209.14.69.70
 add list=pwlgrzs-blacklist address=209.14.69.71
 add list=pwlgrzs-blacklist address=209.14.70.125
 add list=pwlgrzs-blacklist address=209.14.70.146
 add list=pwlgrzs-blacklist address=209.14.70.200
-add list=pwlgrzs-blacklist address=209.14.70.203
 add list=pwlgrzs-blacklist address=209.14.70.209
 add list=pwlgrzs-blacklist address=209.14.71.119
 add list=pwlgrzs-blacklist address=209.14.71.182
@@ -13037,8 +13031,6 @@ add list=pwlgrzs-blacklist address=209.182.102.50
 add list=pwlgrzs-blacklist address=209.182.64.0/19
 add list=pwlgrzs-blacklist address=209.203.62.202
 add list=pwlgrzs-blacklist address=209.204.26.134
-add list=pwlgrzs-blacklist address=209.216.92.203
-add list=pwlgrzs-blacklist address=209.216.92.206
 add list=pwlgrzs-blacklist address=20.92.233.117
 add list=pwlgrzs-blacklist address=209.226.100.199
 add list=pwlgrzs-blacklist address=209.250.2.211
@@ -13079,6 +13071,7 @@ add list=pwlgrzs-blacklist address=210.19.112.202
 add list=pwlgrzs-blacklist address=210.195.14.65
 add list=pwlgrzs-blacklist address=210.202.61.2
 add list=pwlgrzs-blacklist address=210.204.124.64
+add list=pwlgrzs-blacklist address=210.208.116.218
 add list=pwlgrzs-blacklist address=210.211.116.204
 add list=pwlgrzs-blacklist address=210.211.116.80
 add list=pwlgrzs-blacklist address=210.211.117.212
@@ -13110,7 +13103,6 @@ add list=pwlgrzs-blacklist address=210.97.42.238
 add list=pwlgrzs-blacklist address=210.97.86.61
 add list=pwlgrzs-blacklist address=210.99.20.194
 add list=pwlgrzs-blacklist address=211.104.172.54
-add list=pwlgrzs-blacklist address=211.105.186.192
 add list=pwlgrzs-blacklist address=211.184.226.99
 add list=pwlgrzs-blacklist address=211.193.31.52
 add list=pwlgrzs-blacklist address=211.194.126.232
@@ -13119,7 +13111,6 @@ add list=pwlgrzs-blacklist address=211.197.184.133
 add list=pwlgrzs-blacklist address=211.198.128.204
 add list=pwlgrzs-blacklist address=211.198.144.160
 add list=pwlgrzs-blacklist address=211.20.109.52
-add list=pwlgrzs-blacklist address=211.20.47.70
 add list=pwlgrzs-blacklist address=211.205.155.42
 add list=pwlgrzs-blacklist address=211.21.101.155
 add list=pwlgrzs-blacklist address=211.21.102.14
@@ -13155,11 +13146,9 @@ add list=pwlgrzs-blacklist address=211.36.141.105
 add list=pwlgrzs-blacklist address=211.36.141.107
 add list=pwlgrzs-blacklist address=211.36.141.110
 add list=pwlgrzs-blacklist address=211.36.141.113
-add list=pwlgrzs-blacklist address=211.36.141.114
 add list=pwlgrzs-blacklist address=211.36.141.118
 add list=pwlgrzs-blacklist address=211.36.141.12
 add list=pwlgrzs-blacklist address=211.36.141.120
-add list=pwlgrzs-blacklist address=211.36.141.124
 add list=pwlgrzs-blacklist address=211.36.141.125
 add list=pwlgrzs-blacklist address=211.36.141.126
 add list=pwlgrzs-blacklist address=211.36.141.129
@@ -13174,15 +13163,16 @@ add list=pwlgrzs-blacklist address=211.36.141.150
 add list=pwlgrzs-blacklist address=211.36.141.153
 add list=pwlgrzs-blacklist address=211.36.141.154
 add list=pwlgrzs-blacklist address=211.36.141.155
-add list=pwlgrzs-blacklist address=211.36.141.156
 add list=pwlgrzs-blacklist address=211.36.141.157
 add list=pwlgrzs-blacklist address=211.36.141.158
+add list=pwlgrzs-blacklist address=211.36.141.160
 add list=pwlgrzs-blacklist address=211.36.141.162
 add list=pwlgrzs-blacklist address=211.36.141.163
 add list=pwlgrzs-blacklist address=211.36.141.166
 add list=pwlgrzs-blacklist address=211.36.141.167
 add list=pwlgrzs-blacklist address=211.36.141.172
 add list=pwlgrzs-blacklist address=211.36.141.174
+add list=pwlgrzs-blacklist address=211.36.141.175
 add list=pwlgrzs-blacklist address=211.36.141.178
 add list=pwlgrzs-blacklist address=211.36.141.18
 add list=pwlgrzs-blacklist address=211.36.141.183
@@ -13201,7 +13191,6 @@ add list=pwlgrzs-blacklist address=211.36.141.202
 add list=pwlgrzs-blacklist address=211.36.141.206
 add list=pwlgrzs-blacklist address=211.36.141.207
 add list=pwlgrzs-blacklist address=211.36.141.208
-add list=pwlgrzs-blacklist address=211.36.141.210
 add list=pwlgrzs-blacklist address=211.36.141.212
 add list=pwlgrzs-blacklist address=211.36.141.214
 add list=pwlgrzs-blacklist address=211.36.141.215
@@ -13214,16 +13203,13 @@ add list=pwlgrzs-blacklist address=211.36.141.233
 add list=pwlgrzs-blacklist address=211.36.141.235
 add list=pwlgrzs-blacklist address=211.36.141.236
 add list=pwlgrzs-blacklist address=211.36.141.239
-add list=pwlgrzs-blacklist address=211.36.141.24
 add list=pwlgrzs-blacklist address=211.36.141.240
 add list=pwlgrzs-blacklist address=211.36.141.248
 add list=pwlgrzs-blacklist address=211.36.141.249
 add list=pwlgrzs-blacklist address=211.36.141.250
 add list=pwlgrzs-blacklist address=211.36.141.253
-add list=pwlgrzs-blacklist address=211.36.141.254
 add list=pwlgrzs-blacklist address=211.36.141.27
 add list=pwlgrzs-blacklist address=211.36.141.28
-add list=pwlgrzs-blacklist address=211.36.141.29
 add list=pwlgrzs-blacklist address=211.36.141.3
 add list=pwlgrzs-blacklist address=211.36.141.33
 add list=pwlgrzs-blacklist address=211.36.141.35
@@ -13239,10 +13225,10 @@ add list=pwlgrzs-blacklist address=211.36.141.54
 add list=pwlgrzs-blacklist address=211.36.141.55
 add list=pwlgrzs-blacklist address=211.36.141.60
 add list=pwlgrzs-blacklist address=211.36.141.61
+add list=pwlgrzs-blacklist address=211.36.141.63
 add list=pwlgrzs-blacklist address=211.36.141.68
 add list=pwlgrzs-blacklist address=211.36.141.69
 add list=pwlgrzs-blacklist address=211.36.141.7
-add list=pwlgrzs-blacklist address=211.36.141.72
 add list=pwlgrzs-blacklist address=211.36.141.75
 add list=pwlgrzs-blacklist address=211.36.141.79
 add list=pwlgrzs-blacklist address=211.36.141.81
@@ -13253,12 +13239,10 @@ add list=pwlgrzs-blacklist address=211.36.141.92
 add list=pwlgrzs-blacklist address=211.36.141.93
 add list=pwlgrzs-blacklist address=211.36.141.96
 add list=pwlgrzs-blacklist address=211.36.150.62
-add list=pwlgrzs-blacklist address=211.36.156.104
 add list=pwlgrzs-blacklist address=211.36.158.117
 add list=pwlgrzs-blacklist address=211.37.174.72
 add list=pwlgrzs-blacklist address=211.43.12.240
 add list=pwlgrzs-blacklist address=211.44.198.209
-add list=pwlgrzs-blacklist address=211.44.64.16
 add list=pwlgrzs-blacklist address=211.45.247.122
 add list=pwlgrzs-blacklist address=211.46.230.76
 add list=pwlgrzs-blacklist address=211.48.194.28
@@ -13274,6 +13258,7 @@ add list=pwlgrzs-blacklist address=212.112.86.37
 add list=pwlgrzs-blacklist address=212.129.28.213
 add list=pwlgrzs-blacklist address=212.132.199.168
 add list=pwlgrzs-blacklist address=2.12.138.149
+add list=pwlgrzs-blacklist address=212.142.159.122
 add list=pwlgrzs-blacklist address=212.142.175.56
 add list=pwlgrzs-blacklist address=212.142.226.93
 add list=pwlgrzs-blacklist address=212.144.221.242
@@ -13283,6 +13268,7 @@ add list=pwlgrzs-blacklist address=212.175.63.126
 add list=pwlgrzs-blacklist address=212.178.177.170
 add list=pwlgrzs-blacklist address=212.192.246.216
 add list=pwlgrzs-blacklist address=212.193.30.0/24
+add list=pwlgrzs-blacklist address=212.193.48.124
 add list=pwlgrzs-blacklist address=212.197.161.81
 add list=pwlgrzs-blacklist address=212.197.173.253
 add list=pwlgrzs-blacklist address=212.200.255.43
@@ -13307,6 +13293,7 @@ add list=pwlgrzs-blacklist address=213.141.131.22
 add list=pwlgrzs-blacklist address=213.141.142.213
 add list=pwlgrzs-blacklist address=213.144.151.107
 add list=pwlgrzs-blacklist address=213.147.211.187
+add list=pwlgrzs-blacklist address=213.162.73.243
 add list=pwlgrzs-blacklist address=213.162.80.159
 add list=pwlgrzs-blacklist address=213.164.204.116
 add list=pwlgrzs-blacklist address=213.164.204.146
@@ -13353,16 +13340,16 @@ add list=pwlgrzs-blacklist address=213.33.217.226
 add list=pwlgrzs-blacklist address=213.37.44.29
 add list=pwlgrzs-blacklist address=213.40.72.230
 add list=pwlgrzs-blacklist address=213.49.148.216
-add list=pwlgrzs-blacklist address=213.52.128.158
+add list=pwlgrzs-blacklist address=2.135.122.98
 add list=pwlgrzs-blacklist address=213.59.139.112
 add list=pwlgrzs-blacklist address=2.136.110.159
+add list=pwlgrzs-blacklist address=213.90.65.235
 add list=pwlgrzs-blacklist address=2.139.145.12
 add list=pwlgrzs-blacklist address=2.139.149.249
 add list=pwlgrzs-blacklist address=2.139.220.58
 add list=pwlgrzs-blacklist address=213.95.149.22
 add list=pwlgrzs-blacklist address=2.139.64.47
 add list=pwlgrzs-blacklist address=2.142.173.239
-add list=pwlgrzs-blacklist address=2.152.102.158
 add list=pwlgrzs-blacklist address=216.10.247.146
 add list=pwlgrzs-blacklist address=216.10.251.121
 add list=pwlgrzs-blacklist address=216.107.207.78
@@ -14677,13 +14664,11 @@ add list=pwlgrzs-blacklist address=216.57.165.17
 add list=pwlgrzs-blacklist address=216.71.19.79
 add list=pwlgrzs-blacklist address=216.73.159.101
 add list=pwlgrzs-blacklist address=216.81.48.178
-add list=pwlgrzs-blacklist address=216.8.218.220
 add list=pwlgrzs-blacklist address=217.100.52.204
 add list=pwlgrzs-blacklist address=217.10.103.163
 add list=pwlgrzs-blacklist address=217.10.103.170
 add list=pwlgrzs-blacklist address=217.10.103.227
 add list=pwlgrzs-blacklist address=217.109.57.18
-add list=pwlgrzs-blacklist address=217.113.229.88
 add list=pwlgrzs-blacklist address=217.117.146.37
 add list=pwlgrzs-blacklist address=217.118.46.41
 add list=pwlgrzs-blacklist address=217.119.152.151
@@ -14722,7 +14707,7 @@ add list=pwlgrzs-blacklist address=217.66.195.27
 add list=pwlgrzs-blacklist address=217.66.25.10
 add list=pwlgrzs-blacklist address=217.70.186.133
 add list=pwlgrzs-blacklist address=217.72.125.128
-add list=pwlgrzs-blacklist address=217.72.6.246
+add list=pwlgrzs-blacklist address=217.74.96.239
 add list=pwlgrzs-blacklist address=217.79.178.53
 add list=pwlgrzs-blacklist address=217.79.179.7
 add list=pwlgrzs-blacklist address=217.79.180.211
@@ -14781,13 +14766,13 @@ add list=pwlgrzs-blacklist address=218.2.61.50
 add list=pwlgrzs-blacklist address=218.26.163.125
 add list=pwlgrzs-blacklist address=218.2.61.86
 add list=pwlgrzs-blacklist address=218.28.200.67
+add list=pwlgrzs-blacklist address=218.4.127.78
 add list=pwlgrzs-blacklist address=218.55.101.162
 add list=pwlgrzs-blacklist address=218.56.155.106
 add list=pwlgrzs-blacklist address=218.56.160.82
 add list=pwlgrzs-blacklist address=218.56.165.214
 add list=pwlgrzs-blacklist address=218.56.175.94
 add list=pwlgrzs-blacklist address=218.58.52.83
-add list=pwlgrzs-blacklist address=218.59.137.214
 add list=pwlgrzs-blacklist address=218.60.104.1
 add list=pwlgrzs-blacklist address=218.60.104.104
 add list=pwlgrzs-blacklist address=218.62.91.135
@@ -14823,7 +14808,9 @@ add list=pwlgrzs-blacklist address=218.93.220.102
 add list=pwlgrzs-blacklist address=218.93.53.118
 add list=pwlgrzs-blacklist address=218.94.144.82
 add list=pwlgrzs-blacklist address=219.129.236.174
+add list=pwlgrzs-blacklist address=219.129.96.2
 add list=pwlgrzs-blacklist address=219.130.135.190
+add list=pwlgrzs-blacklist address=219.142.244.218
 add list=pwlgrzs-blacklist address=219.142.247.146
 add list=pwlgrzs-blacklist address=219.154.19.125
 add list=pwlgrzs-blacklist address=219.156.100.174
@@ -14864,20 +14851,20 @@ add list=pwlgrzs-blacklist address=220.179.214.105
 add list=pwlgrzs-blacklist address=220.179.231.239
 add list=pwlgrzs-blacklist address=220.180.107.193
 add list=pwlgrzs-blacklist address=220.180.107.235
+add list=pwlgrzs-blacklist address=220.180.111.18
 add list=pwlgrzs-blacklist address=220.180.119.192
+add list=pwlgrzs-blacklist address=220.180.171.157
 add list=pwlgrzs-blacklist address=220.185.11.65
 add list=pwlgrzs-blacklist address=220.194.140.110
 add list=pwlgrzs-blacklist address=220.203.8.38
 add list=pwlgrzs-blacklist address=220.205.122.155
 add list=pwlgrzs-blacklist address=220.205.122.165
 add list=pwlgrzs-blacklist address=220.205.122.212
-add list=pwlgrzs-blacklist address=220.220.56.54
 add list=pwlgrzs-blacklist address=220.225.126.55
 add list=pwlgrzs-blacklist address=220.225.7.200
 add list=pwlgrzs-blacklist address=220.232.145.10
 add list=pwlgrzs-blacklist address=220.243.178.124
 add list=pwlgrzs-blacklist address=220.246.36.42
-add list=pwlgrzs-blacklist address=220.246.66.166
 add list=pwlgrzs-blacklist address=220.246.66.209
 add list=pwlgrzs-blacklist address=220.246.94.235
 add list=pwlgrzs-blacklist address=2.204.243.197
@@ -14919,6 +14906,7 @@ add list=pwlgrzs-blacklist address=221.138.38.85
 add list=pwlgrzs-blacklist address=221.139.118.87
 add list=pwlgrzs-blacklist address=221.140.2.233
 add list=pwlgrzs-blacklist address=221.140.57.201
+add list=pwlgrzs-blacklist address=221.142.138.158
 add list=pwlgrzs-blacklist address=221.142.226.43
 add list=pwlgrzs-blacklist address=221.144.199.99
 add list=pwlgrzs-blacklist address=221.146.152.66
@@ -14970,7 +14958,6 @@ add list=pwlgrzs-blacklist address=221.230.170.48
 add list=pwlgrzs-blacklist address=221.230.170.6
 add list=pwlgrzs-blacklist address=221.230.170.93
 add list=pwlgrzs-blacklist address=221.231.102.26
-add list=pwlgrzs-blacklist address=221.233.194.45
 add list=pwlgrzs-blacklist address=221.234.48.147
 add list=pwlgrzs-blacklist address=221.234.9.207
 add list=pwlgrzs-blacklist address=221.235.112.14
@@ -15036,7 +15023,6 @@ add list=pwlgrzs-blacklist address=222.252.243.104
 add list=pwlgrzs-blacklist address=222.252.25.186
 add list=pwlgrzs-blacklist address=222.252.27.153
 add list=pwlgrzs-blacklist address=222.255.115.237
-add list=pwlgrzs-blacklist address=222.65.73.202
 add list=pwlgrzs-blacklist address=222.66.148.170
 add list=pwlgrzs-blacklist address=222.69.132.110
 add list=pwlgrzs-blacklist address=222.71.13.226
@@ -15071,9 +15057,10 @@ add list=pwlgrzs-blacklist address=223.171.72.234
 add list=pwlgrzs-blacklist address=223.171.91.143
 add list=pwlgrzs-blacklist address=223.171.91.144
 add list=pwlgrzs-blacklist address=223.171.91.148
-add list=pwlgrzs-blacklist address=223.171.91.150
 add list=pwlgrzs-blacklist address=223.171.91.158
+add list=pwlgrzs-blacklist address=223.171.91.174
 add list=pwlgrzs-blacklist address=223.171.91.185
+add list=pwlgrzs-blacklist address=223.171.92.59
 add list=pwlgrzs-blacklist address=223.173.0.0/16
 add list=pwlgrzs-blacklist address=223.197.142.129
 add list=pwlgrzs-blacklist address=223.197.142.137
@@ -15081,7 +15068,6 @@ add list=pwlgrzs-blacklist address=223.197.142.140
 add list=pwlgrzs-blacklist address=223.197.143.46
 add list=pwlgrzs-blacklist address=223.197.145.33
 add list=pwlgrzs-blacklist address=223.197.153.135
-add list=pwlgrzs-blacklist address=223.197.172.72
 add list=pwlgrzs-blacklist address=223.197.175.91
 add list=pwlgrzs-blacklist address=223.197.186.7
 add list=pwlgrzs-blacklist address=223.197.220.67
@@ -15094,11 +15080,11 @@ add list=pwlgrzs-blacklist address=223.215.176.212
 add list=pwlgrzs-blacklist address=223.223.194.101
 add list=pwlgrzs-blacklist address=223.239.130.118
 add list=pwlgrzs-blacklist address=223.240.208.186
-add list=pwlgrzs-blacklist address=223.241.247.214
 add list=pwlgrzs-blacklist address=223.242.253.215
 add list=pwlgrzs-blacklist address=223.254.0.0/16
 add list=pwlgrzs-blacklist address=223.255.161.237
 add list=pwlgrzs-blacklist address=223.255.187.154
+add list=pwlgrzs-blacklist address=223.25.76.234
 add list=pwlgrzs-blacklist address=223.26.28.178
 add list=pwlgrzs-blacklist address=223.26.31.75
 add list=pwlgrzs-blacklist address=223.30.216.67
@@ -15341,7 +15327,6 @@ add list=pwlgrzs-blacklist address=23.254.227.53
 add list=pwlgrzs-blacklist address=23.254.229.131
 add list=pwlgrzs-blacklist address=23.254.253.92
 add list=pwlgrzs-blacklist address=2.34.12.8
-add list=pwlgrzs-blacklist address=2.36.97.130
 add list=pwlgrzs-blacklist address=23.81.246.187
 add list=pwlgrzs-blacklist address=23.82.128.149
 add list=pwlgrzs-blacklist address=23.83.133.13
@@ -15373,8 +15358,8 @@ add list=pwlgrzs-blacklist address=23.99.197.211
 add list=pwlgrzs-blacklist address=23.99.96.251
 add list=pwlgrzs-blacklist address=2.40.105.18
 add list=pwlgrzs-blacklist address=24.103.60.242
-add list=pwlgrzs-blacklist address=24.106.136.30
 add list=pwlgrzs-blacklist address=24.113.178.183
+add list=pwlgrzs-blacklist address=24.119.46.118
 add list=pwlgrzs-blacklist address=24.120.10.18
 add list=pwlgrzs-blacklist address=24.123.28.215
 add list=pwlgrzs-blacklist address=24.134.110.177
@@ -15382,7 +15367,6 @@ add list=pwlgrzs-blacklist address=24.135.158.128
 add list=pwlgrzs-blacklist address=24.137.16.0/20
 add list=pwlgrzs-blacklist address=24.139.72.117
 add list=pwlgrzs-blacklist address=24.143.127.197
-add list=pwlgrzs-blacklist address=24.143.127.200
 add list=pwlgrzs-blacklist address=24.143.127.228
 add list=pwlgrzs-blacklist address=24.152.219.253
 add list=pwlgrzs-blacklist address=24.152.37.148
@@ -15393,12 +15377,12 @@ add list=pwlgrzs-blacklist address=24.170.208.0/20
 add list=pwlgrzs-blacklist address=24.172.172.2
 add list=pwlgrzs-blacklist address=24.178.196.158
 add list=pwlgrzs-blacklist address=24.180.25.204
+add list=pwlgrzs-blacklist address=24.182.52.19
 add list=pwlgrzs-blacklist address=24.200.13.95
-add list=pwlgrzs-blacklist address=24.200.74.203
 add list=pwlgrzs-blacklist address=24.20.208.167
 add list=pwlgrzs-blacklist address=24.205.197.65
+add list=pwlgrzs-blacklist address=24.209.182.150
 add list=pwlgrzs-blacklist address=2.42.138.122
-add list=pwlgrzs-blacklist address=24.221.15.138
 add list=pwlgrzs-blacklist address=24.222.222.166
 add list=pwlgrzs-blacklist address=24.223.112.170
 add list=pwlgrzs-blacklist address=24.224.178.87
@@ -15414,7 +15398,6 @@ add list=pwlgrzs-blacklist address=24.29.75.194
 add list=pwlgrzs-blacklist address=24.30.67.77
 add list=pwlgrzs-blacklist address=2.44.134.61
 add list=pwlgrzs-blacklist address=2.44.166.148
-add list=pwlgrzs-blacklist address=24.42.218.75
 add list=pwlgrzs-blacklist address=24.43.99.75
 add list=pwlgrzs-blacklist address=2.45.191.223
 add list=pwlgrzs-blacklist address=24.55.67.176
@@ -15427,8 +15410,6 @@ add list=pwlgrzs-blacklist address=2.55.105.126
 add list=pwlgrzs-blacklist address=2.55.124.234
 add list=pwlgrzs-blacklist address=2.56.192.0/22
 add list=pwlgrzs-blacklist address=2.56.56.196
-add list=pwlgrzs-blacklist address=2.56.56.5
-add list=pwlgrzs-blacklist address=2.56.57.105
 add list=pwlgrzs-blacklist address=2.56.57.132
 add list=pwlgrzs-blacklist address=2.56.57.167
 add list=pwlgrzs-blacklist address=2.56.57.34
@@ -15457,7 +15438,6 @@ add list=pwlgrzs-blacklist address=2.59.200.0/22
 add list=pwlgrzs-blacklist address=27.109.12.34
 add list=pwlgrzs-blacklist address=27.112.32.0/19
 add list=pwlgrzs-blacklist address=27.115.50.114
-add list=pwlgrzs-blacklist address=27.116.16.118
 add list=pwlgrzs-blacklist address=27.118.22.221
 add list=pwlgrzs-blacklist address=27.124.32.175
 add list=pwlgrzs-blacklist address=27.124.5.113
@@ -15533,6 +15513,7 @@ add list=pwlgrzs-blacklist address=31.163.159.147
 add list=pwlgrzs-blacklist address=31.169.121.25
 add list=pwlgrzs-blacklist address=31.169.98.171
 add list=pwlgrzs-blacklist address=31.18.138.6
+add list=pwlgrzs-blacklist address=31.182.249.85
 add list=pwlgrzs-blacklist address=31.184.186.111
 add list=pwlgrzs-blacklist address=31.184.198.71
 add list=pwlgrzs-blacklist address=31.186.76.245
@@ -15553,7 +15534,6 @@ add list=pwlgrzs-blacklist address=31.215.214.100
 add list=pwlgrzs-blacklist address=31.215.69.115
 add list=pwlgrzs-blacklist address=31.215.69.176
 add list=pwlgrzs-blacklist address=31.215.70.187
-add list=pwlgrzs-blacklist address=31.220.17.31
 add list=pwlgrzs-blacklist address=3.12.30.116
 add list=pwlgrzs-blacklist address=31.24.148.37
 add list=pwlgrzs-blacklist address=31.24.200.23
@@ -15610,7 +15590,6 @@ add list=pwlgrzs-blacklist address=34.176.50.114
 add list=pwlgrzs-blacklist address=34.201.110.45
 add list=pwlgrzs-blacklist address=34.203.96.246
 add list=pwlgrzs-blacklist address=34.207.145.215
-add list=pwlgrzs-blacklist address=34.217.63.61
 add list=pwlgrzs-blacklist address=34.218.210.133
 add list=pwlgrzs-blacklist address=34.220.150.187
 add list=pwlgrzs-blacklist address=34.222.86.167
@@ -15653,6 +15632,7 @@ add list=pwlgrzs-blacklist address=35.199.93.228
 add list=pwlgrzs-blacklist address=35.199.95.142
 add list=pwlgrzs-blacklist address=35.199.97.42
 add list=pwlgrzs-blacklist address=35.205.118.1
+add list=pwlgrzs-blacklist address=35.206.64.142
 add list=pwlgrzs-blacklist address=35.207.85.200
 add list=pwlgrzs-blacklist address=35.207.98.222
 add list=pwlgrzs-blacklist address=35.210.112.171
@@ -15679,6 +15659,7 @@ add list=pwlgrzs-blacklist address=35.74.62.81
 add list=pwlgrzs-blacklist address=35.76.88.129
 add list=pwlgrzs-blacklist address=35.80.31.160
 add list=pwlgrzs-blacklist address=35.87.242.139
+add list=pwlgrzs-blacklist address=35.88.132.241
 add list=pwlgrzs-blacklist address=35.88.52.144
 add list=pwlgrzs-blacklist address=35.88.90.153
 add list=pwlgrzs-blacklist address=36.0.8.0/21
@@ -15691,7 +15672,6 @@ add list=pwlgrzs-blacklist address=36.110.228.34
 add list=pwlgrzs-blacklist address=36.110.85.91
 add list=pwlgrzs-blacklist address=36.112.150.184
 add list=pwlgrzs-blacklist address=36.112.150.215
-add list=pwlgrzs-blacklist address=36.112.91.214
 add list=pwlgrzs-blacklist address=36.116.0.0/16
 add list=pwlgrzs-blacklist address=36.119.0.0/16
 add list=pwlgrzs-blacklist address=36.133.121.16
@@ -15714,7 +15694,6 @@ add list=pwlgrzs-blacklist address=36.35.151.150
 add list=pwlgrzs-blacklist address=36.37.181.181
 add list=pwlgrzs-blacklist address=36.37.185.65
 add list=pwlgrzs-blacklist address=36.37.48.0/20
-add list=pwlgrzs-blacklist address=36.49.36.25
 add list=pwlgrzs-blacklist address=36.66.151.17
 add list=pwlgrzs-blacklist address=36.66.188.183
 add list=pwlgrzs-blacklist address=36.66.211.7
@@ -15746,7 +15725,6 @@ add list=pwlgrzs-blacklist address=37.0.11.132
 add list=pwlgrzs-blacklist address=37.0.11.19
 add list=pwlgrzs-blacklist address=37.0.11.25
 add list=pwlgrzs-blacklist address=37.0.15.227
-add list=pwlgrzs-blacklist address=37.0.15.233
 add list=pwlgrzs-blacklist address=37.0.15.236
 add list=pwlgrzs-blacklist address=37.0.8.132
 add list=pwlgrzs-blacklist address=37.0.8.175
@@ -15757,7 +15735,7 @@ add list=pwlgrzs-blacklist address=37.0.8.40
 add list=pwlgrzs-blacklist address=37.0.8.44
 add list=pwlgrzs-blacklist address=37.0.8.74
 add list=pwlgrzs-blacklist address=37.0.8.80
-add list=pwlgrzs-blacklist address=37.110.147.1
+add list=pwlgrzs-blacklist address=37.0.8.84
 add list=pwlgrzs-blacklist address=37.113.108.23
 add list=pwlgrzs-blacklist address=37.117.81.30
 add list=pwlgrzs-blacklist address=37.120.160.110
@@ -15817,10 +15795,10 @@ add list=pwlgrzs-blacklist address=37.30.45.59
 add list=pwlgrzs-blacklist address=37.34.253.233
 add list=pwlgrzs-blacklist address=37.48.120.196
 add list=pwlgrzs-blacklist address=37.49.225.106
-add list=pwlgrzs-blacklist address=37.49.225.139
 add list=pwlgrzs-blacklist address=37.49.225.145
 add list=pwlgrzs-blacklist address=37.49.225.19
 add list=pwlgrzs-blacklist address=37.49.225.191
+add list=pwlgrzs-blacklist address=37.49.225.30
 add list=pwlgrzs-blacklist address=37.53.78.135
 add list=pwlgrzs-blacklist address=3.7.55.16
 add list=pwlgrzs-blacklist address=37.58.60.163
@@ -15869,7 +15847,6 @@ add list=pwlgrzs-blacklist address=38.44.81.105
 add list=pwlgrzs-blacklist address=38.44.81.217
 add list=pwlgrzs-blacklist address=38.44.81.221
 add list=pwlgrzs-blacklist address=38.44.84.164
-add list=pwlgrzs-blacklist address=38.44.84.195
 add list=pwlgrzs-blacklist address=38.44.85.3
 add list=pwlgrzs-blacklist address=38.44.86.26
 add list=pwlgrzs-blacklist address=38.44.86.30
@@ -15892,17 +15869,20 @@ add list=pwlgrzs-blacklist address=38.44.95.101
 add list=pwlgrzs-blacklist address=38.54.16.83
 add list=pwlgrzs-blacklist address=38.65.139.222
 add list=pwlgrzs-blacklist address=38.65.139.225
+add list=pwlgrzs-blacklist address=3.86.59.42
 add list=pwlgrzs-blacklist address=38.70.253.226
 add list=pwlgrzs-blacklist address=38.83.78.212
 add list=pwlgrzs-blacklist address=38.88.127.14
 add list=pwlgrzs-blacklist address=38.91.101.223
 add list=pwlgrzs-blacklist address=3.89.181.14
 add list=pwlgrzs-blacklist address=39.102.83.23
+add list=pwlgrzs-blacklist address=39.103.139.6
 add list=pwlgrzs-blacklist address=39.106.157.127
 add list=pwlgrzs-blacklist address=39.109.112.89
 add list=pwlgrzs-blacklist address=39.109.113.139
 add list=pwlgrzs-blacklist address=39.109.113.50
 add list=pwlgrzs-blacklist address=39.109.114.154
+add list=pwlgrzs-blacklist address=39.109.115.158
 add list=pwlgrzs-blacklist address=39.109.115.185
 add list=pwlgrzs-blacklist address=39.109.127.242
 add list=pwlgrzs-blacklist address=39.116.31.90
@@ -15959,7 +15939,6 @@ add list=pwlgrzs-blacklist address=40.81.25.156
 add list=pwlgrzs-blacklist address=40.83.34.44
 add list=pwlgrzs-blacklist address=40.84.16.183
 add list=pwlgrzs-blacklist address=40.85.90.154
-add list=pwlgrzs-blacklist address=40.86.115.247
 add list=pwlgrzs-blacklist address=40.86.76.226
 add list=pwlgrzs-blacklist address=40.87.17.163
 add list=pwlgrzs-blacklist address=40.88.35.229
@@ -16034,12 +16013,11 @@ add list=pwlgrzs-blacklist address=42.119.111.155
 add list=pwlgrzs-blacklist address=42.128.0.0/12
 add list=pwlgrzs-blacklist address=42.159.80.91
 add list=pwlgrzs-blacklist address=42.160.0.0/12
-add list=pwlgrzs-blacklist address=42.1.60.165
 add list=pwlgrzs-blacklist address=42.176.133.141
 add list=pwlgrzs-blacklist address=42.192.141.99
-add list=pwlgrzs-blacklist address=42.192.145.22
 add list=pwlgrzs-blacklist address=42.192.77.48
 add list=pwlgrzs-blacklist address=42.193.16.109
+add list=pwlgrzs-blacklist address=42.194.138.192
 add list=pwlgrzs-blacklist address=42.200.11.53
 add list=pwlgrzs-blacklist address=42.200.11.54
 add list=pwlgrzs-blacklist address=42.200.149.223
@@ -16313,7 +16291,6 @@ add list=pwlgrzs-blacklist address=43.134.211.59
 add list=pwlgrzs-blacklist address=43.134.211.75
 add list=pwlgrzs-blacklist address=43.134.214.80
 add list=pwlgrzs-blacklist address=43.134.23.142
-add list=pwlgrzs-blacklist address=43.134.231.46
 add list=pwlgrzs-blacklist address=43.134.240.234
 add list=pwlgrzs-blacklist address=43.134.31.33
 add list=pwlgrzs-blacklist address=43.134.60.6
@@ -16607,7 +16584,6 @@ add list=pwlgrzs-blacklist address=43.154.201.10
 add list=pwlgrzs-blacklist address=43.154.201.130
 add list=pwlgrzs-blacklist address=43.154.201.145
 add list=pwlgrzs-blacklist address=43.154.201.167
-add list=pwlgrzs-blacklist address=43.154.201.173
 add list=pwlgrzs-blacklist address=43.154.201.237
 add list=pwlgrzs-blacklist address=43.154.20.179
 add list=pwlgrzs-blacklist address=43.154.202.171
@@ -17214,7 +17190,6 @@ add list=pwlgrzs-blacklist address=43.156.65.84
 add list=pwlgrzs-blacklist address=43.156.66.195
 add list=pwlgrzs-blacklist address=43.156.66.251
 add list=pwlgrzs-blacklist address=43.156.67.200
-add list=pwlgrzs-blacklist address=43.156.72.111
 add list=pwlgrzs-blacklist address=43.156.77.50
 add list=pwlgrzs-blacklist address=43.156.78.159
 add list=pwlgrzs-blacklist address=43.156.78.96
@@ -17265,7 +17240,6 @@ add list=pwlgrzs-blacklist address=43.251.255.86
 add list=pwlgrzs-blacklist address=43.251.255.87
 add list=pwlgrzs-blacklist address=43.251.255.88
 add list=pwlgrzs-blacklist address=43.251.255.92
-add list=pwlgrzs-blacklist address=43.252.233.43
 add list=pwlgrzs-blacklist address=43.252.62.60
 add list=pwlgrzs-blacklist address=43.252.80.0/22
 add list=pwlgrzs-blacklist address=43.252.88.154
@@ -17275,7 +17249,6 @@ add list=pwlgrzs-blacklist address=43.57.0.0/16
 add list=pwlgrzs-blacklist address=44.196.171.96
 add list=pwlgrzs-blacklist address=44.203.102.4
 add list=pwlgrzs-blacklist address=44.203.196.210
-add list=pwlgrzs-blacklist address=44.204.15.106
 add list=pwlgrzs-blacklist address=44.204.75.245
 add list=pwlgrzs-blacklist address=44.235.90.220
 add list=pwlgrzs-blacklist address=45.10.24.134
@@ -17283,6 +17256,7 @@ add list=pwlgrzs-blacklist address=45.112.242.137
 add list=pwlgrzs-blacklist address=45.112.242.6
 add list=pwlgrzs-blacklist address=45.11.26.16
 add list=pwlgrzs-blacklist address=45.114.130.4
+add list=pwlgrzs-blacklist address=45.115.173.11
 add list=pwlgrzs-blacklist address=45.115.99.42
 add list=pwlgrzs-blacklist address=45.116.114.28
 add list=pwlgrzs-blacklist address=45.117.83.197
@@ -17331,6 +17305,7 @@ add list=pwlgrzs-blacklist address=45.136.153.200
 add list=pwlgrzs-blacklist address=45.137.190.43
 add list=pwlgrzs-blacklist address=45.137.22.183
 add list=pwlgrzs-blacklist address=45.137.22.86
+add list=pwlgrzs-blacklist address=45.137.23.81
 add list=pwlgrzs-blacklist address=45.140.167.55
 add list=pwlgrzs-blacklist address=45.141.157.180
 add list=pwlgrzs-blacklist address=45.141.84.10
@@ -17420,8 +17395,6 @@ add list=pwlgrzs-blacklist address=45.221.8.236
 add list=pwlgrzs-blacklist address=45.224.85.28
 add list=pwlgrzs-blacklist address=45.226.53.34
 add list=pwlgrzs-blacklist address=45.230.49.37
-add list=pwlgrzs-blacklist address=45.231.194.82
-add list=pwlgrzs-blacklist address=45.232.176.3
 add list=pwlgrzs-blacklist address=45.232.18.30
 add list=pwlgrzs-blacklist address=45.232.73.83
 add list=pwlgrzs-blacklist address=45.232.73.84
@@ -17458,7 +17431,6 @@ add list=pwlgrzs-blacklist address=45.32.117.227
 add list=pwlgrzs-blacklist address=45.32.117.238
 add list=pwlgrzs-blacklist address=45.32.127.91
 add list=pwlgrzs-blacklist address=45.32.155.213
-add list=pwlgrzs-blacklist address=45.32.81.15
 add list=pwlgrzs-blacklist address=45.32.93.206
 add list=pwlgrzs-blacklist address=45.32.93.239
 add list=pwlgrzs-blacklist address=45.33.101.246
@@ -17466,10 +17438,8 @@ add list=pwlgrzs-blacklist address=45.33.65.249
 add list=pwlgrzs-blacklist address=45.35.215.160
 add list=pwlgrzs-blacklist address=45.40.54.43
 add list=pwlgrzs-blacklist address=45.40.54.45
-add list=pwlgrzs-blacklist address=45.4.166.19
 add list=pwlgrzs-blacklist address=45.46.53.140
 add list=pwlgrzs-blacklist address=45.49.236.166
-add list=pwlgrzs-blacklist address=45.49.251.3
 add list=pwlgrzs-blacklist address=45.49.8.133
 add list=pwlgrzs-blacklist address=45.55.163.60
 add list=pwlgrzs-blacklist address=45.55.165.48
@@ -17488,7 +17458,6 @@ add list=pwlgrzs-blacklist address=45.61.185.114
 add list=pwlgrzs-blacklist address=45.61.185.125
 add list=pwlgrzs-blacklist address=45.61.185.160
 add list=pwlgrzs-blacklist address=45.61.185.53
-add list=pwlgrzs-blacklist address=45.61.185.86
 add list=pwlgrzs-blacklist address=45.61.185.90
 add list=pwlgrzs-blacklist address=45.61.186.108
 add list=pwlgrzs-blacklist address=45.61.186.166
@@ -17545,7 +17514,6 @@ add list=pwlgrzs-blacklist address=45.93.16.54
 add list=pwlgrzs-blacklist address=45.95.147.7
 add list=pwlgrzs-blacklist address=45.95.169.139
 add list=pwlgrzs-blacklist address=45.95.169.230
-add list=pwlgrzs-blacklist address=45.95.55.41
 add list=pwlgrzs-blacklist address=45.95.55.44
 add list=pwlgrzs-blacklist address=46.101.132.159
 add list=pwlgrzs-blacklist address=46.101.137.223
@@ -17586,7 +17554,6 @@ add list=pwlgrzs-blacklist address=46.107.48.202
 add list=pwlgrzs-blacklist address=46.118.112.135
 add list=pwlgrzs-blacklist address=46.118.241.147
 add list=pwlgrzs-blacklist address=46.124.190.131
-add list=pwlgrzs-blacklist address=46.125.250.108
 add list=pwlgrzs-blacklist address=46.142.128.21
 add list=pwlgrzs-blacklist address=46.144.38.49
 add list=pwlgrzs-blacklist address=46.148.112.0/24
@@ -17596,7 +17563,6 @@ add list=pwlgrzs-blacklist address=46.148.148.83
 add list=pwlgrzs-blacklist address=46.161.27.204
 add list=pwlgrzs-blacklist address=46.163.187.30
 add list=pwlgrzs-blacklist address=46.166.139.111
-add list=pwlgrzs-blacklist address=46.166.37.32
 add list=pwlgrzs-blacklist address=46.167.244.6
 add list=pwlgrzs-blacklist address=46.172.152.217
 add list=pwlgrzs-blacklist address=46.173.219.0/24
@@ -17633,11 +17599,11 @@ add list=pwlgrzs-blacklist address=46.85.64.231
 add list=pwlgrzs-blacklist address=47.100.208.57
 add list=pwlgrzs-blacklist address=47.103.59.19
 add list=pwlgrzs-blacklist address=47.104.136.57
+add list=pwlgrzs-blacklist address=47.105.36.69
 add list=pwlgrzs-blacklist address=47.106.250.3
 add list=pwlgrzs-blacklist address=47.112.112.30
 add list=pwlgrzs-blacklist address=47.115.148.239
 add list=pwlgrzs-blacklist address=47.118.51.150
-add list=pwlgrzs-blacklist address=47.133.211.135
 add list=pwlgrzs-blacklist address=47.134.22.71
 add list=pwlgrzs-blacklist address=47.149.76.187
 add list=pwlgrzs-blacklist address=47.156.131.10
@@ -17677,6 +17643,7 @@ add list=pwlgrzs-blacklist address=47.42.234.41
 add list=pwlgrzs-blacklist address=47.44.211.19
 add list=pwlgrzs-blacklist address=47.44.215.186
 add list=pwlgrzs-blacklist address=47.45.19.148
+add list=pwlgrzs-blacklist address=47.48.196.158
 add list=pwlgrzs-blacklist address=47.51.249.162
 add list=pwlgrzs-blacklist address=47.51.71.110
 add list=pwlgrzs-blacklist address=47.6.47.59
@@ -17696,6 +17663,7 @@ add list=pwlgrzs-blacklist address=49.143.32.6
 add list=pwlgrzs-blacklist address=49.156.149.190
 add list=pwlgrzs-blacklist address=49.156.160.0/19
 add list=pwlgrzs-blacklist address=49.204.142.217
+add list=pwlgrzs-blacklist address=49.204.233.193
 add list=pwlgrzs-blacklist address=49.205.177.59
 add list=pwlgrzs-blacklist address=49.206.244.235
 add list=pwlgrzs-blacklist address=49.212.135.219
@@ -17725,6 +17693,7 @@ add list=pwlgrzs-blacklist address=49.244.133.210
 add list=pwlgrzs-blacklist address=49.244.161.223
 add list=pwlgrzs-blacklist address=49.245.123.164
 add list=pwlgrzs-blacklist address=49.245.76.177
+add list=pwlgrzs-blacklist address=49.245.81.43
 add list=pwlgrzs-blacklist address=49.246.65.251
 add list=pwlgrzs-blacklist address=49.247.146.184
 add list=pwlgrzs-blacklist address=49.247.146.74
@@ -17737,7 +17706,6 @@ add list=pwlgrzs-blacklist address=49.249.27.90
 add list=pwlgrzs-blacklist address=49.51.243.157
 add list=pwlgrzs-blacklist address=49.64.190.185
 add list=pwlgrzs-blacklist address=49.70.48.33
-add list=pwlgrzs-blacklist address=49.7.131.182
 add list=pwlgrzs-blacklist address=49.82.106.100
 add list=pwlgrzs-blacklist address=49.82.106.197
 add list=pwlgrzs-blacklist address=49.82.106.201
@@ -17759,7 +17727,6 @@ add list=pwlgrzs-blacklist address=49.82.163.27
 add list=pwlgrzs-blacklist address=49.82.163.65
 add list=pwlgrzs-blacklist address=49.82.55.147
 add list=pwlgrzs-blacklist address=49.82.55.165
-add list=pwlgrzs-blacklist address=49.82.55.56
 add list=pwlgrzs-blacklist address=49.82.55.73
 add list=pwlgrzs-blacklist address=49.85.140.173
 add list=pwlgrzs-blacklist address=49.85.140.50
@@ -17819,9 +17786,9 @@ add list=pwlgrzs-blacklist address=50.54.134.4
 add list=pwlgrzs-blacklist address=50.7.240.10
 add list=pwlgrzs-blacklist address=50.77.93.145
 add list=pwlgrzs-blacklist address=50.79.160.130
-add list=pwlgrzs-blacklist address=50.86.201.61
 add list=pwlgrzs-blacklist address=50.89.114.204
 add list=pwlgrzs-blacklist address=5.101.1.20
+add list=pwlgrzs-blacklist address=5.104.216.7
 add list=pwlgrzs-blacklist address=51.105.29.119
 add list=pwlgrzs-blacklist address=51.11.157.80
 add list=pwlgrzs-blacklist address=51.11.179.219
@@ -19963,7 +19930,6 @@ add list=pwlgrzs-blacklist address=51.83.43.206
 add list=pwlgrzs-blacklist address=5.183.60.0/22
 add list=pwlgrzs-blacklist address=5.186.40.23
 add list=pwlgrzs-blacklist address=5.186.49.16
-add list=pwlgrzs-blacklist address=5.187.231.176
 add list=pwlgrzs-blacklist address=5.187.246.222
 add list=pwlgrzs-blacklist address=5.188.10.0/23
 add list=pwlgrzs-blacklist address=5.188.11.0/24
@@ -20025,6 +19991,7 @@ add list=pwlgrzs-blacklist address=52.231.158.233
 add list=pwlgrzs-blacklist address=52.231.162.138
 add list=pwlgrzs-blacklist address=52.231.92.23
 add list=pwlgrzs-blacklist address=52.237.83.226
+add list=pwlgrzs-blacklist address=5.228.151.138
 add list=pwlgrzs-blacklist address=5.228.42.60
 add list=pwlgrzs-blacklist address=52.29.180.65
 add list=pwlgrzs-blacklist address=5.230.70.170
@@ -20034,6 +20001,7 @@ add list=pwlgrzs-blacklist address=5.251.209.80
 add list=pwlgrzs-blacklist address=5.251.53.126
 add list=pwlgrzs-blacklist address=5.251.58.137
 add list=pwlgrzs-blacklist address=5.252.178.210
+add list=pwlgrzs-blacklist address=5.252.193.222
 add list=pwlgrzs-blacklist address=52.53.154.9
 add list=pwlgrzs-blacklist address=5.255.100.219
 add list=pwlgrzs-blacklist address=5.255.100.243
@@ -20043,7 +20011,6 @@ add list=pwlgrzs-blacklist address=5.255.101.131
 add list=pwlgrzs-blacklist address=5.255.102.43
 add list=pwlgrzs-blacklist address=5.255.103.188
 add list=pwlgrzs-blacklist address=5.255.103.190
-add list=pwlgrzs-blacklist address=5.255.96.167
 add list=pwlgrzs-blacklist address=5.255.96.218
 add list=pwlgrzs-blacklist address=5.255.96.245
 add list=pwlgrzs-blacklist address=5.255.97.133
@@ -20087,7 +20054,6 @@ add list=pwlgrzs-blacklist address=54.174.70.136
 add list=pwlgrzs-blacklist address=54.188.196.67
 add list=pwlgrzs-blacklist address=54.191.122.129
 add list=pwlgrzs-blacklist address=54.202.73.26
-add list=pwlgrzs-blacklist address=54.210.207.36
 add list=pwlgrzs-blacklist address=54.212.72.30
 add list=pwlgrzs-blacklist address=54.221.145.123
 add list=pwlgrzs-blacklist address=54.241.60.222
@@ -20127,13 +20093,13 @@ add list=pwlgrzs-blacklist address=58.10.221.12
 add list=pwlgrzs-blacklist address=58.105.167.36
 add list=pwlgrzs-blacklist address=58.114.16.221
 add list=pwlgrzs-blacklist address=58.121.156.214
+add list=pwlgrzs-blacklist address=58.125.217.82
 add list=pwlgrzs-blacklist address=58.136.87.181
 add list=pwlgrzs-blacklist address=58.14.0.0/15
 add list=pwlgrzs-blacklist address=58.144.251.16
 add list=pwlgrzs-blacklist address=58.144.251.22
 add list=pwlgrzs-blacklist address=58.144.251.23
 add list=pwlgrzs-blacklist address=58.150.154.235
-add list=pwlgrzs-blacklist address=58.150.192.4
 add list=pwlgrzs-blacklist address=58.151.93.227
 add list=pwlgrzs-blacklist address=58.161.177.35
 add list=pwlgrzs-blacklist address=58.177.74.254
@@ -20182,7 +20148,6 @@ add list=pwlgrzs-blacklist address=58.27.95.2
 add list=pwlgrzs-blacklist address=58.33.31.82
 add list=pwlgrzs-blacklist address=58.33.97.230
 add list=pwlgrzs-blacklist address=58.34.180.42
-add list=pwlgrzs-blacklist address=58.34.189.28
 add list=pwlgrzs-blacklist address=58.34.36.194
 add list=pwlgrzs-blacklist address=58.35.53.74
 add list=pwlgrzs-blacklist address=58.37.229.228
@@ -20197,7 +20162,6 @@ add list=pwlgrzs-blacklist address=58.53.69.161
 add list=pwlgrzs-blacklist address=58.57.15.29
 add list=pwlgrzs-blacklist address=58.62.180.145
 add list=pwlgrzs-blacklist address=58.65.136.170
-add list=pwlgrzs-blacklist address=58.65.171.162
 add list=pwlgrzs-blacklist address=58.65.172.102
 add list=pwlgrzs-blacklist address=58.7.224.29
 add list=pwlgrzs-blacklist address=58.74.229.133
@@ -20207,7 +20171,6 @@ add list=pwlgrzs-blacklist address=58.82.170.106
 add list=pwlgrzs-blacklist address=58.97.53.38
 add list=pwlgrzs-blacklist address=5.90.109.17
 add list=pwlgrzs-blacklist address=5.90.109.64
-add list=pwlgrzs-blacklist address=5.90.204.209
 add list=pwlgrzs-blacklist address=5.90.35.202
 add list=pwlgrzs-blacklist address=5.90.68.41
 add list=pwlgrzs-blacklist address=5.90.99.182
@@ -20223,7 +20186,6 @@ add list=pwlgrzs-blacklist address=59.125.120.183
 add list=pwlgrzs-blacklist address=59.125.2.63
 add list=pwlgrzs-blacklist address=59.126.45.26
 add list=pwlgrzs-blacklist address=59.127.1.108
-add list=pwlgrzs-blacklist address=59.127.124.251
 add list=pwlgrzs-blacklist address=59.13.99.111
 add list=pwlgrzs-blacklist address=59.144.163.76
 add list=pwlgrzs-blacklist address=59.144.164.10
@@ -20232,8 +20194,7 @@ add list=pwlgrzs-blacklist address=59.144.164.44
 add list=pwlgrzs-blacklist address=59.144.165.45
 add list=pwlgrzs-blacklist address=59.144.166.143
 add list=pwlgrzs-blacklist address=59.144.166.208
-add list=pwlgrzs-blacklist address=59.144.166.45
-add list=pwlgrzs-blacklist address=59.144.167.169
+add list=pwlgrzs-blacklist address=59.144.166.60
 add list=pwlgrzs-blacklist address=59.144.169.242
 add list=pwlgrzs-blacklist address=59.144.169.9
 add list=pwlgrzs-blacklist address=59.144.170.107
@@ -20258,15 +20219,14 @@ add list=pwlgrzs-blacklist address=5.94.48.172
 add list=pwlgrzs-blacklist address=59.46.193.187
 add list=pwlgrzs-blacklist address=5.9.51.240
 add list=pwlgrzs-blacklist address=59.5.202.106
-add list=pwlgrzs-blacklist address=59.55.22.250
 add list=pwlgrzs-blacklist address=59.56.106.140
 add list=pwlgrzs-blacklist address=59.56.97.229
 add list=pwlgrzs-blacklist address=59.57.253.66
 add list=pwlgrzs-blacklist address=5.95.90.20
 add list=pwlgrzs-blacklist address=59.6.149.30
 add list=pwlgrzs-blacklist address=59.62.108.68
-add list=pwlgrzs-blacklist address=59.6.251.187
 add list=pwlgrzs-blacklist address=59.63.205.47
+add list=pwlgrzs-blacklist address=59.8.33.99
 add list=pwlgrzs-blacklist address=59.88.38.119
 add list=pwlgrzs-blacklist address=59.89.144.127
 add list=pwlgrzs-blacklist address=59.89.167.117
@@ -20277,6 +20237,7 @@ add list=pwlgrzs-blacklist address=59.99.135.25
 add list=pwlgrzs-blacklist address=59.99.41.178
 add list=pwlgrzs-blacklist address=60.108.9.205
 add list=pwlgrzs-blacklist address=60.13.7.27
+add list=pwlgrzs-blacklist address=60.162.163.36
 add list=pwlgrzs-blacklist address=60.164.48.27
 add list=pwlgrzs-blacklist address=60.165.254.155
 add list=pwlgrzs-blacklist address=60.165.54.65
@@ -20318,6 +20279,7 @@ add list=pwlgrzs-blacklist address=60.214.209.221
 add list=pwlgrzs-blacklist address=60.219.171.134
 add list=pwlgrzs-blacklist address=60.221.50.28
 add list=pwlgrzs-blacklist address=60.222.230.70
+add list=pwlgrzs-blacklist address=60.222.244.79
 add list=pwlgrzs-blacklist address=60.222.244.89
 add list=pwlgrzs-blacklist address=60.223.248.87
 add list=pwlgrzs-blacklist address=60.233.0.0/16
@@ -20379,7 +20341,6 @@ add list=pwlgrzs-blacklist address=61.220.35.117
 add list=pwlgrzs-blacklist address=61.2.243.112
 add list=pwlgrzs-blacklist address=61.228.144.211
 add list=pwlgrzs-blacklist address=61.228.165.159
-add list=pwlgrzs-blacklist address=61.230.168.186
 add list=pwlgrzs-blacklist address=61.230.56.147
 add list=pwlgrzs-blacklist address=61.238.97.66
 add list=pwlgrzs-blacklist address=61.244.16.2
@@ -20462,7 +20423,6 @@ add list=pwlgrzs-blacklist address=62.24.59.91
 add list=pwlgrzs-blacklist address=62.28.137.98
 add list=pwlgrzs-blacklist address=62.28.217.62
 add list=pwlgrzs-blacklist address=62.28.228.146
-add list=pwlgrzs-blacklist address=62.32.84.50
 add list=pwlgrzs-blacklist address=62.64.86.44
 add list=pwlgrzs-blacklist address=62.7.176.181
 add list=pwlgrzs-blacklist address=62.78.54.205
@@ -20515,6 +20475,7 @@ add list=pwlgrzs-blacklist address=64.225.40.218
 add list=pwlgrzs-blacklist address=64.225.52.206
 add list=pwlgrzs-blacklist address=64.225.53.163
 add list=pwlgrzs-blacklist address=64.225.58.159
+add list=pwlgrzs-blacklist address=64.227.0.234
 add list=pwlgrzs-blacklist address=64.227.105.120
 add list=pwlgrzs-blacklist address=64.227.121.15
 add list=pwlgrzs-blacklist address=64.227.122.198
@@ -20561,6 +20522,7 @@ add list=pwlgrzs-blacklist address=64.44.141.173
 add list=pwlgrzs-blacklist address=64.44.141.177
 add list=pwlgrzs-blacklist address=64.44.141.237
 add list=pwlgrzs-blacklist address=64.5.123.66
+add list=pwlgrzs-blacklist address=64.5.72.171
 add list=pwlgrzs-blacklist address=64.62.197.0/24
 add list=pwlgrzs-blacklist address=64.62.197.122
 add list=pwlgrzs-blacklist address=64.62.197.152
@@ -20599,7 +20561,6 @@ add list=pwlgrzs-blacklist address=66.128.251.148
 add list=pwlgrzs-blacklist address=66.128.39.76
 add list=pwlgrzs-blacklist address=66.138.188.133
 add list=pwlgrzs-blacklist address=66.146.193.33
-add list=pwlgrzs-blacklist address=66.168.120.112
 add list=pwlgrzs-blacklist address=66.168.224.58
 add list=pwlgrzs-blacklist address=66.168.47.194
 add list=pwlgrzs-blacklist address=66.169.242.209
@@ -20657,6 +20618,7 @@ add list=pwlgrzs-blacklist address=67.207.94.180
 add list=pwlgrzs-blacklist address=67.207.95.35
 add list=pwlgrzs-blacklist address=67.209.195.198
 add list=pwlgrzs-blacklist address=67.213.112.0/20
+add list=pwlgrzs-blacklist address=67.215.14.242
 add list=pwlgrzs-blacklist address=67.215.34.207
 add list=pwlgrzs-blacklist address=67.216.109.66
 add list=pwlgrzs-blacklist address=67.216.221.59
@@ -20671,7 +20633,6 @@ add list=pwlgrzs-blacklist address=67.6.42.207
 add list=pwlgrzs-blacklist address=67.7.57.140
 add list=pwlgrzs-blacklist address=67.82.105.251
 add list=pwlgrzs-blacklist address=68.101.213.33
-add list=pwlgrzs-blacklist address=68.102.243.52
 add list=pwlgrzs-blacklist address=68.113.88.170
 add list=pwlgrzs-blacklist address=68.114.48.249
 add list=pwlgrzs-blacklist address=68.116.41.2
@@ -20717,10 +20678,10 @@ add list=pwlgrzs-blacklist address=68.183.93.85
 add list=pwlgrzs-blacklist address=68.183.97.225
 add list=pwlgrzs-blacklist address=68.183.97.243
 add list=pwlgrzs-blacklist address=68.184.255.254
+add list=pwlgrzs-blacklist address=68.191.110.214
 add list=pwlgrzs-blacklist address=68.203.131.24
 add list=pwlgrzs-blacklist address=68.204.210.16
 add list=pwlgrzs-blacklist address=68.204.7.158
-add list=pwlgrzs-blacklist address=68.2.172.45
 add list=pwlgrzs-blacklist address=68.227.83.225
 add list=pwlgrzs-blacklist address=68.233.238.105
 add list=pwlgrzs-blacklist address=68.233.238.126
@@ -20729,7 +20690,6 @@ add list=pwlgrzs-blacklist address=68.60.77.128
 add list=pwlgrzs-blacklist address=68.66.48.0/20
 add list=pwlgrzs-blacklist address=69.11.170.94
 add list=pwlgrzs-blacklist address=69.14.172.24
-add list=pwlgrzs-blacklist address=69.147.213.150
 add list=pwlgrzs-blacklist address=69.163.186.158
 add list=pwlgrzs-blacklist address=69.163.192.25
 add list=pwlgrzs-blacklist address=69.163.241.92
@@ -20751,6 +20711,7 @@ add list=pwlgrzs-blacklist address=69.49.229.150
 add list=pwlgrzs-blacklist address=69.49.244.94
 add list=pwlgrzs-blacklist address=69.49.245.238
 add list=pwlgrzs-blacklist address=69.55.19.98
+add list=pwlgrzs-blacklist address=69.55.32.14
 add list=pwlgrzs-blacklist address=69.55.54.65
 add list=pwlgrzs-blacklist address=69.55.55.155
 add list=pwlgrzs-blacklist address=69.55.60.106
@@ -20763,12 +20724,13 @@ add list=pwlgrzs-blacklist address=69.84.245.8
 add list=pwlgrzs-blacklist address=69.8.64.0/20
 add list=pwlgrzs-blacklist address=69.8.96.0/20
 add list=pwlgrzs-blacklist address=69.92.172.111
+add list=pwlgrzs-blacklist address=70.113.201.122
 add list=pwlgrzs-blacklist address=70.118.12.146
 add list=pwlgrzs-blacklist address=70.119.128.3
 add list=pwlgrzs-blacklist address=70.120.7.64
 add list=pwlgrzs-blacklist address=70.126.201.205
+add list=pwlgrzs-blacklist address=70.16.146.53
 add list=pwlgrzs-blacklist address=70.173.117.74
-add list=pwlgrzs-blacklist address=70.181.124.215
 add list=pwlgrzs-blacklist address=70.44.38.158
 add list=pwlgrzs-blacklist address=70.46.220.114
 add list=pwlgrzs-blacklist address=70.51.135.90
@@ -20777,7 +20739,6 @@ add list=pwlgrzs-blacklist address=70.51.152.61
 add list=pwlgrzs-blacklist address=70.51.153.227
 add list=pwlgrzs-blacklist address=70.89.91.225
 add list=pwlgrzs-blacklist address=71.128.32.24
-add list=pwlgrzs-blacklist address=71.13.93.154
 add list=pwlgrzs-blacklist address=71.15.26.229
 add list=pwlgrzs-blacklist address=71.184.69.95
 add list=pwlgrzs-blacklist address=71.19.144.106
@@ -20796,11 +20757,9 @@ add list=pwlgrzs-blacklist address=71.6.199.23
 add list=pwlgrzs-blacklist address=71.64.28.128
 add list=pwlgrzs-blacklist address=71.79.182.233
 add list=pwlgrzs-blacklist address=71.80.99.103
-add list=pwlgrzs-blacklist address=71.8.179.156
 add list=pwlgrzs-blacklist address=71.84.234.194
 add list=pwlgrzs-blacklist address=71.88.0.35
 add list=pwlgrzs-blacklist address=71.92.52.123
-add list=pwlgrzs-blacklist address=72.1.112.12
 add list=pwlgrzs-blacklist address=72.12.115.71
 add list=pwlgrzs-blacklist address=72.134.126.49
 add list=pwlgrzs-blacklist address=72.138.11.198
@@ -20809,6 +20768,7 @@ add list=pwlgrzs-blacklist address=72.14.179.10
 add list=pwlgrzs-blacklist address=72.167.222.172
 add list=pwlgrzs-blacklist address=72.167.34.14
 add list=pwlgrzs-blacklist address=72.167.41.167
+add list=pwlgrzs-blacklist address=72.167.42.59
 add list=pwlgrzs-blacklist address=72.167.44.18
 add list=pwlgrzs-blacklist address=72.167.55.58
 add list=pwlgrzs-blacklist address=72.174.41.18
@@ -20816,6 +20776,7 @@ add list=pwlgrzs-blacklist address=72.17.90.246
 add list=pwlgrzs-blacklist address=72.184.139.6
 add list=pwlgrzs-blacklist address=72.187.220.54
 add list=pwlgrzs-blacklist address=72.189.127.157
+add list=pwlgrzs-blacklist address=72.215.48.69
 add list=pwlgrzs-blacklist address=72.240.125.133
 add list=pwlgrzs-blacklist address=72.249.236.228
 add list=pwlgrzs-blacklist address=72.250.17.151
@@ -20889,7 +20850,6 @@ add list=pwlgrzs-blacklist address=75.129.39.36
 add list=pwlgrzs-blacklist address=75.130.48.82
 add list=pwlgrzs-blacklist address=75.131.53.34
 add list=pwlgrzs-blacklist address=75.132.197.58
-add list=pwlgrzs-blacklist address=75.138.179.218
 add list=pwlgrzs-blacklist address=75.149.48.196
 add list=pwlgrzs-blacklist address=75.70.42.28
 add list=pwlgrzs-blacklist address=75.84.35.73
@@ -20899,7 +20859,9 @@ add list=pwlgrzs-blacklist address=76.14.78.132
 add list=pwlgrzs-blacklist address=76.16.64.176
 add list=pwlgrzs-blacklist address=76.167.151.236
 add list=pwlgrzs-blacklist address=76.168.101.172
+add list=pwlgrzs-blacklist address=76.169.34.146
 add list=pwlgrzs-blacklist address=76.171.119.147
+add list=pwlgrzs-blacklist address=76.179.162.204
 add list=pwlgrzs-blacklist address=76.191.0.0/20
 add list=pwlgrzs-blacklist address=76.193.127.158
 add list=pwlgrzs-blacklist address=76.23.237.163
@@ -20948,7 +20910,6 @@ add list=pwlgrzs-blacklist address=77.40.23.211
 add list=pwlgrzs-blacklist address=77.40.3.112
 add list=pwlgrzs-blacklist address=77.40.3.223
 add list=pwlgrzs-blacklist address=77.40.35.139
-add list=pwlgrzs-blacklist address=77.40.3.57
 add list=pwlgrzs-blacklist address=77.40.3.77
 add list=pwlgrzs-blacklist address=77.40.46.115
 add list=pwlgrzs-blacklist address=77.40.61.163
@@ -20960,7 +20921,6 @@ add list=pwlgrzs-blacklist address=77.40.79.30
 add list=pwlgrzs-blacklist address=77.40.86.209
 add list=pwlgrzs-blacklist address=77.40.99.164
 add list=pwlgrzs-blacklist address=77.44.110.101
-add list=pwlgrzs-blacklist address=77.54.161.217
 add list=pwlgrzs-blacklist address=77.54.209.109
 add list=pwlgrzs-blacklist address=77.55.214.228
 add list=pwlgrzs-blacklist address=77.65.215.10
@@ -20971,7 +20931,6 @@ add list=pwlgrzs-blacklist address=77.81.86.0/24
 add list=pwlgrzs-blacklist address=77.81.89.0/24
 add list=pwlgrzs-blacklist address=77.81.90.0/23
 add list=pwlgrzs-blacklist address=77.82.90.234
-add list=pwlgrzs-blacklist address=77.85.138.8
 add list=pwlgrzs-blacklist address=77.86.38.164
 add list=pwlgrzs-blacklist address=77.91.73.207
 add list=pwlgrzs-blacklist address=77.91.84.138
@@ -20981,7 +20940,6 @@ add list=pwlgrzs-blacklist address=78.100.235.8
 add list=pwlgrzs-blacklist address=78.101.84.56
 add list=pwlgrzs-blacklist address=78.10.90.79
 add list=pwlgrzs-blacklist address=78.110.77.195
-add list=pwlgrzs-blacklist address=78.126.30.114
 add list=pwlgrzs-blacklist address=78.128.113.0/24
 add list=pwlgrzs-blacklist address=78.129.132.73
 add list=pwlgrzs-blacklist address=78.130.128.106
@@ -20996,7 +20954,6 @@ add list=pwlgrzs-blacklist address=78.180.86.123
 add list=pwlgrzs-blacklist address=78.183.159.152
 add list=pwlgrzs-blacklist address=78.184.40.147
 add list=pwlgrzs-blacklist address=78.186.52.129
-add list=pwlgrzs-blacklist address=78.188.61.243
 add list=pwlgrzs-blacklist address=78.189.137.18
 add list=pwlgrzs-blacklist address=78.189.14.39
 add list=pwlgrzs-blacklist address=78.189.167.247
@@ -21032,6 +20989,7 @@ add list=pwlgrzs-blacklist address=79.129.121.68
 add list=pwlgrzs-blacklist address=79.129.206.144
 add list=pwlgrzs-blacklist address=79.129.29.237
 add list=pwlgrzs-blacklist address=79.136.1.46
+add list=pwlgrzs-blacklist address=79.137.141.196
 add list=pwlgrzs-blacklist address=79.137.91.115
 add list=pwlgrzs-blacklist address=79.152.236.60
 add list=pwlgrzs-blacklist address=79.155.11.171
@@ -21083,7 +21041,6 @@ add list=pwlgrzs-blacklist address=80.213.255.47
 add list=pwlgrzs-blacklist address=80.22.101.74
 add list=pwlgrzs-blacklist address=80.241.209.240
 add list=pwlgrzs-blacklist address=80.241.60.207
-add list=pwlgrzs-blacklist address=80.245.104.143
 add list=pwlgrzs-blacklist address=80.250.165.190
 add list=pwlgrzs-blacklist address=80.251.219.111
 add list=pwlgrzs-blacklist address=80.28.4.87
@@ -21097,7 +21054,6 @@ add list=pwlgrzs-blacklist address=80.66.64.0/24
 add list=pwlgrzs-blacklist address=80.66.66.31
 add list=pwlgrzs-blacklist address=80.67.167.81
 add list=pwlgrzs-blacklist address=80.67.172.162
-add list=pwlgrzs-blacklist address=80.72.28.2
 add list=pwlgrzs-blacklist address=80.78.27.121
 add list=pwlgrzs-blacklist address=80.78.27.155
 add list=pwlgrzs-blacklist address=80.78.27.19
@@ -21105,12 +21061,9 @@ add list=pwlgrzs-blacklist address=80.82.45.115
 add list=pwlgrzs-blacklist address=80.82.45.179
 add list=pwlgrzs-blacklist address=80.82.78.13
 add list=pwlgrzs-blacklist address=80.87.201.61
-add list=pwlgrzs-blacklist address=80.89.209.169
 add list=pwlgrzs-blacklist address=80.94.192.3
-add list=pwlgrzs-blacklist address=80.94.192.4
 add list=pwlgrzs-blacklist address=80.94.92.47
 add list=pwlgrzs-blacklist address=80.98.74.47
-add list=pwlgrzs-blacklist address=81.11.155.69
 add list=pwlgrzs-blacklist address=81.1.219.10
 add list=pwlgrzs-blacklist address=81.129.112.49
 add list=pwlgrzs-blacklist address=81.131.176.33
@@ -21177,6 +21130,7 @@ add list=pwlgrzs-blacklist address=82.102.157.161
 add list=pwlgrzs-blacklist address=82.102.164.123
 add list=pwlgrzs-blacklist address=82.113.121.169
 add list=pwlgrzs-blacklist address=82.113.98.30
+add list=pwlgrzs-blacklist address=82.114.233.117
 add list=pwlgrzs-blacklist address=82.118.253.153
 add list=pwlgrzs-blacklist address=8.212.145.166
 add list=pwlgrzs-blacklist address=82.130.209.51
@@ -21194,7 +21148,6 @@ add list=pwlgrzs-blacklist address=82.165.145.100
 add list=pwlgrzs-blacklist address=82.165.184.76
 add list=pwlgrzs-blacklist address=82.165.52.170
 add list=pwlgrzs-blacklist address=82.18.101.79
-add list=pwlgrzs-blacklist address=82.184.40.154
 add list=pwlgrzs-blacklist address=8.218.49.112
 add list=pwlgrzs-blacklist address=82.193.115.234
 add list=pwlgrzs-blacklist address=82.196.121.24
@@ -21243,6 +21196,7 @@ add list=pwlgrzs-blacklist address=82.65.211.222
 add list=pwlgrzs-blacklist address=82.65.232.134
 add list=pwlgrzs-blacklist address=82.65.23.62
 add list=pwlgrzs-blacklist address=82.65.239.16
+add list=pwlgrzs-blacklist address=82.65.33.144
 add list=pwlgrzs-blacklist address=82.66.11.211
 add list=pwlgrzs-blacklist address=82.66.30.151
 add list=pwlgrzs-blacklist address=82.66.53.144
@@ -21268,7 +21222,6 @@ add list=pwlgrzs-blacklist address=83.137.158.13
 add list=pwlgrzs-blacklist address=83.137.158.14
 add list=pwlgrzs-blacklist address=83.137.158.4
 add list=pwlgrzs-blacklist address=83.137.158.5
-add list=pwlgrzs-blacklist address=83.137.158.6
 add list=pwlgrzs-blacklist address=83.137.158.8
 add list=pwlgrzs-blacklist address=83.137.158.9
 add list=pwlgrzs-blacklist address=83.14.124.25
@@ -21302,7 +21255,6 @@ add list=pwlgrzs-blacklist address=83.79.122.192
 add list=pwlgrzs-blacklist address=83.8.115.232
 add list=pwlgrzs-blacklist address=83.8.159.209
 add list=pwlgrzs-blacklist address=8.38.172.77
-add list=pwlgrzs-blacklist address=8.38.172.87
 add list=pwlgrzs-blacklist address=83.8.183.183
 add list=pwlgrzs-blacklist address=83.96.213.63
 add list=pwlgrzs-blacklist address=83.97.200.27
@@ -21310,6 +21262,7 @@ add list=pwlgrzs-blacklist address=83.97.20.151
 add list=pwlgrzs-blacklist address=83.97.20.189
 add list=pwlgrzs-blacklist address=84.0.204.242
 add list=pwlgrzs-blacklist address=84.10.132.3
+add list=pwlgrzs-blacklist address=84.118.76.177
 add list=pwlgrzs-blacklist address=84.121.59.55
 add list=pwlgrzs-blacklist address=84.122.178.78
 add list=pwlgrzs-blacklist address=84.137.235.80
@@ -21343,7 +21296,6 @@ add list=pwlgrzs-blacklist address=84.238.43.174
 add list=pwlgrzs-blacklist address=84.239.46.7
 add list=pwlgrzs-blacklist address=84.242.64.78
 add list=pwlgrzs-blacklist address=84.243.15.203
-add list=pwlgrzs-blacklist address=84.244.7.161
 add list=pwlgrzs-blacklist address=84.245.9.118
 add list=pwlgrzs-blacklist address=84.247.50.180
 add list=pwlgrzs-blacklist address=84.255.249.179
@@ -21353,15 +21305,12 @@ add list=pwlgrzs-blacklist address=84.48.72.87
 add list=pwlgrzs-blacklist address=8.45.41.77
 add list=pwlgrzs-blacklist address=84.54.74.130
 add list=pwlgrzs-blacklist address=84.55.94.118
-add list=pwlgrzs-blacklist address=84.62.155.168
-add list=pwlgrzs-blacklist address=84.62.16.242
 add list=pwlgrzs-blacklist address=84.73.128.226
 add list=pwlgrzs-blacklist address=84.77.64.124
 add list=pwlgrzs-blacklist address=84.78.130.53
 add list=pwlgrzs-blacklist address=84.93.153.9
 add list=pwlgrzs-blacklist address=85.105.23.244
 add list=pwlgrzs-blacklist address=85.105.80.94
-add list=pwlgrzs-blacklist address=85.105.82.146
 add list=pwlgrzs-blacklist address=85.105.82.39
 add list=pwlgrzs-blacklist address=85.105.83.71
 add list=pwlgrzs-blacklist address=85.107.161.25
@@ -21395,10 +21344,11 @@ add list=pwlgrzs-blacklist address=85.202.169.29
 add list=pwlgrzs-blacklist address=85.202.169.35
 add list=pwlgrzs-blacklist address=85.202.169.58
 add list=pwlgrzs-blacklist address=85.202.169.72
-add list=pwlgrzs-blacklist address=85.202.169.81
 add list=pwlgrzs-blacklist address=85.204.116.204
 add list=pwlgrzs-blacklist address=85.204.116.56
 add list=pwlgrzs-blacklist address=85.209.4.0/22
+add list=pwlgrzs-blacklist address=85.212.220.193
+add list=pwlgrzs-blacklist address=85.214.91.8
 add list=pwlgrzs-blacklist address=85.22.12.47
 add list=pwlgrzs-blacklist address=85.239.34.103
 add list=pwlgrzs-blacklist address=85.240.82.108
@@ -21451,6 +21401,7 @@ add list=pwlgrzs-blacklist address=86.122.26.34
 add list=pwlgrzs-blacklist address=86.127.162.161
 add list=pwlgrzs-blacklist address=86.132.13.91
 add list=pwlgrzs-blacklist address=86.139.249.149
+add list=pwlgrzs-blacklist address=86.163.137.91
 add list=pwlgrzs-blacklist address=86.163.183.72
 add list=pwlgrzs-blacklist address=86.164.17.162
 add list=pwlgrzs-blacklist address=86.190.159.132
@@ -21510,11 +21461,13 @@ add list=pwlgrzs-blacklist address=87.3.31.210
 add list=pwlgrzs-blacklist address=87.4.22.60
 add list=pwlgrzs-blacklist address=87.5.40.26
 add list=pwlgrzs-blacklist address=87.62.99.122
+add list=pwlgrzs-blacklist address=87.65.203.65
 add list=pwlgrzs-blacklist address=87.68.160.39
 add list=pwlgrzs-blacklist address=87.79.64.34
 add list=pwlgrzs-blacklist address=88.0.233.33
 add list=pwlgrzs-blacklist address=88.103.121.209
 add list=pwlgrzs-blacklist address=88.103.125.246
+add list=pwlgrzs-blacklist address=88.103.230.12
 add list=pwlgrzs-blacklist address=88.114.5.249
 add list=pwlgrzs-blacklist address=88.11.52.24
 add list=pwlgrzs-blacklist address=88.116.2.22
@@ -21542,6 +21495,7 @@ add list=pwlgrzs-blacklist address=88.247.152.160
 add list=pwlgrzs-blacklist address=88.247.238.248
 add list=pwlgrzs-blacklist address=88.248.250.143
 add list=pwlgrzs-blacklist address=88.254.83.111
+add list=pwlgrzs-blacklist address=88.27.185.241
 add list=pwlgrzs-blacklist address=88.32.80.10
 add list=pwlgrzs-blacklist address=88.3.51.22
 add list=pwlgrzs-blacklist address=88.39.236.240
@@ -21557,6 +21511,7 @@ add list=pwlgrzs-blacklist address=89.101.97.139
 add list=pwlgrzs-blacklist address=89.104.110.129
 add list=pwlgrzs-blacklist address=89.104.111.69
 add list=pwlgrzs-blacklist address=89.104.111.96
+add list=pwlgrzs-blacklist address=89.114.156.23
 add list=pwlgrzs-blacklist address=89.114.2.240
 add list=pwlgrzs-blacklist address=89.116.129.192
 add list=pwlgrzs-blacklist address=89.133.95.225
@@ -21579,6 +21534,7 @@ add list=pwlgrzs-blacklist address=89.211.209.105
 add list=pwlgrzs-blacklist address=89.212.123.191
 add list=pwlgrzs-blacklist address=89.212.4.252
 add list=pwlgrzs-blacklist address=89.22.165.187
+add list=pwlgrzs-blacklist address=89.222.203.200
 add list=pwlgrzs-blacklist address=89.22.67.66
 add list=pwlgrzs-blacklist address=8.9.231.152
 add list=pwlgrzs-blacklist address=8.9.231.17
@@ -21678,8 +21634,6 @@ add list=pwlgrzs-blacklist address=90.126.180.242
 add list=pwlgrzs-blacklist address=90.156.169.8
 add list=pwlgrzs-blacklist address=90.160.105.186
 add list=pwlgrzs-blacklist address=90.160.139.163
-add list=pwlgrzs-blacklist address=90.160.140.35
-add list=pwlgrzs-blacklist address=90.160.140.68
 add list=pwlgrzs-blacklist address=90.170.163.129
 add list=pwlgrzs-blacklist address=90.176.158.210
 add list=pwlgrzs-blacklist address=90.176.240.32
@@ -21690,10 +21644,10 @@ add list=pwlgrzs-blacklist address=90.29.102.131
 add list=pwlgrzs-blacklist address=90.49.205.111
 add list=pwlgrzs-blacklist address=90.63.199.195
 add list=pwlgrzs-blacklist address=90.70.174.121
+add list=pwlgrzs-blacklist address=90.84.188.65
 add list=pwlgrzs-blacklist address=90.95.156.229
 add list=pwlgrzs-blacklist address=91.109.206.103
 add list=pwlgrzs-blacklist address=91.112.27.162
-add list=pwlgrzs-blacklist address=91.116.42.132
 add list=pwlgrzs-blacklist address=91.121.134.180
 add list=pwlgrzs-blacklist address=91.121.146.47
 add list=pwlgrzs-blacklist address=91.122.137.170
@@ -21706,6 +21660,7 @@ add list=pwlgrzs-blacklist address=91.139.89.216
 add list=pwlgrzs-blacklist address=91.140.245.11
 add list=pwlgrzs-blacklist address=91.148.144.101
 add list=pwlgrzs-blacklist address=91.149.225.172
+add list=pwlgrzs-blacklist address=91.151.195.150
 add list=pwlgrzs-blacklist address=91.160.151.223
 add list=pwlgrzs-blacklist address=91.160.19.34
 add list=pwlgrzs-blacklist address=91.16.144.19
@@ -21804,12 +21759,14 @@ add list=pwlgrzs-blacklist address=92.204.160.92
 add list=pwlgrzs-blacklist address=92.222.171.6
 add list=pwlgrzs-blacklist address=92.241.17.112
 add list=pwlgrzs-blacklist address=92.241.18.110
+add list=pwlgrzs-blacklist address=92.246.149.109
 add list=pwlgrzs-blacklist address=92.246.84.133
 add list=pwlgrzs-blacklist address=92.248.32.155
 add list=pwlgrzs-blacklist address=92.255.85.131
 add list=pwlgrzs-blacklist address=92.255.85.135
 add list=pwlgrzs-blacklist address=92.255.85.237
 add list=pwlgrzs-blacklist address=92.33.199.83
+add list=pwlgrzs-blacklist address=92.33.206.244
 add list=pwlgrzs-blacklist address=92.35.66.155
 add list=pwlgrzs-blacklist address=92.36.132.30
 add list=pwlgrzs-blacklist address=92.36.183.77
@@ -21841,6 +21798,7 @@ add list=pwlgrzs-blacklist address=93.114.54.0/24
 add list=pwlgrzs-blacklist address=93.114.58.0/23
 add list=pwlgrzs-blacklist address=93.114.60.0/22
 add list=pwlgrzs-blacklist address=93.115.59.0/24
+add list=pwlgrzs-blacklist address=93.116.247.68
 add list=pwlgrzs-blacklist address=93.119.118.0/23
 add list=pwlgrzs-blacklist address=93.119.120.0/23
 add list=pwlgrzs-blacklist address=93.119.124.0/23
@@ -21942,7 +21900,6 @@ add list=pwlgrzs-blacklist address=95.110.160.239
 add list=pwlgrzs-blacklist address=95.112.104.207
 add list=pwlgrzs-blacklist address=95.112.211.170
 add list=pwlgrzs-blacklist address=95.112.83.183
-add list=pwlgrzs-blacklist address=95.116.11.120
 add list=pwlgrzs-blacklist address=95.121.139.139
 add list=pwlgrzs-blacklist address=95.12.16.233
 add list=pwlgrzs-blacklist address=95.128.43.164
@@ -22261,7 +22218,6 @@ add list=pwlgrzs-blacklist address=95.79.31.128
 add list=pwlgrzs-blacklist address=95.80.131.242
 add list=pwlgrzs-blacklist address=95.84.240.168
 add list=pwlgrzs-blacklist address=95.90.110.204
-add list=pwlgrzs-blacklist address=95.90.152.136
 add list=pwlgrzs-blacklist address=95.90.154.223
 add list=pwlgrzs-blacklist address=95.90.163.96
 add list=pwlgrzs-blacklist address=95.90.194.222
@@ -22293,6 +22249,8 @@ add list=pwlgrzs-blacklist address=96.78.175.37
 add list=pwlgrzs-blacklist address=96.79.228.114
 add list=pwlgrzs-blacklist address=96.89.27.149
 add list=pwlgrzs-blacklist address=96.90.255.190
+add list=pwlgrzs-blacklist address=96.93.196.89
+add list=pwlgrzs-blacklist address=96.9.92.60
 add list=pwlgrzs-blacklist address=97.107.134.115
 add list=pwlgrzs-blacklist address=97.74.229.113
 add list=pwlgrzs-blacklist address=97.74.81.203
@@ -22309,6 +22267,7 @@ add list=pwlgrzs-blacklist address=98.143.104.196
 add list=pwlgrzs-blacklist address=98.143.104.197
 add list=pwlgrzs-blacklist address=98.143.104.199
 add list=pwlgrzs-blacklist address=98.143.104.200
+add list=pwlgrzs-blacklist address=98.148.3.61
 add list=pwlgrzs-blacklist address=98.17.53.232
 add list=pwlgrzs-blacklist address=98.185.116.42
 add list=pwlgrzs-blacklist address=98.185.234.173
