@@ -1,4 +1,4 @@
-# Generated at Thu 04 Aug 2022 09:07:40 PM UTC
+# Generated at Fri 05 Aug 2022 12:13:10 AM UTC
 /ip firewall address-list
 add list=pwlgrzs-blacklist address=100.1.167.124
 add list=pwlgrzs-blacklist address=100.12.133.226
